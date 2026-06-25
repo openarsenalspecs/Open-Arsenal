@@ -74,7 +74,7 @@ All Open Arsenal specifications are released under the GNU Affero General Public
 
 - **AI and the Automobile**  
 [https://github.com/openarsenalspecs/AI-and-the-Automobile](https://github.com/openarsenalspecs/AI-and-the-Automobile)  
-- **Blockchain**
+- **Blockchain**  
 [https://github.com/openarsenalspecs/Blockchain](https://github.com/openarsenalspecs/Blockchain)
 
 ## License & Notice Requirements
