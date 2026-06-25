@@ -90,12 +90,14 @@ All Open Arsenal specifications are released under the GNU Affero General Public
 [https://github.com/openarsenalspecs/Simulations](https://github.com/openarsenalspecs/Simulations)
 - **SaaS**  
 [https://github.com/openarsenalspecs/SaaS](https://github.com/openarsenalspecs/SaaS)
+- **Transparency**  
+[https://github.com/openarsenalspecs/Transparency](https://github.com/openarsenalspecs/Transparency)  
 
 ---
 
 ## License & Notice Requirements
 
-Open Aresenal specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
+Open Aresenal Transparency specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
 By contributing to any Open Arsenal project, you agree that your contributions will also be released under this license.
 
 Please note the following:
