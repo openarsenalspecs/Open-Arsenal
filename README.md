@@ -85,7 +85,7 @@ All Open Arsenal specifications are released under the GNU Affero General Public
 [https://github.com/openarsenalspecs/Real-Estate](https://github.com/openarsenalspecs/Real-Estate)
 - **Wiki**  
 [https://github.com/openarsenalspecs/Wiki](https://github.com/openarsenalspecs/Wiki)
-- **Voice**
+- **Voice**  
 [https://github.com/openarsenalspecs/Voice](https://github.com/openarsenalspecs/Voice)
 
 
