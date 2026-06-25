@@ -70,7 +70,6 @@ All Open Arsenal specifications are released under the GNU Affero General Public
   [https://roxanneardary.com/wiki/](https://roxanneardary.com/wiki/)  
   Open knowledge and documentation systems, often with AI enhancements for better information flow and accessibility. Supports collaborative editing and structured knowledge sharing.
 
-
 ---
 
 ##  Open Arsenal Specification Repos
@@ -87,7 +86,8 @@ All Open Arsenal specifications are released under the GNU Affero General Public
 [https://github.com/openarsenalspecs/Wiki](https://github.com/openarsenalspecs/Wiki)
 - **Voice**  
 [https://github.com/openarsenalspecs/Voice](https://github.com/openarsenalspecs/Voice)
-
+- **Simulations**
+[https://github.com/openarsenalspecs/Simulations](https://github.com/openarsenalspecs/Simulations)  
 
 ---
 
