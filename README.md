@@ -86,7 +86,7 @@ All Open Arsenal specifications are released under the GNU Affero General Public
 [https://github.com/openarsenalspecs/Wiki](https://github.com/openarsenalspecs/Wiki)
 - **Voice**  
 [https://github.com/openarsenalspecs/Voice](https://github.com/openarsenalspecs/Voice)
-- **Simulations**
+- **Simulations**  
 [https://github.com/openarsenalspecs/Simulations](https://github.com/openarsenalspecs/Simulations)  
 
 ---
