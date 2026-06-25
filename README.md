@@ -70,6 +70,12 @@ All Open Arsenal specifications are released under the GNU Affero General Public
   [https://roxanneardary.com/wiki/](https://roxanneardary.com/wiki/)  
   Open knowledge and documentation systems, often with AI enhancements for better information flow and accessibility. Supports collaborative editing and structured knowledge sharing.
 
+##  Open Arsenal Specification Repos
+
+- **AI and the Automobile**  
+[https://github.com/openarsenalspecs/AI-and-the-Automobile](https://github.com/openarsenalspecs/AI-and-the-Automobile)  
+- 
+
 ## License & Notice Requirements
 
 Open Aresenal specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
