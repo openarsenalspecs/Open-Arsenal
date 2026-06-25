@@ -81,6 +81,8 @@ All Open Arsenal specifications are released under the GNU Affero General Public
 [https://github.com/openarsenalspecs/AI-Infrastructure](https://github.com/openarsenalspecs/AI-Infrastructure)
 - **Blockchain**  
 [https://github.com/openarsenalspecs/Blockchain](https://github.com/openarsenalspecs/Blockchain)
+- **Real Estate**
+[https://github.com/openarsenalspecs/Real-Estate](https://github.com/openarsenalspecs/Real-Estate)
 
 
 ---
