@@ -92,9 +92,9 @@ All Open Arsenal specifications are released under the GNU Affero General Public
 [https://github.com/openarsenalspecs/SaaS](https://github.com/openarsenalspecs/SaaS)
 - **Transparency**  
 [https://github.com/openarsenalspecs/Transparency](https://github.com/openarsenalspecs/Transparency)
-- **Energy**
+- **Energy**  
 [https://github.com/openarsenalspecs/Energy](https://github.com/openarsenalspecs/Energy)
-- **Video**
+- **Video**  
 [https://github.com/openarsenalspecs/Video](https://github.com/openarsenalspecs/Video)  
 
 ---
