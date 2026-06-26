@@ -68,7 +68,7 @@ All Open Arsenal specifications are released under the GNU Affero General Public
 
 - **Wiki**  
   [https://roxanneardary.com/wiki/](https://roxanneardary.com/wiki/)  
-  Open knowledge and documentation systems, often with AI enhancements for better information flow and accessibility. Supports collaborative editing and structured knowledge sharing.
+  Open knowledge and documentation systems, often with AI enhancements for better information flow and accessibility. Supports collaborative editing and structured knowledge sharing.  
 
 ---
 
@@ -103,7 +103,9 @@ All Open Arsenal specifications are released under the GNU Affero General Public
 - **Monetization**  
 [https://github.com/openarsenalspecs/Monetization](https://github.com/openarsenalspecs/Monetization)
 - **Hardware**  
-[https://github.com/openarsenalspecs/Hardware](https://github.com/openarsenalspecs/Hardware)  
+[https://github.com/openarsenalspecs/Hardware](https://github.com/openarsenalspecs/Hardware)
+- **Internet of Things**  
+[https://github.com/openarsenalspecs/IoT](https://github.com/openarsenalspecs/IoT)  
 
 ---
 
