@@ -97,7 +97,9 @@ All Open Arsenal specifications are released under the GNU Affero General Public
 - **Video**  
 [https://github.com/openarsenalspecs/Video](https://github.com/openarsenalspecs/Video)
 - **Security**  
-[https://github.com/openarsenalspecs/Security](https://github.com/openarsenalspecs/Security)  
+[https://github.com/openarsenalspecs/Security](https://github.com/openarsenalspecs/Security)
+- **Digital Finance**  
+[https://github.com/openarsenalspecs/Digital-Finance](https://github.com/openarsenalspecs/Digital-Finance)
 
 ---
 
