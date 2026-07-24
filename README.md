@@ -485,22 +485,27 @@ Commercial extensions
 Open-Arsenal-Index/
 
 - Categories/
-    - AI Infrastructure Specifications/
-    - Automotive Specifications/
-    - Blockchain Specifications/
-    - Civic Technology Specifications/
-    - Digital Finance Specifications/
-    - Hardware Specifications/
-    - Human in the Loop Specifications/
-    - Internet of Things Specifications/
-    - Monetization Specifications/
-    - SaaS – Software as a Service Specifications/
-    - Simulations Specifications/
-    - Transparency Specifications/
-    - Video Specifications/
-    - Virtual Reality Specifications/
-    - Voice Specifications/
-    -Wiki Specifications/
+    - [AI Infrastructure Specifications/](https://github.com/openarsenalspecs/AI-Infrastructure)  
+    - [AI and the Automobile Specifications/](https://github.com/openarsenalspecs/AI-and-the-Automobile)  
+    - [Blockchain Specifications/](https://github.com/openarsenalspecs/Blockchain)  
+    - [Civic Technology Specifications/](https://github.com/openarsenalspecs/Civic-Tech)
+    - [Digital Finance Specifications/](https://github.com/openarsenalspecs/Digital-Finance)  
+    - [Energy Specifications/](https://github.com/openarsenalspecs/Energy)  
+    - [Hardware Specifications/](https://github.com/openarsenalspecs/Hardware)
+    - [Health Specifications/](https://github.com/openarsenalspecs/Health)  
+    - [Human in the Loop Specifications/](https://github.com/openarsenalspecs/Human-in-the-Loop)  
+    - [Internet of Things Specifications/](https://github.com/openarsenalspecs/IoT)
+    - [Legal Specifications/](https://github.com/openarsenalspecs/Legal)  
+    - [Monetization Specifications/](https://github.com/openarsenalspecs/Monetization)
+    - [Real Estate Specifications/](https://github.com/openarsenalspecs/Real-Estate)
+    - [SaaS – Software as a Service Specifications/](https://github.com/openarsenalspecs/SaaS)
+    - [Security Specifications/](https://github.com/openarsenalspecs/Security)  
+    - [Simulations Specifications/](https://github.com/openarsenalspecs/Simulations)  
+    - [Transparency Specifications/](https://github.com/openarsenalspecs/Transparency)  
+    - [Video Specifications/](https://github.com/openarsenalspecs/Video)  
+    - [Virtual Reality Specifications/](https://github.com/openarsenalspecs/Virtual-Reality)
+    - [Voice Specifications/](https://github.com/openarsenalspecs/Voice)  
+    - [Wiki Specifications/](https://github.com/openarsenalspecs/Wiki)
 - Components/
 - Shared/
 - Templates/
