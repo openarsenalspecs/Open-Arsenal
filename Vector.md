@@ -24,7 +24,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 - **RAGBase**  
  [https://roxanneardary.com/ragbase/](https://roxanneardary.com/ragbase/)  
-  Schema-enforced framework for Retrieval-Augmented Generation pipelines. Supports interchangeable embedding models, vector databases, chunking systems, and retrieval components with modular architecture and validation.
+RAGBase is a schema-enforced infrastructure framework for building modular Retrieval-Augmented Generation (RAG) systems with explicit specifications, interchangeable components, and a built-in spec hygiene layer that validates every stage of the pipeline. It supports multiple retrieval strategies, versioned modules, drift detection, schema validation, compatibility checking, and production-ready AI workflows designed for reliable, reproducible, and scalable retrieval systems.
 
 - **GeoListing**  
  [https://roxanneardary.com/geolisting/](https://roxanneardary.com/geolisting/)  
