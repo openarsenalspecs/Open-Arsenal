@@ -516,7 +516,8 @@ Open-Arsenal-Index/
 - Sections/
     - [Aeropspace](https://github.com/openarsenalspecs/Open-Arsenal/blob/133c119c64aae6e144ad7e8820cf66fc2ceb16ba/Aerospace.md)
     - [Agriculture](https://github.com/openarsenalspecs/Open-Arsenal/blob/6f811ff0a3a1678283d8335cd9131e175e7659db/Agriculture.md)  
-    - [AI Retrieval](https://github.com/openarsenalspecs/Open-Arsenal/blob/4c6987d7c06e3882aabe50aa7ae9906ec4036103/AI%20Retrieval.md)  
+    - [AI Retrieval](https://github.com/openarsenalspecs/Open-Arsenal/blob/4c6987d7c06e3882aabe50aa7ae9906ec4036103/AI%20Retrieval.md)
+    - [CyberSecurity](https://github.com/openarsenalspecs/Open-Arsenal/blob/8b73b6b34052be369fdf0220450d3178e123d23c/Cybersecurity.md)  
     - [Multi-Agent Systems](https://github.com/openarsenalspecs/Open-Arsenal/blob/84362c30689428657ae4c5a5d0edc2a2de46b79b/Multi-Agent%20Systems.md)  
     - [Vector](https://github.com/openarsenalspecs/Open-Arsenal/blob/84362c30689428657ae4c5a5d0edc2a2de46b79b/Vector.md)  
 
