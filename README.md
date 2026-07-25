@@ -514,6 +514,7 @@ Open-Arsenal-Index/
 - Registry/
 - Metadata/
 - Sections/
+    - [Aeropspace](https://github.com/openarsenalspecs/Open-Arsenal/blob/133c119c64aae6e144ad7e8820cf66fc2ceb16ba/Aerospace.md)  
     - [Multi-Agent Systems](https://github.com/openarsenalspecs/Open-Arsenal/blob/84362c30689428657ae4c5a5d0edc2a2de46b79b/Multi-Agent%20Systems.md)  
     - [Vector](https://github.com/openarsenalspecs/Open-Arsenal/blob/84362c30689428657ae4c5a5d0edc2a2de46b79b/Vector.md)  
 
