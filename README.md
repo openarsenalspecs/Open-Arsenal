@@ -518,6 +518,7 @@ Open-Arsenal-Index/
     - [Agriculture](https://github.com/openarsenalspecs/Open-Arsenal/blob/6f811ff0a3a1678283d8335cd9131e175e7659db/Agriculture.md)  
     - [AI Retrieval](https://github.com/openarsenalspecs/Open-Arsenal/blob/4c6987d7c06e3882aabe50aa7ae9906ec4036103/AI%20Retrieval.md)
     - [CyberSecurity](https://github.com/openarsenalspecs/Open-Arsenal/blob/8b73b6b34052be369fdf0220450d3178e123d23c/Cybersecurity.md)
+    - [Education](https://github.com/openarsenalspecs/Open-Arsenal/blob/1988118f38cb8bec1f73cda40425100b748b2f80/Education.md)  
     - [Games](https://github.com/openarsenalspecs/Open-Arsenal/blob/bde35251b12caa1957507f0d326146b5e97cbd30/Games.md)  
     - [Multi-Agent Systems](https://github.com/openarsenalspecs/Open-Arsenal/blob/84362c30689428657ae4c5a5d0edc2a2de46b79b/Multi-Agent%20Systems.md)
     - [Psychology](https://github.com/openarsenalspecs/Open-Arsenal/blob/9c842eba34a6f897654f025f951a37e6f8bc00e7/Psychology.md)  
