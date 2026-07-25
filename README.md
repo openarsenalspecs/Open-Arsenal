@@ -526,7 +526,7 @@ Open-Arsenal-Index/
 
 ---
 
-# Future Modules
+## Future Modules
 
 Possible future specifications include
 
@@ -543,7 +543,7 @@ Possible future specifications include
 
 ---
 
-# Benefits
+## Benefits
 
 - Consistent organization
 - Highly modular architecture
