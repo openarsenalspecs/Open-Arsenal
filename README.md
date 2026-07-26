@@ -257,14 +257,10 @@ Required fields
 # Dependency Model
 
 Specifications declare:
-
-Internal Components
-
-External Components
-
-Optional Components
-
-Required Components
+- Internal Components
+- External Components
+- Optional Components
+- Required Components
 
 Dependencies should remain minimal to preserve modularity.
 
@@ -275,18 +271,12 @@ Dependencies should remain minimal to preserve modularity.
 Frequently used AI components may exist as shared modules.
 
 Examples
-
-Common Prompt Engine
-
-Common RAG Engine
-
-Common Authentication
-
-Common Audit Engine
-
-Common Logging
-
-Common Notification Service
+- Common Prompt Engine
+- Common RAG Engine
+- Common Authentication
+- Common Audit Engine
+- Common Logging
+- Common Notification Service
 
 Specifications reference shared modules instead of duplicating functionality.
 
@@ -295,164 +285,103 @@ Specifications reference shared modules instead of duplicating functionality.
 # Component Interfaces
 
 Each AI component should define
-
-Purpose
-
-Responsibilities
-
-Inputs
-
-Outputs
-
-Configuration
-
-Extension points
-
-Dependencies
-
-Performance expectations
-
-Security considerations
-
-Testing requirements
-
-Version history
+- Purpose
+- Responsibilities
+- Inputs
+- Outputs
+- Configuration
+- Extension points
+- Dependencies
+- Performance expectations
+- Security considerations
+- Testing requirements
+- Version history
 
 ---
 
 # Category Registry
 
 Each category includes
-
-Description
-
-Maintainer
-
-Specification count
-
-Tags
-
-Status
-
-Last Updated
-
-Version
+- Description
+- Maintainer
+- Specification count
+- Tags
+- Status
+- Last Updated
+- Version
 
 ---
 
 # Specification Registry
 
 Each specification contains
-
-Overview
-
-Purpose
-
-Features
-
-Architecture
-
-AI Components
-
-Dependencies
-
-Supported Categories
-
-Roadmap
-
-Documentation
-
-Examples
-
-License
-
-Version
+- Overview
+- Purpose
+- Features
+- Architecture
+- AI Components
+- Dependencies
+- Supported Categories
+- Roadmap
+- Documentation
+- Examples
+- License
+- Version
 
 ---
 
 # AI Component Registry
 
 Each component includes
-
-Overview
-
-Responsibilities
-
-Interfaces
-
-Configuration
-
-Dependencies
-
-Security
-
-Performance
-
-Extensibility
-
-Testing
-
-Compatibility
-
-Version
+- Overview
+- Responsibilities
+- Interfaces
+- Configuration
+- Dependencies
+- Security
+- Performance
+- Extensibility
+- Testing
+- Compatibility
+- Version
 
 ---
 
 # Search Requirements
 
 The index should support searching by
-
-Category
-
-Specification
-
-AI Component
-
-Industry
-
-Keyword
-
-Tags
-
-License
-
-Version
-
-Maintainer
-
-Dependencies
-
-Capabilities
-
-Model Compatibility
+- Category
+- Specification
+- AI Component
+- Industry
+- Keyword
+- Tags
+- License
+- Version
+- Maintainer
+- Dependencies
+- Capabilities
+- Model Compatibility
 
 ---
 
 # Versioning
 
 Categories
-
-Major
-
-Minor
-
-Patch
+- Major
+- Minor
+- Patch
 
 Specifications
-
-Major
-
-Minor
-
-Patch
+- Major
+- Minor
+- Patch
 
 Components
 
-Major
-
-Minor
-
-Patch
+- Major
+- Minor
+- Patch
 
 Each evolves independently.
 
@@ -461,22 +390,14 @@ Each evolves independently.
 # Extensibility
 
 The architecture supports
-
-Unlimited categories
-
-Unlimited specifications
-
-Unlimited AI components
-
-Custom component types
-
-Third-party specifications
-
-Community modules
-
-Private modules
-
-Commercial extensions
+- Unlimited categories
+- Unlimited specifications
+- Unlimited AI components
+- Custom component types
+- Third-party specifications
+- Community modules
+- Private modules
+- Commercial extensions
 
 ---
 
@@ -493,7 +414,8 @@ Open-Arsenal-Index/
     - [Energy Specifications/](https://github.com/openarsenalspecs/Energy)  
     - [Hardware Specifications/](https://github.com/openarsenalspecs/Hardware)
     - [Health Specifications/](https://github.com/openarsenalspecs/Health)  
-    - [Human in the Loop Specifications/](https://github.com/openarsenalspecs/Human-in-the-Loop)  
+    - [Human in the Loop Specifications/](https://github.com/openarsenalspecs/Human-in-the-Loop)
+    - [Intellectual Property Specifications/](https://github.com/openarsenalspecs/Intellectual-Property)  
     - [Internet of Things Specifications/](https://github.com/openarsenalspecs/IoT)
     - [Legal Specifications/](https://github.com/openarsenalspecs/Legal)  
     - [Monetization Specifications/](https://github.com/openarsenalspecs/Monetization)
