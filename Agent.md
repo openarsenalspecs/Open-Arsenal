@@ -57,7 +57,7 @@ A governance-first AI architecture that organizes intelligence systems into modu
 An interoperability layer enabling AI agents and intelligent systems to communicate across different platforms, models, services, and environments.
 
 - **PublicStack AI**  
-[https://roxanneardary.com/publicstack-ai/](https://roxanneardary.com/publicstack-ai/)  
+[https://roxanneardary.com/publicstackai/](https://roxanneardary.com/publicstackai/)  
 An AI infrastructure specification focused on discovering, evaluating, and assembling open technology components. It supports AI agents that research, analyze, and construct software stacks.
 
 - **RAGBase**  
