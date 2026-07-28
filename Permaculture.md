@@ -8,37 +8,37 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 # Permaculture Specs  
 
-- **Plantellect**  
-  [https://roxanneardary.com/plantellect/](https://roxanneardary.com/plantellect/)  
-  AI-powered permaculture companion for plant identification and sustainable gardening. Guides regenerative garden design, climate-viable crops, small-space permaculture techniques, soil regeneration, and food security in urban/food desert environments.
-
-- **HarvestIQ**  
-  [https://roxanneardary.com/harvestiq/](https://roxanneardary.com/harvestiq/)  
-  AI-driven land optimization platform for maximizing property use in farming and sustainability. Uses geospatial analysis, zoning, and simulation for efficient food production layouts and growing strategies.
-
-- **YieldStack**  
-  [https://roxanneardary.com/yieldstack/](https://roxanneardary.com/yieldstack/)  
-  Modular AI agricultural intelligence platform for precision farming. Optimizes water, nitrogen, crop yields, soil health, and sustainability with real-time data and recommendations.
+- **Beekeeper’s Guide to the Universe**  
+  [https://roxanneardary.com/beekeepers-guide-to-the-universe/](https://roxanneardary.com/beekeepers-guide-to-the-universe/)  
+  AI-powered platform for pollinator ecosystem design and management. Integrates bee biology, habitat engineering, climate modeling, and plant forage to support growing systems.
 
 - **FarmLedger**  
   [https://roxanneardary.com/farmledger/](https://roxanneardary.com/farmledger/)  
   Farm management platform with AI forecasting, inventory, and commerce tools supporting crop and livestock growing operations.
 
+- **HarvestIQ**  
+  [https://roxanneardary.com/harvestiq/](https://roxanneardary.com/harvestiq/)  
+  AI-driven land optimization platform for maximizing property use in farming and sustainability. Uses geospatial analysis, zoning, and simulation for efficient food production layouts and growing strategies.
+
 - **Heirloom Haven**  
   [https://roxanneardary.com/heirloom-haven/](https://roxanneardary.com/heirloom-haven/)  
   Seed exchange platform for preserving and sharing heirloom, native, and non-GMO seeds. Supports community catalogs, biodiversity, and education for resilient growing.
 
-- **Beekeeper’s Guide to the Universe**  
-  [https://roxanneardary.com/beekeepers-guide-to-the-universe/](https://roxanneardary.com/beekeepers-guide-to-the-universe/)  
-  AI-powered platform for pollinator ecosystem design and management. Integrates bee biology, habitat engineering, climate modeling, and plant forage to support growing systems.
+- **LocaleMaterials**  
+  [https://roxanneardary.com/localematerials/](https://roxanneardary.com/localematerials/)  
+  AI platform recommending regenerative, locally sourced building materials based on regional soil, climate, and agricultural outputs/byproducts.
+
+- **Plantellect**  
+  [https://roxanneardary.com/plantellect/](https://roxanneardary.com/plantellect/)  
+  AI-powered permaculture companion for plant identification and sustainable gardening. Guides regenerative garden design, climate-viable crops, small-space permaculture techniques, soil regeneration, and food security in urban/food desert environments.
 
 - **Resource Atlas**  
   [https://roxanneardary.com/resource-atlas/](https://roxanneardary.com/resource-atlas/)  
   Resource mapping platform for agricultural assets and food security. Supports planning for vertical farming, urban agriculture, and regional growing self-sufficiency.
 
-- **LocaleMaterials**  
-  [https://roxanneardary.com/localematerials/](https://roxanneardary.com/localematerials/)  
-  AI platform recommending regenerative, locally sourced building materials based on regional soil, climate, and agricultural outputs/byproducts.
+- **YieldStack**  
+  [https://roxanneardary.com/yieldstack/](https://roxanneardary.com/yieldstack/)  
+  Modular AI agricultural intelligence platform for precision farming. Optimizes water, nitrogen, crop yields, soil health, and sustainability with real-time data and recommendations.
 
 ---
 
