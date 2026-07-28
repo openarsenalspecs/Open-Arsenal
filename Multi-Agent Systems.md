@@ -40,6 +40,10 @@ FieldCell Systems is an open-source engineering platform for designing modular h
 [https://roxanneardary.com/fluxgridinfrastructure/](https://roxanneardary.com/fluxgridinfrastructure/)  
 FluxGrid Infrastructure is an open-source wireless EV charging platform that transforms parking surfaces into intelligent energy systems, enabling autonomous vehicles to charge without cables through inductive power transfer, thermal stabilization, and smart grid coordination. It combines AI-driven energy management, safety intelligence, fleet optimization, predictive maintenance, and vehicle-to-grid capabilities to create a scalable foundation for autonomous transportation and accessible mobility.
 
+- [**Horizon Framework Module Specification**](https://github.com/openarsenalspecs/Virtual-Reality/blob/07349aaed20f585647509a1fc5c91c8223388ed8/Horizon%20Framework.md)    
+[https://roxanneardary.com/horizon-framework/](https://roxanneardary.com/horizon-framework/)  
+Horizon Framework is an open, modular AI architecture specification that provides a scalable foundation for building intelligent systems with advanced memory, retrieval, reasoning, verification, and multi-agent capabilities. Designed for any industry and deployment environment, it enables organizations to create adaptable, transparent, and trustworthy AI infrastructure without vendor lock-in.  
+
 - **MachinaCore**  
 [https://www.roxanneardary.com/machinacore/](https://www.roxanneardary.com/machinacore/)  
 MachinaCore is an open-source autonomous engineering intelligence specification that enables software systems to build, test, deploy, and continuously improve through multi-agent collaboration, simulation, knowledge awareness, and self-evolving workflows. Its features include autonomous engineering, configurable intelligence profiles, lineage tracking, digital twins, failure intelligence, compliance systems, and adaptive learning designed to create software that grows over time.
