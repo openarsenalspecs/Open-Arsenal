@@ -8,7 +8,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 # Permaculture Specs  
 
-- **Beekeeper’s Guide to the Universe**  
+- [**Beekeeper’s Guide to the Universe Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/9b4aa54a5c033eed6e2ef688ad654d0f95b0d398/Beekeeper's%20Guide%20to%20the%20Universe.md)    
   [https://roxanneardary.com/beekeepers-guide-to-the-universe/](https://roxanneardary.com/beekeepers-guide-to-the-universe/)  
   AI-powered platform for pollinator ecosystem design and management. Integrates bee biology, habitat engineering, climate modeling, and plant forage to support growing systems.
 
