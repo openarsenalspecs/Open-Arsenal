@@ -8,21 +8,9 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 ## Agricultural Specifications
 
-- **YieldStack**  
-  [https://roxanneardary.com/yieldstack/](https://roxanneardary.com/yieldstack/)  
-  YieldStack is an open-source agricultural intelligence platform that uses modular AI systems for precision farming. It optimizes water and nitrogen use, crop yields, soil health, and sustainability with real-time data and explainable recommendations.
-
-- **FarmWeb Intelligence**  
-  [https://roxanneardary.com/farmweb-intelligence/](https://roxanneardary.com/farmweb-intelligence/)  
-  FarmWeb Intelligence is an open-source platform that maps farms, ownership structures, public funding, and public records. It creates a transparent network revealing connections in agricultural systems and resource distribution.
-
-- **Plantellect**  
-  [https://roxanneardary.com/plantellect/](https://roxanneardary.com/plantellect/)  
-  Plantellect is an AI-powered permaculture companion for plant identification and sustainable gardening. It guides users in creating regenerative gardens, especially in urban or food desert environments.
-
-- **FarmLedger**  
-  [https://roxanneardary.com/farmledger/](https://roxanneardary.com/farmledger/)  
-  FarmLedger is an open-source platform for farms featuring AI forecasting, inventory management, and direct-to-consumer commerce. It supports pre-orders, livestock, crops, and secure transactions.
+- **Beekeeper’s Guide to the Universe**  
+  [https://roxanneardary.com/beekeepers-guide-to-the-universe/](https://roxanneardary.com/beekeepers-guide-to-the-universe/)  
+  Beekeeper’s Guide to the Universe is an AI-powered platform for pollinator ecosystem design and management. It integrates bee biology, habitat engineering, climate modeling, and visual analysis.  
 
 - **HarvestIQ**  
   [https://roxanneardary.com/harvestiq/](https://roxanneardary.com/harvestiq/)  
@@ -32,21 +20,33 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/heirloom-haven/](https://roxanneardary.com/heirloom-haven/)  
   Heirloom Haven is an open-source seed exchange platform for preserving heirloom, native, and non-GMO seeds. It enables community sharing, catalogs, and education to support biodiversity.
 
+- **FarmWeb Intelligence**  
+  [https://roxanneardary.com/farmweb-intelligence/](https://roxanneardary.com/farmweb-intelligence/)  
+  FarmWeb Intelligence is an open-source platform that maps farms, ownership structures, public funding, and public records. It creates a transparent network revealing connections in agricultural systems and resource distribution.
+
+- **FarmLedger**  
+  [https://roxanneardary.com/farmledger/](https://roxanneardary.com/farmledger/)  
+  FarmLedger is an open-source platform for farms featuring AI forecasting, inventory management, and direct-to-consumer commerce. It supports pre-orders, livestock, crops, and secure transactions.
+
 - **FoodLab**  
   [https://roxanneardary.com/foodlab/](https://roxanneardary.com/foodlab/)  
   FoodLab is an open-source transparency database for food brands, chemicals, studies, and legislation. It provides traceable, evidence-based insights into food safety and supply chains.
 
-- **Beekeeper’s Guide to the Universe**  
-  [https://roxanneardary.com/beekeepers-guide-to-the-universe/](https://roxanneardary.com/beekeepers-guide-to-the-universe/)  
-  Beekeeper’s Guide to the Universe is an AI-powered platform for pollinator ecosystem design and management. It integrates bee biology, habitat engineering, climate modeling, and visual analysis.
+- **LocaleMaterials**  
+  [https://roxanneardary.com/localematerials/](https://roxanneardary.com/localematerials/)  
+  LocaleMaterials recommends regenerative building materials based on regional soil, climate, and agricultural outputs. It promotes locally sourced, climate-adaptive construction.
+
+- **Plantellect**  
+  [https://roxanneardary.com/plantellect/](https://roxanneardary.com/plantellect/)  
+  Plantellect is an AI-powered permaculture companion for plant identification and sustainable gardening. It guides users in creating regenerative gardens, especially in urban or food desert environments.
 
 - **Resource Atlas**  
   [https://roxanneardary.com/resource-atlas/](https://roxanneardary.com/resource-atlas/)  
   Resource Atlas is an open-source intelligence platform for mapping resources including agricultural assets and food security solutions. It supports planning for vertical farming, urban agriculture, and regional self-sufficiency.
 
-- **LocaleMaterials**  
-  [https://roxanneardary.com/localematerials/](https://roxanneardary.com/localematerials/)  
-  LocaleMaterials recommends regenerative building materials based on regional soil, climate, and agricultural outputs. It promotes locally sourced, climate-adaptive construction.
+- **YieldStack**  
+  [https://roxanneardary.com/yieldstack/](https://roxanneardary.com/yieldstack/)  
+  YieldStack is an open-source agricultural intelligence platform that uses modular AI systems for precision farming. It optimizes water and nitrogen use, crop yields, soil health, and sustainability with real-time data and explainable recommendations.
 
 ---
 
