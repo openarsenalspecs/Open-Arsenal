@@ -9,68 +9,55 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 - **Aurea**  
   https://roxanneardary.com/aurea/  
-
-  Aurea is an open-source AI-powered security tool designed for infrastructure-as-code environments like Terraform, Kubernetes, Docker, and Ansible. It autonomously detects and repairs malicious code, breaches, backdoors, and malware while providing predictive intelligence, automated remediation, and self-healing capabilities for proactive defense.
-
-- **CyberChimera**  
-  https://roxanneardary.com/cyberchimera/  
-
-  CyberChimera is a next-generation autonomous cybersecurity intelligence platform using multi-agent AI for reconnaissance, vulnerability assessment, exploitation simulation, and reporting. It supports coordinated offensive and defensive operations in secure, sandboxed environments with features like attack mapping, risk scoring, and extensibility.
-
-- **ShieldGrid**  
-  https://roxanneardary.com/shieldgrid/  
-
-  ShieldGrid is an open-source AI cybersecurity platform that leverages a network of devices to create a unified, self-updating defense system. It provides real-time protection against vulnerabilities, malware, and digital threats through collective intelligence and automated updates.
-
-- **Nexora**  
-  https://roxanneardary.com/nexora/  
-
-  Nexora is an AI-driven enterprise endpoint governance and security intelligence system that monitors software usage and enforces policy-based risk classification. It generates structured, auditable security insights for visibility and control over endpoints.
-
-- **Keyra**  
-  https://roxanneardary.com/keyra/  
-
-  Keyra is an open-source, quantum-safe authentication platform that replaces passwords with cryptographic key-based security and zero-knowledge methods. It emphasizes device-bound keys, post-quantum algorithms, and hardware-backed protection for secure login systems.
-
-- **VigilQuantum**  
-  https://roxanneardary.com/vigilquantum/  
-
-  VigilQuantum is a next-generation quantum operating system featuring autonomous self-healing AI and predictive cybersecurity. It incorporates post-quantum encryption and real-time resilience enhancements for advanced system protection.
+Aurea is an open-source AI-powered security tool designed for infrastructure-as-code environments like Terraform, Kubernetes, Docker, and Ansible. It autonomously detects and repairs malicious code, breaches, backdoors, and malware while providing predictive intelligence, automated remediation, and self-healing capabilities for proactive defense.
 
 - **Authensia**  
   https://roxanneardary.com/authensia/  
+Authensia is an open-source systemic file storage platform focused on immutable verification, cryptographic hashing, and authorship proof. It prioritizes end-to-end encryption, zero-knowledge privacy, and tamper detection for secure, long-term data ownership.
 
-  Authensia is an open-source systemic file storage platform focused on immutable verification, cryptographic hashing, and authorship proof. It prioritizes end-to-end encryption, zero-knowledge privacy, and tamper detection for secure, long-term data ownership.
+- **CyberChimera**  
+  https://roxanneardary.com/cyberchimera/  
+CyberChimera is a next-generation autonomous cybersecurity intelligence platform using multi-agent AI for reconnaissance, vulnerability assessment, exploitation simulation, and reporting. It supports coordinated offensive and defensive operations in secure, sandboxed environments with features like attack mapping, risk scoring, and extensibility.
 
-- **SafeForge**  
-  https://roxanneardary.com/safeforge/  
+- **Keyra**  
+  https://roxanneardary.com/keyra/  
+Keyra is an open-source, quantum-safe authentication platform that replaces passwords with cryptographic key-based security and zero-knowledge methods. It emphasizes device-bound keys, post-quantum algorithms, and hardware-backed protection for secure login systems.
+ 
+- [**MeshCore Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/96b853bee94fa23e97706363e6aeaf0116274ba8/MeshCore.md)    
+https://roxanneardary.com/meshcore/  
+MeshCore offers privacy-first, modular infrastructure for secure digital identity management across devices. It emphasizes decentralized and protected identity handling.
 
-  SafeForge is an open-source, AI-powered secure mobile app hub for uploading, sharing, and verifying applications. It uses encrypted data, sandboxing, and automated malware detection to ensure safe distribution and privacy.
-
-- **Sentryx**  
-  https://roxanneardary.com/sentryx/  
-
-  Sentryx is a modular, open-source cloud backup and data protection system with end-to-end encryption and distributed storage. It includes optional AI-assisted intelligence for secure, scalable data management and recovery.
-
-- **QuantumSanctum**  
-  https://roxanneardary.com/quantumsanctum/  
-
-  QuantumSanctum is a human-centric, end-to-end encrypted digital ecosystem unifying secure storage, AI collaboration, and privacy-first computing. It provides a comprehensive open-source platform for protected digital interactions.
+- **Nexora**  
+  https://roxanneardary.com/nexora/  
+Nexora is an AI-driven enterprise endpoint governance and security intelligence system that monitors software usage and enforces policy-based risk classification. It generates structured, auditable security insights for visibility and control over endpoints.
 
 - **PrivyKey**  
   https://roxanneardary.com/privykey/  
-
-  PrivyKey is an open-source, privacy-first encrypted authentication app that generates secure 2FA codes. It stores all secrets locally in a zero-knowledge, fully encrypted vault.
-
-- **MeshCore**  
-  https://roxanneardary.com/meshcore/  
-
-  MeshCore offers privacy-first, modular infrastructure for secure digital identity management across devices. It emphasizes decentralized and protected identity handling.
+PrivyKey is an open-source, privacy-first encrypted authentication app that generates secure 2FA codes. It stores all secrets locally in a zero-knowledge, fully encrypted vault.
 
 - **PublicSafe**  
-  https://roxanneardary.com/publicsafe/  
+https://roxanneardary.com/publicsafe/  
+PublicSafe is an open-source browser extension that protects user privacy by encrypting sensitive data locally before online transmission. It acts as a client-side safeguard against data exposure.
 
-  PublicSafe is an open-source browser extension that protects user privacy by encrypting sensitive data locally before online transmission. It acts as a client-side safeguard against data exposure.
+- **QuantumSanctum**  
+  https://roxanneardary.com/quantumsanctum/  
+QuantumSanctum is a human-centric, end-to-end encrypted digital ecosystem unifying secure storage, AI collaboration, and privacy-first computing. It provides a comprehensive open-source platform for protected digital interactions. 
+
+- **SafeForge**  
+  https://roxanneardary.com/safeforge/  
+SafeForge is an open-source, AI-powered secure mobile app hub for uploading, sharing, and verifying applications. It uses encrypted data, sandboxing, and automated malware detection to ensure safe distribution and privacy.
+
+- **Sentryx**  
+  https://roxanneardary.com/sentryx/  
+Sentryx is a modular, open-source cloud backup and data protection system with end-to-end encryption and distributed storage. It includes optional AI-assisted intelligence for secure, scalable data management and recovery.
+
+- **ShieldGrid**  
+  https://roxanneardary.com/shieldgrid/  
+ShieldGrid is an open-source AI cybersecurity platform that leverages a network of devices to create a unified, self-updating defense system. It provides real-time protection against vulnerabilities, malware, and digital threats through collective intelligence and automated updates.
+
+- **VigilQuantum**  
+  https://roxanneardary.com/vigilquantum/  
+VigilQuantum is a next-generation quantum operating system featuring autonomous self-healing AI and predictive cybersecurity. It incorporates post-quantum encryption and real-time resilience enhancements for advanced system protection.
 
 ---
 
