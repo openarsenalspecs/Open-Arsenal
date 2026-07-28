@@ -32,6 +32,10 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/resource-atlas/](https://roxanneardary.com/resource-atlas/)  
   Resource mapping platform for agricultural assets and food security. Supports planning for vertical farming, urban agriculture, and regional growing self-sufficiency.
 
+- [**TerraGuild AI Module Specification**](https://github.com/openarsenalspecs/IoT/blob/490a2c1e1c607a3f961000edfb53abbd7d5d2641/TerraGuild%20AI.md)  
+  [https://roxanneardary.com/terraguild-ai/](https://roxanneardary.com/terraguild-ai/)  
+  TerraGuild AI is a modular artificial intelligence specification for designing regenerative food forests, permaculture landscapes, and sustainable ecosystems using generative AI, botanical intelligence, and ecological modeling. It enables intelligent landscape planning through land analysis, plant relationship mapping, seasonal recommendations, natural pest management, and long-term ecosystem simulation to help create abundant, resilient food systems.
+
 - **YieldStack**  
   [https://roxanneardary.com/yieldstack/](https://roxanneardary.com/yieldstack/)  
   Modular AI agricultural intelligence platform for precision farming. Optimizes water, nitrogen, crop yields, soil health, and sustainability with real-time data and recommendations.
