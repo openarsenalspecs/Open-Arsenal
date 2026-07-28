@@ -8,41 +8,45 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 ## Education Specs 
 
-- **Mindora**  
-  [https://roxanneardary.com/mindora/](https://roxanneardary.com/mindora/)  
-  Open-source AI tutor and adaptive educational platform delivering personalized, source-verified lessons across all subjects. Features dynamic pacing, interactive visualizations, simulations, assessments, critical thinking exercises, and real-world contextual connections. Scales from early education through advanced study.
-
-- **OriginType**  
-  [https://roxanneardary.com/origintype/](https://roxanneardary.com/origintype/)  
-  AI handwriting education platform and tutor teaching print, cursive, signature development, and typography through adaptive lessons, intelligent handwriting analysis, and printable worksheets. Progresses learners from handwriting fundamentals to digital font design.
-
-- **OpenCareerForecast**  
-  [https://roxanneardary.com/opencareerforecast/](https://roxanneardary.com/opencareerforecast/)  
-  AGPL-3.0+ career intelligence platform analyzing education costs, student debt, ROI, cost of living, wages, industry trends, and future projections. Helps students evaluate colleges, trade schools, apprenticeships, certifications, and career paths.
-
-- **StructIQ**  
-  [https://roxanneardary.com/structiq/](https://roxanneardary.com/structiq/)  
-  AI-assisted structural engineering platform with education and training modes, digital twins, simulations, and visualization tools. Designed to make engineering education more accessible through guided learning, experimentation, and failure analysis.
+- **BeautifAI**  
+  [https://roxanneardary.com/beautifai/](https://roxanneardary.com/beautifai/)  
+  AI-driven beauty education platform combining computer vision with practical learning. Provides personalized recommendations, virtual try-on experiences, and step-by-step tutorials for makeup, hairstyling, and personal presentation.
 
 - **CNC Companion**  
   [https://roxanneardary.com/cnc-companion/](https://roxanneardary.com/cnc-companion/)  
   AI-powered tutor for apprentice machinists and CNC training. Provides step-by-step guidance, real-time feedback through vision and sensors, adaptive lessons, skill tracking, simulations, gamification, and community collaboration.
 
+- **Continuum Companion**  
+  [https://roxanneardary.com/continuum-companion/](https://roxanneardary.com/continuum-companion/)  
+  Locally hosted AI wellness and research platform with source-backed educational tools. Integrates knowledge traditions for exploratory learning, research archiving, and reflective wellness education alongside professional guidance.
+
 - **LibreSpaceflight**  
   [https://roxanneardary.com/librespaceflight/](https://roxanneardary.com/librespaceflight/)  
   Open platform for democratizing spaceflight knowledge. Converts aerospace concepts into interactive, testable simulations for active learning, teaching orbital mechanics, robotics, spacecraft systems, and engineering principles.
 
-- **BeautifAI**  
-  [https://roxanneardary.com/beautifai/](https://roxanneardary.com/beautifai/)  
-  AI-driven beauty education platform combining computer vision with practical learning. Provides personalized recommendations, virtual try-on experiences, and step-by-step tutorials for makeup, hairstyling, and personal presentation.
+- **Mindora**  
+  [https://roxanneardary.com/mindora/](https://roxanneardary.com/mindora/)  
+  Open-source AI tutor and adaptive educational platform delivering personalized, source-verified lessons across all subjects. Features dynamic pacing, interactive visualizations, simulations, assessments, critical thinking exercises, and real-world contextual connections. Scales from early education through advanced study.
 
 - **MotionNet**  
   [https://roxanneardary.com/motionnet/](https://roxanneardary.com/motionnet/)  
-  AI system for generating real-time ballroom dance choreography from music. Includes instructional breakdowns, visual learning aids, adaptive practice tools, and community-driven learning for dancers of all skill levels.
+  AI system for generating real-time ballroom dance choreography from music. Includes instructional breakdowns, visual learning aids, adaptive practice tools, and community-driven learning for dancers of all skill levels.  
 
-- **Continuum Companion**  
-  [https://roxanneardary.com/continuum-companion/](https://roxanneardary.com/continuum-companion/)  
-  Locally hosted AI wellness and research platform with source-backed educational tools. Integrates knowledge traditions for exploratory learning, research archiving, and reflective wellness education alongside professional guidance.
+- [**OmniScientia Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/129f7c81ab9e306f9a2c8c753447777a8f40e806/OmniScientia.md)    
+[https://roxanneardary.com/omniscientia/](https://roxanneardary.com/omniscientia/)  
+OmniScientia is a modular AI framework for scientific discovery that combines adaptive learning, safe experimentation, simulation, and verified research across all fields of science. It empowers learners to explore nature through curiosity, evidence, and AI-guided discovery from microscopic systems to ecosystems and beyond.  
+
+- **OpenCareerForecast**  
+  [https://roxanneardary.com/opencareerforecast/](https://roxanneardary.com/opencareerforecast/)  
+  AGPL-3.0+ career intelligence platform analyzing education costs, student debt, ROI, cost of living, wages, industry trends, and future projections. Helps students evaluate colleges, trade schools, apprenticeships, certifications, and career paths.
+
+- **OriginType**  
+  [https://roxanneardary.com/origintype/](https://roxanneardary.com/origintype/)  
+  AI handwriting education platform and tutor teaching print, cursive, signature development, and typography through adaptive lessons, intelligent handwriting analysis, and printable worksheets. Progresses learners from handwriting fundamentals to digital font design.
+
+- **StructIQ**  
+  [https://roxanneardary.com/structiq/](https://roxanneardary.com/structiq/)  
+  AI-assisted structural engineering platform with education and training modes, digital twins, simulations, and visualization tools. Designed to make engineering education more accessible through guided learning, experimentation, and failure analysis.  
 
 ---
 
