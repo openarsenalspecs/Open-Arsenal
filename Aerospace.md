@@ -8,23 +8,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 - **AstraForge**  
 [https://roxanneardary.com/astraforge/](https://roxanneardary.com/astraforge/)  
-AstraForge is an open-source mission control and orchestration platform designed to coordinate complex systems, automated workflows, and operational environments. It provides a flexible foundation for building, managing, and scaling autonomous missions through modular tools, intelligent control layers, and interoperable components.  
-
-- **LibreOrbit**  
-[https://roxanneardary.com/libreorbit/](https://roxanneardary.com/libreorbit/)  
-LibreOrbit is an open-source, modular satellite networking operating system designed to connect satellites, ground stations, sensors, and edge devices through open and interoperable space infrastructure. Built with a flexible plugin architecture, LibreOrbit supports satellite communications, mission operations, data exchange, autonomous systems, and future space networks.
-
-- **LibreSpaceflight**  
-  [https://roxanneardary.com/librespaceflight/](https://roxanneardary.com/librespaceflight/)  
-  LibreSpaceflight is an open-source platform for simulating spacecraft docking, orbital mechanics, mission planning, and autonomous space operations. It makes spaceflight science accessible by integrating realistic physics, spacecraft design with precise mass distribution and thruster configurations, orbital transfers using real astrodynamics, and AI experimentation for docking and navigation.
-
-- **Reality Pass**  
-  [https://roxanneardary.com/reality-pass/](https://roxanneardary.com/reality-pass/)  
-  Reality Pass is an open-source, physics-accurate, AI-assisted space simulation platform for designing, testing, and experiencing spacecraft systems before real-world construction. It enforces real physical laws with immersive VR, collaborative multi-role modes, and deterministic simulation of orbital behavior, structural stress, and mission outcomes.
-
-- **OrbitReasoning Core**  
-  [https://roxanneardary.com/orbitreasoning-core/](https://roxanneardary.com/orbitreasoning-core/)  
-  OrbitReasoning Core is an AGPL 3.0+ autonomous AI Network Operations Center for managing complex networks of satellites, spacecraft, and high-altitude systems through simulation-first intelligence. It computes probable outcomes across simulated futures, detects anomalies, and supports governed autonomy with full traceability for orbital operations.
+AstraForge is an open-source mission control and orchestration platform designed to coordinate complex systems, automated workflows, and operational environments. It provides a flexible foundation for building, managing, and scaling autonomous missions through modular tools, intelligent control layers, and interoperable components.
 
 - **DesignFlux**  
   [https://roxanneardary.com/designflux/](https://roxanneardary.com/designflux/)  
@@ -34,17 +18,33 @@ LibreOrbit is an open-source, modular satellite networking operating system desi
   [https://roxanneardary.com/flightdynamics/](https://roxanneardary.com/flightdynamics/)  
   FlightDynamics is an open, AI-native specification for modular, local-first launch planning, mission engineering, and orbital operations across the full mission lifecycle. It defines interoperable standards for modeling, simulation, optimization, digital twins, and AI-assisted decision support for satellites to mega-constellations.
 
-- **Separation Engine**  
-  [https://roxanneardary.com/separationengine/](https://roxanneardary.com/separationengine/)  
-  Separation Engine is an open-source AGPL 3.0+ airspace computation platform that uses predictive AI, physics-based trajectory modeling, and real-time environmental analysis to mathematically maintain safe aircraft separation. It builds 4D airspace representations for proactive conflict resolution, supporting aviation, drones, and urban air mobility.
+- **LibreOrbit**  
+[https://roxanneardary.com/libreorbit/](https://roxanneardary.com/libreorbit/)  
+LibreOrbit is an open-source, modular satellite networking operating system designed to connect satellites, ground stations, sensors, and edge devices through open and interoperable space infrastructure. Built with a flexible plugin architecture, LibreOrbit supports satellite communications, mission operations, data exchange, autonomous systems, and future space networks.
+
+- **LibreSpaceflight**  
+  [https://roxanneardary.com/librespaceflight/](https://roxanneardary.com/librespaceflight/)  
+  LibreSpaceflight is an open-source platform for simulating spacecraft docking, orbital mechanics, mission planning, and autonomous space operations. It makes spaceflight science accessible by integrating realistic physics, spacecraft design with precise mass distribution and thruster configurations, orbital transfers using real astrodynamics, and AI experimentation for docking and navigation.  
+  
+- **Open Aerial Autonomous Safety System (OAASS)**  
+  [https://roxanneardary.com/open-aerial-autonomous-safety-system/](https://roxanneardary.com/open-aerial-autonomous-safety-system/)  
+  Open Aerial Autonomous Safety System (OAASS) is a modular open-source autonomy framework combining multi-sensor perception, predictive collision avoidance, and emergency aerial escape capabilities for next-generation vehicle safety. It supports ground-to-air transitions, infrastructure coordination, and transparent development under AGPL-3.0+ for autonomous mobility and airspace safety.  
+
+- **OrbitReasoning Core**  
+  [https://roxanneardary.com/orbitreasoning-core/](https://roxanneardary.com/orbitreasoning-core/)  
+  OrbitReasoning Core is an AGPL 3.0+ autonomous AI Network Operations Center for managing complex networks of satellites, spacecraft, and high-altitude systems through simulation-first intelligence. It computes probable outcomes across simulated futures, detects anomalies, and supports governed autonomy with full traceability for orbital operations. 
 
 - **PhaseLock**  
   [https://roxanneardary.com/phaselock/](https://roxanneardary.com/phaselock/)  
-  PhaseLock is a Cryogenic Conditioning Loop system designed to enable stable, vapor-free propellant transfer for in-space refueling in microgravity. It actively regulates temperature, pressure, and phase consistency with redundancy and safety features to support reliable reusable spaceflight and orbital infrastructure.
+  PhaseLock is a Cryogenic Conditioning Loop system designed to enable stable, vapor-free propellant transfer for in-space refueling in microgravity. It actively regulates temperature, pressure, and phase consistency with redundancy and safety features to support reliable reusable spaceflight and orbital infrastructure.  
 
-- **Open Aerial Autonomous Safety System (OAASS)**  
-  [https://roxanneardary.com/open-aerial-autonomous-safety-system/](https://roxanneardary.com/open-aerial-autonomous-safety-system/)  
-  Open Aerial Autonomous Safety System (OAASS) is a modular open-source autonomy framework combining multi-sensor perception, predictive collision avoidance, and emergency aerial escape capabilities for next-generation vehicle safety. It supports ground-to-air transitions, infrastructure coordination, and transparent development under AGPL-3.0+ for autonomous mobility and airspace safety.
+- **Reality Pass**  
+  [https://roxanneardary.com/reality-pass/](https://roxanneardary.com/reality-pass/)  
+  Reality Pass is an open-source, physics-accurate, AI-assisted space simulation platform for designing, testing, and experiencing spacecraft systems before real-world construction. It enforces real physical laws with immersive VR, collaborative multi-role modes, and deterministic simulation of orbital behavior, structural stress, and mission outcomes.
+
+- **Separation Engine**  
+  [https://roxanneardary.com/separationengine/](https://roxanneardary.com/separationengine/)  
+  Separation Engine is an open-source AGPL 3.0+ airspace computation platform that uses predictive AI, physics-based trajectory modeling, and real-time environmental analysis to mathematically maintain safe aircraft separation. It builds 4D airspace representations for proactive conflict resolution, supporting aviation, drones, and urban air mobility.  
 
 ---
 
