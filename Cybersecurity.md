@@ -47,8 +47,8 @@ QuantumSanctum is a human-centric, end-to-end encrypted digital ecosystem unifyi
   https://roxanneardary.com/safeforge/  
 SafeForge is an open-source, AI-powered secure mobile app hub for uploading, sharing, and verifying applications. It uses encrypted data, sandboxing, and automated malware detection to ensure safe distribution and privacy.
 
-- **Sentryx**  
-  https://roxanneardary.com/sentryx/  
+- [**Sentryx Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/b002fef6fac21481d8692099042af9de01563f30/Sentryx.md)    
+[https://roxanneardary.com/sentryx/](https://roxanneardary.com/sentryx/)  
 Sentryx is a modular, open-source cloud backup and data protection system with end-to-end encryption and distributed storage. It includes optional AI-assisted intelligence for secure, scalable data management and recovery.
 
 - **ShieldGrid**  
