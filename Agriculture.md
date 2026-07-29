@@ -30,7 +30,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/foodlab/](https://roxanneardary.com/foodlab/)  
   FoodLab is an open-source transparency database for food brands, chemicals, studies, and legislation. It provides traceable, evidence-based insights into food safety and supply chains.
 
-- **LocaleMaterials**  
+- [**LocaleMaterials Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/65da0e9a27cd711956ad75aa476484e34db6837b/LocaleMaterials.md)    
   [https://roxanneardary.com/localematerials/](https://roxanneardary.com/localematerials/)  
   LocaleMaterials recommends regenerative building materials based on regional soil, climate, and agricultural outputs. It promotes locally sourced, climate-adaptive construction.
 
