@@ -6,37 +6,66 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 ## Vector Specs 
 
-- **Passage Chunking Engine**  
- [https://roxanneardary.com/passage-chunking-engine/](https://roxanneardary.com/passage-chunking-engine/)  
-  Framework for structural and semantic text chunking optimized for AI systems. Supports vector search and Retrieval-Augmented Generation (RAG) applications through context overlap, metadata enrichment, and retrieval-focused content organization.
-
-- **AdRelevance**  
-[https://roxanneardary.com/adrelevance/](https://roxanneardary.com/adrelevance/)  
+- [**AdRelevance Module Specification**](https://roxanneardary.com/adrelevance/](https://roxanneardary.com/adrelevance/)  
   Contextual advertising framework using multimodal embeddings, vector similarity, and semantic alignment to match advertisements with relevant content without relying on user tracking.
-
-- **SynapCache**  
-[https://roxanneardary.com/synapcache/](https://roxanneardary.com/synapcache/)  
-  Distributed AI caching layer that uses vector similarity matching, semantic search, and embedding storage to improve performance and retrieval efficiency for large language model workloads.
-
-- **MindCache**  
-[https://roxanneardary.com/mindcache/](https://roxanneardary.com/mindcache/)  
-  Persistent memory platform for AI agents that supports vector databases, embeddings, semantic indexing, and multimodal retrieval to enable long-term knowledge storage and contextual recall.
-
-- **RAGBase**  
- [https://roxanneardary.com/ragbase/](https://roxanneardary.com/ragbase/)  
-RAGBase is a schema-enforced infrastructure framework for building modular Retrieval-Augmented Generation (RAG) systems with explicit specifications, interchangeable components, and a built-in spec hygiene layer that validates every stage of the pipeline. It supports multiple retrieval strategies, versioned modules, drift detection, schema validation, compatibility checking, and production-ready AI workflows designed for reliable, reproducible, and scalable retrieval systems.
-
-- **GeoListing**  
- [https://roxanneardary.com/geolisting/](https://roxanneardary.com/geolisting/)  
-  AI-powered real estate platform using semantic enrichment and retrieval-optimized content. Supports vector search alongside large language models to improve property discovery, marketing, and intelligent search experiences.
 
 - **Crosswater**  
 [https://roxanneardary.com/crosswater/](https://roxanneardary.com/crosswater/)  
   Autonomous amphibious vehicle platform using electric thrusters and vector-based navigation for directional control, maneuvering, and movement optimization across changing environments.
 
+- **GeoListing**  
+ [https://roxanneardary.com/geolisting/](https://roxanneardary.com/geolisting/)  
+  AI-powered real estate platform using semantic enrichment and retrieval-optimized content. Supports vector search alongside large language models to improve property discovery, marketing, and intelligent search experiences.
+
+- **MindCache**  
+[https://roxanneardary.com/mindcache/](https://roxanneardary.com/mindcache/)  
+  Persistent memory platform for AI agents that supports vector databases, embeddings, semantic indexing, and multimodal retrieval to enable long-term knowledge storage and contextual recall.
+
 - **OriginType**  
  [https://roxanneardary.com/origintype/](https://roxanneardary.com/origintype/)  
   Typography and letterform design system that analyzes strokes and converts them into vector-based glyphs, enabling scalable, editable, and digitally optimized type creation.
+
+- **Passage Chunking Engine**  
+ [https://roxanneardary.com/passage-chunking-engine/](https://roxanneardary.com/passage-chunking-engine/)  
+  Framework for structural and semantic text chunking optimized for AI systems. Supports vector search and Retrieval-Augmented Generation (RAG) applications through context overlap, metadata enrichment, and retrieval-focused content organization.
+
+- **RAGBase**  
+ [https://roxanneardary.com/ragbase/](https://roxanneardary.com/ragbase/)  
+RAGBase is a schema-enforced infrastructure framework for building modular Retrieval-Augmented Generation (RAG) systems with explicit specifications, interchangeable components, and a built-in spec hygiene layer that validates every stage of the pipeline. It supports multiple retrieval strategies, versioned modules, drift detection, schema validation, compatibility checking, and production-ready AI workflows designed for reliable, reproducible, and scalable retrieval systems.
+
+- **SynapCache**  
+[https://roxanneardary.com/synapcache/](https://roxanneardary.com/synapcache/)  
+  Distributed AI caching layer that uses vector similarity matching, semantic search, and embedding storage to improve performance and retrieval efficiency for large language model workloads.  
+[https://roxanneardary.com/adrelevance/](https://roxanneardary.com/adrelevance/)  
+  Contextual advertising framework using multimodal embeddings, vector similarity, and semantic alignment to match advertisements with relevant content without relying on user tracking.
+
+- **Crosswater**  
+[https://roxanneardary.com/crosswater/](https://roxanneardary.com/crosswater/)  
+  Autonomous amphibious vehicle platform using electric thrusters and vector-based navigation for directional control, maneuvering, and movement optimization across changing environments.
+
+- **GeoListing**  
+ [https://roxanneardary.com/geolisting/](https://roxanneardary.com/geolisting/)  
+  AI-powered real estate platform using semantic enrichment and retrieval-optimized content. Supports vector search alongside large language models to improve property discovery, marketing, and intelligent search experiences.
+
+- **MindCache**  
+[https://roxanneardary.com/mindcache/](https://roxanneardary.com/mindcache/)  
+  Persistent memory platform for AI agents that supports vector databases, embeddings, semantic indexing, and multimodal retrieval to enable long-term knowledge storage and contextual recall.
+
+- **OriginType**  
+ [https://roxanneardary.com/origintype/](https://roxanneardary.com/origintype/)  
+  Typography and letterform design system that analyzes strokes and converts them into vector-based glyphs, enabling scalable, editable, and digitally optimized type creation.
+
+- **Passage Chunking Engine**  
+ [https://roxanneardary.com/passage-chunking-engine/](https://roxanneardary.com/passage-chunking-engine/)  
+  Framework for structural and semantic text chunking optimized for AI systems. Supports vector search and Retrieval-Augmented Generation (RAG) applications through context overlap, metadata enrichment, and retrieval-focused content organization.
+
+- **RAGBase**  
+ [https://roxanneardary.com/ragbase/](https://roxanneardary.com/ragbase/)  
+RAGBase is a schema-enforced infrastructure framework for building modular Retrieval-Augmented Generation (RAG) systems with explicit specifications, interchangeable components, and a built-in spec hygiene layer that validates every stage of the pipeline. It supports multiple retrieval strategies, versioned modules, drift detection, schema validation, compatibility checking, and production-ready AI workflows designed for reliable, reproducible, and scalable retrieval systems.
+
+- **SynapCache**  
+[https://roxanneardary.com/synapcache/](https://roxanneardary.com/synapcache/)  
+  Distributed AI caching layer that uses vector similarity matching, semantic search, and embedding storage to improve performance and retrieval efficiency for large language model workloads.
 
 ---
 
