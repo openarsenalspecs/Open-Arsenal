@@ -20,7 +20,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/heirloom-haven/](https://roxanneardary.com/heirloom-haven/)  
   Seed exchange platform for preserving and sharing heirloom, native, and non-GMO seeds. Supports community catalogs, biodiversity, and education for resilient growing.
 
-- **LocaleMaterials**  
+- [**LocaleMaterials Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/65da0e9a27cd711956ad75aa476484e34db6837b/LocaleMaterials.md)    
   [https://roxanneardary.com/localematerials/](https://roxanneardary.com/localematerials/)  
   AI platform recommending regenerative, locally sourced building materials based on regional soil, climate, and agricultural outputs/byproducts.
 
