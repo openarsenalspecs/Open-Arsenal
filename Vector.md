@@ -6,7 +6,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 ## Vector Specs 
 
-- [**AdRelevance Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/3967144b16f33c35f629c4f71b1b3259efa256e4/AdRelevance.md)  
+- [**AdRelevance Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/3967144b16f33c35f629c4f71b1b3259efa256e4/AdRelevance.md)    
   Contextual advertising framework using multimodal embeddings, vector similarity, and semantic alignment to match advertisements with relevant content without relying on user tracking.
 
 - **Crosswater**  
