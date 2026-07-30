@@ -28,6 +28,10 @@ Crystal Ledger is an open-source custodial financial infrastructure platform bui
 [https://www.roxanneardary.com/currensee/](https://www.roxanneardary.com/currensee/)  
 CurrenSee is an open-source intelligence platform that maps the corporate ownership, infrastructure, and complete supply chains of U.S. energy resources from extraction and production to transportation and distribution. Designed for transparency and accountability, it combines public data, interactive visualizations, and AI-powered analytics to help researchers, policymakers, developers, journalists, and the public understand who owns America's energy systems and how they operate.
 
+- [**Econexus Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/c60f6179d18a0f72de92321ecf3ad668ba048918/Econexus.md)    
+[https://roxanneardary.com/econexus/](https://roxanneardary.com/econexus/)  
+Econexus is an AI-driven modular incentive economy engine. It transforms digital systems into contribution-based ecosystems where participation and engagement are directly rewarded.  
+
 - **EnerAgent**  
 [https://www.roxanneardary.com/eneragent/](https://www.roxanneardary.com/eneragent/)  
 EnerAgent is an open-source AI-driven energy management platform that combines real-time monitoring, predictive analytics, optimization engines, and intelligent automation to improve energy efficiency across industrial, commercial, and distributed energy systems. It features multi-agent AI coordination, digital twins, human-AI collaboration, sustainability intelligence, grid optimization, and strategic decision support to empower organizations with smarter, more resilient energy management.  
