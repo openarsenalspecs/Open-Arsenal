@@ -66,7 +66,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   A temporal knowledge graph framework with entity resolution and versioned data that tracks how fiscal information, budgets, policies, and public records evolve over time while preserving historical context.
 
 
-- **Orvian**  
+- [**Orvian Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/71ff1b8c81344d6f5f5edf4d0954749eb895624d/Orvian.md)    
   [https://roxanneardary.com/orvian/](https://roxanneardary.com/orvian/)  
   An AI-driven personal financial operating system that organizes money into intelligent budgeting envelopes, savings goals, cash-flow forecasting, and tax automation.  
 
