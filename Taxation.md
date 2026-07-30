@@ -16,7 +16,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/open-commons-dividend/](https://roxanneardary.com/open-commons-dividend/)  
   Open-source civic finance platform for transparent budgeting, AI-assisted auditing, citizen oversight, and equitable surplus dividend distribution (UBI-style from public commons).
 
-- **Orvian**  
+- [**Orvian Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/71ff1b8c81344d6f5f5edf4d0954749eb895624d/Orvian.md)    
   [https://roxanneardary.com/orvian/](https://roxanneardary.com/orvian/)  
   AI-driven personal financial OS with tax automation, governed tax envelopes for automatic allocation and compliance, budgeting, and forecasting.
 
