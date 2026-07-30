@@ -1,0 +1,77 @@
+# Open Arsenal Hardware Specifications
+
+The hardware specifications are built around a modular, simulation-first architecture that treats physical infrastructure as composable, programmable units. The system is designed around hardware abstraction through digital twins and standardized interconnect models, enabling consistent behavior across diverse physical domains. It supports heterogeneous compute and control environments, including embedded microcontrollers, industrial communication buses, high-performance simulation nodes, and distributed sensor networks. Every deployment is intended to be modeled in simulation first to validate bandwidth, thermal behavior, latency constraints, energy flow, and mechanical tolerances before physical implementation.
+
+At the deployment level, the architecture prioritizes interoperability, scalability, and open hardware extensibility, allowing components to be combined without redesigning core control systems. It supports real-time telemetry pipelines, edge-to-cloud synchronization, and topology-aware scheduling for complex robotic and infrastructure networks. For organizations or deployments seeking formal attribution alignment, a Specification Branding License may be negotiated depending on the size, scope, and commercial or institutional scale of implementation, while preserving AGPLv3 compliance and maintaining open accessibility for smaller or community-driven deployments.  
+
+# Hardware Specs
+
+- [**Autonomous Loop Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/15ede5041033c4ea6f531f74db8c7e8d706d8a59/Autonomous%20Loop.md)    
+[https://roxanneardary.com/autonomous-loop/](https://roxanneardary.com/autonomous-loop/)  
+A self-hosted Continuous Improvement Operating System for air-gapped AI factories that enables organizations to monitor, evaluate, govern, and continuously improve AI systems while keeping data and intelligence workflows under their control.
+
+- [**CircuitPath Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/3cf074fd55872ba8733a189a97ac317fe5d5a368/CircuitPath.md)    
+[https://roxanneardary.com/circuitpath/](https://roxanneardary.com/circuitpath/)  
+CircuitPath is an open-source advanced packaging and chiplet connectivity framework (part of Conduit Systems) that uses modular approaches like UCIe-style links, 2.5D interposers, and 3D stacking with simulation-driven design for high-bandwidth AI/HPC systems. It enables developers to model bandwidth, latency, thermal performance, and optimize multi-die systems before fabrication under AGPLv3.
+
+- [**Circulis Aqua Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/07d18745f662d2bd564b35e2c7735be0842695b4/Circulis%20Aqua.md)    
+[https://roxanneardary.com/circulis-aqua/](https://roxanneardary.com/circulis-aqua/)  
+Circulis Aqua is a modular, AI-assisted water infrastructure design system using graph-based models for desalination, purification, reuse, and geospatial distribution that scales from homes to regional grids. It includes AI optimization, predictive maintenance, and dynamic rerouting for resilient, closed-loop water networks.
+
+- [**CNC Companion Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/12ddaf58bd331caadd1e6357f58a76156d48e8d5/CNC%20Companion.md)  
+[https://roxanneardary.com/cnc-companion/](https://roxanneardary.com/cnc-companion/)  
+CNC Companion is an open-source AI-powered tutor for machinists that delivers step-by-step guidance, real-time computer vision feedback, and adaptive learning for CNC and shop floor machines. It tracks skills, incorporates safety monitoring, tool detection, simulation/AR tools, and community contributions under AGPLv3.
+
+- [**Conduit Systems Module specification**](https://github.com/openarsenalspecs/Hardware/blob/95d38b3930e02c7daf053e1e04acf8031e798cd3/Conduit%20Systems.md)    
+[https://roxanneardary.com/conduitsystems/](https://roxanneardary.com/conduitsystems/)  
+Conduit Systems is an open-source platform for simulation-driven chiplet integration and data movement optimization in AI/HPC, treating interconnects as first-class components with topology-aware runtime. It integrates with CircuitPath for modeling packaging, scheduling, and performance under AGPLv3.
+
+- [**FieldCell Systems Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/a9d6b1d6f27722e5f2f28a92fa08a7fa2d4f57c1/FieldCell%20Systems.md)    
+[https://roxanneardary.com/fieldcellsystems/](https://roxanneardary.com/fieldcellsystems/)  
+FieldCell Systems is an open-source hydrogen energy storage system using electrolysis and fuel cells for modular, repairable, long-duration power storage as an alternative to disposable batteries. It targets homes, farms, and microgrids in a closed-loop water-to-hydrogen cycle under AGPLv3.
+
+- [**KineticKind Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/f45aa685865550df18c41a1f953d056e31fbeb92/KineticKind.md)    
+[https://roxanneardary.com/kinetickind/](https://roxanneardary.com/kinetickind/)  
+KineticKind is an open-source accessibility-first SUV platform with intelligent seat-assist technology, adaptive suspension, and ergonomic features to aid entry/exit for mobility-impaired users. It includes open hardware/software (ESP32, CAN bus, FreeCAD designs), simulation tools, and AGPLv3 licensing.
+
+- [**LAVE (Low-Altitude Vehicle Experiment) Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/27aaeabed73e9c59b1a8ee859ed20317ab9499ff/LAVE.md)    
+[https://roxanneardary.com/lave/](https://roxanneardary.com/lave/)  
+LAVE is an open-source human-scale hover research platform exploring distributed electric thrust, stabilization, and low-altitude flight with modular ducted units, real-time sensors, and safety systems. It emphasizes telemetry, digital twins, and transparent experimentation for reproducible research.
+
+- [**Modular Non-Invasive BCI Engineering Platform Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/6cf576a9d93ef7741e4ac84cd3c36612f432c5b7/Modular%20Non-Invasive%20BCI%20Engineering%20Platform.md)    
+[https://roxanneardary.com/modular-non-invasive-bci-engineering-platform/](https://roxanneardary.com/modular-non-invasive-bci-engineering-platform/)  
+A modular open neuroengineering framework for designing, simulating, and deploying non-invasive brain–computer interface systems through wearable, hardware, ML, sleep, and legal assurance layers.  
+
+- [**TotalRemote Module Specifications**](https://github.com/openarsenalspecs/Hardware/blob/9e98873dfbd64e60e2bbeab27c91f005fbdc66db/TotalRemote.md)    
+[https://roxanneardary.com/totalremote/](https://roxanneardary.com/totalremote/)  
+TotalRemote is an open-source universal TV control system that unifies IR, HDMI-CEC, smart TV APIs, and plugins into one platform for multi-device control. It features automatic discovery, fallback methods, and smart home integration (e.g., Home Assistant).
+
+- [**Trionyx Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/56b8d50e30f971ab8792304a710197b3ed479c71/Trionyx.md)    
+[https://roxanneardary.com/trionyx/](https://roxanneardary.com/trionyx/)  
+Trionyx is a multi-agent robotic fleet intelligence and scheduling platform for coordinating autonomous systems in warehouses/industry via real-time task orchestration, shared world models, and simulation-first validation. It is robot-agnostic with ROS2 support and traffic management.
+
+---
+
+# Specification Branding License (SBL)
+
+Buy the Basket: [https://roxanneardary.com/hardware/](https://roxanneardary.com/hardware/)  
+
+---
+
+
+## License & Notice Requirements
+
+Open Arsenal Hardware Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.  By contributing to any Open Arsenal project, you agree that your contributions will also be released under this license.
+
+Please note the following:
+
+- All contributions must comply with the **AGPL-3.0+** terms.  
+- Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
+  **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
+- Open Arsenal Hardware Specifications are free to use with attribution. A Specification Branding License can be negotiated upon request depending on deployment size and scope.
+- The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
+  Any update that adds new contributors or modifies attribution should also update `notice.md`. 
+- When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
+- Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
+
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
