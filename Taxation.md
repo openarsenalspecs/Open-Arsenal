@@ -24,7 +24,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/orvian/](https://roxanneardary.com/orvian/)  
   AI-driven personal financial OS with tax automation, governed tax envelopes for automatic allocation and compliance, budgeting, and forecasting.
 
-- **TaxGenie**  
+- [**TaxGenie Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/3dec4787a66f4a875485d2f2dd90ee028f88fdd0/TaxGenie.md)    
   [https://roxanneardary.com/taxgenie/](https://roxanneardary.com/taxgenie/)  
   Open-source, privacy-first tax intelligence platform using AI for tax understanding, organization, and year-round planning with encrypted guidance.  
 
