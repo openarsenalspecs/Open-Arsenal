@@ -14,64 +14,64 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 ## Scientific Discovery Specs
 
-- **Adaptive Materials Engine (AME)**
-  [https://roxanneardary.com/adaptive-materials-engine/](https://roxanneardary.com/adaptive-materials-engine/)
+- **Adaptive Materials Engine (AME)**  
+  [https://roxanneardary.com/adaptive-materials-engine/](https://roxanneardary.com/adaptive-materials-engine/)  
   AI-assisted discovery and engineering framework for sustainable materials, composites, biomaterials, and advanced material systems. The specification focuses on accelerating material innovation through structured knowledge, simulation, and reproducible research workflows.
 
-- **Arq**
-  [https://roxanneardary.com/arq/](https://roxanneardary.com/arq/)
+- **Arq**  
+  [https://roxanneardary.com/arq/](https://roxanneardary.com/arq/)  
   A structured knowledge graph system designed to organize complex engineering, scientific, and architectural information. Arq enables relationships between concepts, components, systems, and technical documentation to support research and discovery.
 
-- **CommonGrid**
-  [https://roxanneardary.com/commongrid/](https://roxanneardary.com/commongrid/)
+- **CommonGrid**  
+  [https://roxanneardary.com/commongrid/](https://roxanneardary.com/commongrid/)  
   A scientific data discovery and federation framework for organizing, connecting, and accessing distributed datasets and open research resources. CommonGrid supports collaborative scientific exploration through interoperable knowledge systems.
 
-- **EurekaAI**
-  [https://roxanneardary.com/eurekaai/](https://roxanneardary.com/eurekaai/)
+- **EurekaAI**  
+  [https://roxanneardary.com/eurekaai/](https://roxanneardary.com/eurekaai/)  
   An AI-powered scientific discovery platform designed to analyze research literature, identify knowledge gaps, generate hypotheses, and assist researchers in discovering new possibilities across scientific disciplines.
 
-- **LocaleMaterials**
-  [https://roxanneardary.com/localematerials/](https://roxanneardary.com/localematerials/)
+- **LocaleMaterials**  
+  [https://roxanneardary.com/localematerials/](https://roxanneardary.com/localematerials/)  
   A local materials intelligence specification focused on discovering, cataloging, and analyzing region-specific natural resources such as stone, clay, timber, fibers, minerals, and biological materials. It supports sustainable design, regional manufacturing, and place-based material innovation.
 
-- **MindCache**
-  [https://roxanneardary.com/mindcache/](https://roxanneardary.com/mindcache/)
+- **MindCache**  
+  [https://roxanneardary.com/mindcache/](https://roxanneardary.com/mindcache/)  
   A persistent knowledge memory system for storing, organizing, and retrieving scientific research knowledge. MindCache supports long-term research continuity, collaborative intelligence, and structured information management.
 
-- **Nature Pharmacopeia**
-  [https://roxanneardary.com/nature-pharmacopeia/](https://roxanneardary.com/nature-pharmacopeia/)
+- **Nature Pharmacopeia**  
+  [https://roxanneardary.com/nature-pharmacopeia/](https://roxanneardary.com/nature-pharmacopeia/)  
   A natural sciences knowledge system focused on medicinal plants, fungi, minerals, natural compounds, traditional remedies, and pharmacognosy research. It provides a structured framework for exploring natural sources of therapeutic and biological knowledge.
 
-- **OpenChrona**
-  [https://roxanneardary.com/openchrona/](https://roxanneardary.com/openchrona/)
+- **OpenChrona**  
+  [https://roxanneardary.com/openchrona/](https://roxanneardary.com/openchrona/)  
   A scientific research specification exploring timekeeping, astronomy, calendars, historical measurement systems, and precision technologies. OpenChrona preserves and organizes knowledge around humanity's systems for measuring time and celestial cycles.
 
-- **OpenLedger Provenance System**
-  [https://roxanneardary.com/openledger-provenance-system/](https://roxanneardary.com/openledger-provenance-system/)
+- **OpenLedger Provenance System**  
+  [https://roxanneardary.com/openledger-provenance-system/](https://roxanneardary.com/openledger-provenance-system/)  
   A provenance infrastructure for scientific knowledge, experiments, datasets, and evidence chains. OpenLedger enables transparent tracking of research origins, methodologies, changes, and validation history.
 
-- **PublicStack AI**
-  [https://roxanneardary.com/publicstackai/](https://roxanneardary.com/publicstackai/)
+- **PublicStack AI**  
+  [https://roxanneardary.com/publicstackai/](https://roxanneardary.com/publicstackai/)  
   An open knowledge retrieval infrastructure designed to index and connect public information sources, scientific repositories, and research materials. It supports accessible discovery of public-domain knowledge.
 
-- **RAGBase**
-  [https://roxanneardary.com/ragbase/](https://roxanneardary.com/ragbase/)
+- **RAGBase**  
+  [https://roxanneardary.com/ragbase/](https://roxanneardary.com/ragbase/)  
   A retrieval-augmented knowledge infrastructure specification for scientific documents, research archives, and specialized knowledge systems. RAGBase enables AI systems to access structured, contextual information for research assistance.
 
-- **TraceGraph OS**
-  [https://roxanneardary.com/tracegraph-os/](https://roxanneardary.com/tracegraph-os/)
+- **TraceGraph OS**  
+  [https://roxanneardary.com/tracegraph-os/](https://roxanneardary.com/tracegraph-os/)  
   A scientific intelligence operating system for modeling hypotheses, experiments, evidence, simulations, and research relationships. TraceGraph OS supports reproducible science through connected knowledge graphs and research provenance.
 
-- **TruthLayer**
-  [https://roxanneardary.com/truthlayer/](https://roxanneardary.com/truthlayer/)
+- **TruthLayer**  
+  [https://roxanneardary.com/truthlayer/](https://roxanneardary.com/truthlayer/)  
   An evidence-based analysis framework designed around transparent methodologies, reproducible calculations, verification systems, and trustworthy information evaluation.
 
-- **Veridion System**
-  [https://roxanneardary.com/veridion-system/](https://roxanneardary.com/veridion-system/)
+- **Veridion System**  
+  [https://roxanneardary.com/veridion-system/](https://roxanneardary.com/veridion-system/)  
   A scientific validation and intelligence framework for transforming fragmented information into verified, explainable, and trustworthy signals. Veridion focuses on evidence validation, data integrity, and reliable knowledge creation.
 
-- **Xythera**
-  [https://roxanneardary.com/xythera/](https://roxanneardary.com/xythera/)
+- **Xythera**  
+  [https://roxanneardary.com/xythera/](https://roxanneardary.com/xythera/)  
   A scientific engineering platform for AI-assisted sensor design, hardware research, experimental validation, and reproducible fabrication. Xythera connects engineering knowledge with scientific discovery workflows.
 
 ---
