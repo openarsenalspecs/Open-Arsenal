@@ -8,7 +8,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 ## Taxation Specs
 
-- **DividenCity**  
+- [**DividenCity Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/fcc495bf6fe070d69793406026e8ae13d36b5081/DividenCity.md)    
   [https://roxanneardary.com/dividencity/](https://roxanneardary.com/dividencity/)  
   Open-source framework enabling resource-backed Universal Basic Income (UBI) by tracking public resource revenue, surplus budgets, and dividend distribution to citizens.
 
