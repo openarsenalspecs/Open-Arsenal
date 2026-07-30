@@ -444,6 +444,7 @@ Open-Arsenal-Index/
     - [Education](https://github.com/openarsenalspecs/Open-Arsenal/blob/1988118f38cb8bec1f73cda40425100b748b2f80/Education.md)  
     - [Games](https://github.com/openarsenalspecs/Open-Arsenal/blob/bde35251b12caa1957507f0d326146b5e97cbd30/Games.md)  
     - [Multi-Agent Systems](https://github.com/openarsenalspecs/Open-Arsenal/blob/84362c30689428657ae4c5a5d0edc2a2de46b79b/Multi-Agent%20Systems.md)
+    - [Municipal](https://github.com/openarsenalspecs/Open-Arsenal/blob/0441ef48cff69a6db4257389068c1b7612f1a99c/Municipal.md)  
     - [Permaculture](https://github.com/openarsenalspecs/Open-Arsenal/blob/d55f217837b0aee0ce70af732e24f6b76d56eb5b/Permaculture.md)
     - [Provenance](https://github.com/openarsenalspecs/Open-Arsenal/blob/d880e6e9eaf9c3335ee6546d7a70685748b61c9d/Provenance.md)  
     - [Psychology](https://github.com/openarsenalspecs/Open-Arsenal/blob/9c842eba34a6f897654f025f951a37e6f8bc00e7/Psychology.md)
