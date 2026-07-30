@@ -12,7 +12,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/dividencity/](https://roxanneardary.com/dividencity/)  
   Open-source framework enabling resource-backed Universal Basic Income (UBI) by tracking public resource revenue, surplus budgets, and dividend distribution to citizens.
 
-- **Open Commons Dividend**  
+- [**Open Commons Dividend Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/f9e975f736c61874289168db0d55ae7eb90e40e2/OpenCommonsDividend.md)    
   [https://roxanneardary.com/open-commons-dividend/](https://roxanneardary.com/open-commons-dividend/)  
   Open-source civic finance platform for transparent budgeting, AI-assisted auditing, citizen oversight, and equitable surplus dividend distribution (UBI-style from public commons).
 
