@@ -32,7 +32,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/medinet-ai/](https://roxanneardary.com/medinet-ai/)  
   An open-source AI platform for medical/dental image analysis with multi-modal disease detection (X-rays, CT, MRI, etc.), predictive modeling, explainable AI (heatmaps, confidence scores), automated reporting, EMR integration, patient engagement, and federated learning for clinical support and research.
 
-- **Quantum Synapse**  
+- [**Quantum Synapse Module Specification**](https://github.com/openarsenalspecs/IoT/blob/38de05dec0335b600bc66d34cfb523ca9af5c4b3/Quantum%20Synapse.md)    
   [https://roxanneardary.com/quantum-synapse/](https://roxanneardary.com/quantum-synapse/)  
   An open-source, non-invasive brain-computer interface (BCI) platform using wearable EEG technology for real-time neural signal processing, mind-controlled interaction, cognitive state detection, and applications in accessibility and smart systems, with strong emphasis on privacy and local processing.
 
