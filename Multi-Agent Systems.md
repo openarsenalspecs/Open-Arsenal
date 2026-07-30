@@ -12,7 +12,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 [https://roxanneardary.com/aichauffeur/](https://roxanneardary.com/aichauffeur/)  
 An open, modular specification that defines standardized architectures for intelligent vehicle learning, predictive analytics, adaptive optimization, and privacy-first artificial intelligence. It enables interoperable, vendor-neutral AI systems with multi-agent orchestration, local-first processing, and extensible machine learning capabilities for next-generation transportation platforms.  
 
-- **CircuitPath**  
+- [**CircuitPath Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/0e1f64a24b23d25a98085693e28a6a3c03823189/CircuitPath.md)    
 [https://www.roxanneardary.com/circuitpath/](https://www.roxanneardary.com/circuitpath/)  
 CircuitPath employs coordinated diagnostic agents to monitor, analyze, and troubleshoot electrical and electronic systems. Multiple specialized agents collaborate to identify failures, recommend repairs, and optimize system reliability.
 
