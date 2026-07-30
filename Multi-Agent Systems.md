@@ -52,6 +52,10 @@ Horizon Framework is an open, modular AI architecture specification that provide
 [https://www.roxanneardary.com/machinacore/](https://www.roxanneardary.com/machinacore/)  
 MachinaCore is an open-source autonomous engineering intelligence specification that enables software systems to build, test, deploy, and continuously improve through multi-agent collaboration, simulation, knowledge awareness, and self-evolving workflows. Its features include autonomous engineering, configurable intelligence profiles, lineage tracking, digital twins, failure intelligence, compliance systems, and adaptive learning designed to create software that grows over time.
 
+- [**Multi-Agent Conflict Resolution Framework Module Specification**](https://github.com/openarsenalspecs/Intellectual-Property/blob/adc84991bb95ad237a0eb810c36e7a1b1344ae1b/Multi-Agent%20Conflict%20Resolution%20Framework.md)  
+[https://roxanneardary.com/multi-agent-conflict-resolution-framework/](https://roxanneardary.com/multi-agent-conflict-resolution-framework/)  
+Multi-Agent Conflict Resolution Framework (MACRF) is an open specification that enables autonomous AI agents to resolve conflicts through modular governance, negotiation, arbitration, and transparent decision-making systems.
+
 - **OpenCluster**  
 [https://www.roxanneardary.com/opencluster/](https://www.roxanneardary.com/opencluster/)  
 OpenCluster is a modular, federated, open-source infrastructure platform designed for sovereign AI, distributed compute, municipal resilience, and community-owned infrastructure using open hardware principles and AGPL-3.0+ licensed software. Its features include modular compute, storage, networking, AI sovereignty, security, thermal management, emergency infrastructure, federation governance, and sustainable systems designed for long-term upgradeability and resilience.  
