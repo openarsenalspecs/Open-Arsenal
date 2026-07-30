@@ -12,7 +12,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/dividencity/](https://roxanneardary.com/dividencity/)  
   Open-source framework enabling resource-backed Universal Basic Income (UBI) by tracking public resource revenue, surplus budgets, and dividend distribution to citizens.
 
-- **Fundamenta**  
+- [**Fundamenta Module Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/c253b5b4d2c3603677eec8d76f8c978ab2c0fbf4/Fundamenta.md)    
   [https://roxanneardary.com/fundamenta/](https://roxanneardary.com/fundamenta/)  
   AI-driven government budgeting platform for transparent, accountable public financial management.
 
