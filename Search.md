@@ -28,7 +28,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/axisjuris/](https://roxanneardary.com/axisjuris/)  
   Legal knowledge graph specification for searching statutes, regulations, case law, and legal relationships across multiple jurisdictions.
 
-- **BranchWeb**  
+- [**BranchWeb Module Specification**](https://github.com/openarsenalspecs/Intellectual-Property/blob/2dde724a8dfdd9768b5014dcc892bf63be5bd797/BranchWeb.md)    
   [https://roxanneardary.com/branchweb/](https://roxanneardary.com/branchweb/)  
   AI-powered platform that converts Git repositories into interactive websites with browser-based navigation and exploration.
 
