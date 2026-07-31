@@ -13,7 +13,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 [https://roxanneardary.com/crosswater/](https://roxanneardary.com/crosswater/)  
   Autonomous amphibious vehicle platform using electric thrusters and vector-based navigation for directional control, maneuvering, and movement optimization across changing environments.
 
-- **GeoListing**  
+- [**GeoListing Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/00a00b0ce2819364aa3ccfbd5d6eae97f1285586/GeoListing.md)    
  [https://roxanneardary.com/geolisting/](https://roxanneardary.com/geolisting/)  
   AI-powered real estate platform using semantic enrichment and retrieval-optimized content. Supports vector search alongside large language models to improve property discovery, marketing, and intelligent search experiences.
 
