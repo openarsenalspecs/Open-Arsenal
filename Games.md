@@ -24,6 +24,10 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/enchanta/](https://roxanneardary.com/enchanta/)  
   AI-powered adventure creation platform for building characters and magical worlds while directing cinematic PG-13 stories through prompts and Director Mode.
 
+- [**GameCommons Module Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/a4b553ef7b56913ee733c5b1e50b7c24c2af53ef/GameCommons.md)  
+  [https://roxanneardary.com/gamecommons/](https://roxanneardary.com/gamecommons/)  
+  GameCommons is an open-source, federated multiplayer gaming platform that enables communities to create, host, and connect community-owned game worlds through a modular server ecosystem. It provides shared infrastructure for federation, matchmaking, chat, analytics, funding, rewards, and extensible game modules while allowing independent communities to maintain control of their servers.
+
 - **Infinity Arena**  
   [https://roxanneardary.com/infinity-arena/](https://roxanneardary.com/infinity-arena/)  
   Modular fighting game and combat creation platform featuring customizable fighter pairs, DNA-based evolution, combo editors, synergy systems, and community sharing tools.
