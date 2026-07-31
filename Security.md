@@ -79,9 +79,9 @@ Browser protection system that blocks tracking, unsafe extensions, and deceptive
 [https://roxanneardary.com/publicsafe/](https://roxanneardary.com/publicsafe/)  
 Encrypts sensitive data locally before transmission to protect user privacy.
 
-- **SafeForge**  
+- [**SafeForge Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/29ff68f74f1039e80ce70b55fe566a09ba693c73/SafeForge.md)    
 [https://roxanneardary.com/safeforge/](https://roxanneardary.com/safeforge/)  
-Sandboxed mobile application platform with encrypted data storage and automated malware detection.
+Sandboxed application platform with encrypted data storage and automated malware detection.
 
 - **Securekit**  
 [https://roxanneardary.com/securekit/](https://roxanneardary.com/securekit/)  
