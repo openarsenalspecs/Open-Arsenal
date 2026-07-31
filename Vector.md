@@ -21,6 +21,10 @@ All specifications are released under the GNU Affero General Public License v3.0
 [https://roxanneardary.com/mindcache/](https://roxanneardary.com/mindcache/)  
   Persistent memory platform for AI agents that supports vector databases, embeddings, semantic indexing, and multimodal retrieval to enable long-term knowledge storage and contextual recall.
 
+- [**MindVault Module Specification**](https://github.com/openarsenalspecs/Virtual-Reality/blob/46166939f06d54595c2390f88946e71ef12406b7/MindVault.md)  
+[https://roxanneardary.com/mindvault/](https://roxanneardary.com/mindvault/)  
+MindVault is an open modular knowledge infrastructure specification designed to provide the knowledge layer for autonomous AI systems through persistent memory, vector intelligence, semantic understanding, and reasoning capabilities. It enables AI agents and RAG systems to store, manage, validate, and retrieve knowledge through a scalable, vendor-neutral architecture.  
+
 - **OriginType**  
  [https://roxanneardary.com/origintype/](https://roxanneardary.com/origintype/)  
   Typography and letterform design system that analyzes strokes and converts them into vector-based glyphs, enabling scalable, editable, and digitally optimized type creation.
