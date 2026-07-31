@@ -24,9 +24,9 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/librespaceflight/](https://roxanneardary.com/librespaceflight/)  
   Open platform for democratizing spaceflight knowledge. Converts aerospace concepts into interactive, testable simulations for active learning, teaching orbital mechanics, robotics, spacecraft systems, and engineering principles.
 
-- **Mindora**  
-  [https://roxanneardary.com/mindora/](https://roxanneardary.com/mindora/)  
-  Open-source AI tutor and adaptive educational platform delivering personalized, source-verified lessons across all subjects. Features dynamic pacing, interactive visualizations, simulations, assessments, critical thinking exercises, and real-world contextual connections. Scales from early education through advanced study.
+- [**Mindora Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/17e830f11333cd21dcb5a87d5fe09b6dab0c9c1d/Mindora.md)    
+[https://roxanneardary.com/mindora/](https://roxanneardary.com/mindora/)  
+AI tutor delivering personalized, source-verified lessons across all subjects with interactive visualizations.  It supports comprehensive learning with verified knowledge.  
 
 - **MotionNet**  
   [https://roxanneardary.com/motionnet/](https://roxanneardary.com/motionnet/)  
