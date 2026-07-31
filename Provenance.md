@@ -8,50 +8,49 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 ## Provenance Specs  
 
-- **TraceCommons**  
-  [https://roxanneardary.com/tracecommons/](https://roxanneardary.com/tracecommons/)  
-  AI-era transparency and provenance infrastructure providing cryptographic transparency logs, AI output provenance, dataset lineage tracking, model evolution history, evaluation records, and tamper-evident verification chains.
-
-- **OpenLedger Provenance System**  
-  [https://roxanneardary.com/openledger-provenance-system/](https://roxanneardary.com/openledger-provenance-system/)  
-  An event-sourced knowledge provenance system that preserves how information evolves over time through append-only records, evidence tracking, historical reconstruction, provenance graphs, and verifiable knowledge lineage.
-
-- **ProvenanceHub**  
-  [https://roxanneardary.com/provenancehub/](https://roxanneardary.com/provenancehub/)  
-  A provenance and lineage intelligence platform for tracking the origin, evolution, and relationships of digital artifacts, software projects, specifications, forks, derivatives, and innovation history.
-
-- **LicenseTrace**  
-  [https://roxanneardary.com/licensetrace/](https://roxanneardary.com/licensetrace/)  
-  A software provenance and attribution intelligence system that tracks software origins, dependency lineage, reuse patterns, licensing relationships, and attribution requirements across projects.
+- **ActionCheck**  
+  [https://roxanneardary.com/actioncheck/](https://roxanneardary.com/actioncheck/)  
+  A verification and accountability specification that links actions to evidence sources, maintains historical records, and provides traceable verification timelines.
 
 - **License Guardian Network**  
   [https://roxanneardary.com/license-guardian-network/](https://roxanneardary.com/license-guardian-network/)  
   A semantic licensing and provenance compliance platform that monitors attribution requirements, license relationships, specification usage, and intellectual property compliance.
 
-- **Xythera**  
-  [https://roxanneardary.com/xythera/](https://roxanneardary.com/xythera/)  
-  An open engineering intelligence platform that maintains provenance records for hardware designs, engineering artifacts, manufacturing history, component lineage, and technical documentation.
+- **LicenseTrace**  
+  [https://roxanneardary.com/licensetrace/](https://roxanneardary.com/licensetrace/)  
+  A software provenance and attribution intelligence system that tracks software origins, dependency lineage, reuse patterns, licensing relationships, and attribution requirements across projects.
 
-- **ProvenArt**  
-  [https://roxanneardary.com/provenart/](https://roxanneardary.com/provenart/)  
-  A digital creator provenance platform for tracking ownership, attribution, licensing metadata, distribution history, and revenue attribution chains for creative works.
+- **OpenLedger Provenance System**  
+  [https://roxanneardary.com/openledger-provenance-system/](https://roxanneardary.com/openledger-provenance-system/)  
+  An event-sourced knowledge provenance system that preserves how information evolves over time through append-only records, evidence tracking, historical reconstruction, provenance graphs, and verifiable knowledge lineage.
 
 - **ProofLayer**  
   [https://roxanneardary.com/prooflayer/](https://roxanneardary.com/prooflayer/)  
   A verification infrastructure specification focused on evidence collection, audit trails, machine-readable proofs, compliance records, and trust verification.
 
-- **SecurePath**  
-  [https://roxanneardary.com/securepath/](https://roxanneardary.com/securepath/)  
-  A security transparency specification focused on audit-ready records, security event history, verification trails, and compliance provenance.
-
-- **ActionCheck**  
-  [https://roxanneardary.com/actioncheck/](https://roxanneardary.com/actioncheck/)  
-  A verification and accountability specification that links actions to evidence sources, maintains historical records, and provides traceable verification timelines.
-
 - **Promise Tracker**  
   [https://roxanneardary.com/promise-tracker/](https://roxanneardary.com/promise-tracker/)  
   A public accountability provenance system that preserves commitments, evidence references, source materials, and historical changes over time.
 
+- **ProvenArt**  
+  [https://roxanneardary.com/provenart/](https://roxanneardary.com/provenart/)  
+  A digital creator provenance platform for tracking ownership, attribution, licensing metadata, distribution history, and revenue attribution chains for creative works.
+
+- **ProvenanceHub**  
+  [https://roxanneardary.com/provenancehub/](https://roxanneardary.com/provenancehub/)  
+  A provenance and lineage intelligence platform for tracking the origin, evolution, and relationships of digital artifacts, software projects, specifications, forks, derivatives, and innovation history.
+
+- **SecurePath**  
+  [https://roxanneardary.com/securepath/](https://roxanneardary.com/securepath/)  
+  A security transparency specification focused on audit-ready records, security event history, verification trails, and compliance provenance.
+
+- **TraceCommons**  
+  [https://roxanneardary.com/tracecommons/](https://roxanneardary.com/tracecommons/)  
+  AI-era transparency and provenance infrastructure providing cryptographic transparency logs, AI output provenance, dataset lineage tracking, model evolution history, evaluation records, and tamper-evident verification chains.
+
+- **Xythera**  
+  [https://roxanneardary.com/xythera/](https://roxanneardary.com/xythera/)  
+  An open engineering intelligence platform that maintains provenance records for hardware designs, engineering artifacts, manufacturing history, component lineage, and technical documentation.
 ---
 
 # Specification Branding License (SBL)
