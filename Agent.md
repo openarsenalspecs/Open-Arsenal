@@ -20,7 +20,7 @@ A personal AI assistant workflow combining conversational intelligence, memory, 
 [https://roxanneardary.com/bridgebuddy/](https://roxanneardary.com/bridgebuddy/)  
 A single AI assistant workflow designed to guide users through complex processes. The agent interprets user needs, provides step-by-step guidance, retrieves relevant information, manages workflow progress, and helps users complete tasks through conversational interaction.
 
-- **CivicOS AI**  
+- [**CivicOS AI Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/26e86b2d06f31f6b13f67295fe977ebcf1ffbb70/CivicOS%20AI.md)    
 [https://roxanneardary.com/civicos-ai/](https://roxanneardary.com/civicos-ai/)  
 An AI operating system architecture designed for autonomous systems, combining agent workflows, memory, tools, plugins, governance controls, and human approval mechanisms.
 
