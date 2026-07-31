@@ -36,8 +36,6 @@ RAGBase is a schema-enforced infrastructure framework for building modular Retri
 - **SynapCache**  
 [https://roxanneardary.com/synapcache/](https://roxanneardary.com/synapcache/)  
   Distributed AI caching layer that uses vector similarity matching, semantic search, and embedding storage to improve performance and retrieval efficiency for large language model workloads.  
-[https://roxanneardary.com/adrelevance/](https://roxanneardary.com/adrelevance/)  
-  Contextual advertising framework using multimodal embeddings, vector similarity, and semantic alignment to match advertisements with relevant content without relying on user tracking.
   
 ---
 
