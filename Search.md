@@ -48,7 +48,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/commongrid/](https://roxanneardary.com/commongrid/)  
   Open data retrieval specification that transforms web content into structured, searchable datasets and knowledge repositories.
 
-- **Corelia**  
+- [**Corelia Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/cd13445f716421a391a40a562817dfa016d1eb0b/Corelia.md)    
   [https://roxanneardary.com/corelia/](https://roxanneardary.com/corelia/)  
   AI-powered open source CMS featuring integrated SEO, AI search optimization, LLM-enhanced search, intelligent content organization, and automated SEO improvements.
 
