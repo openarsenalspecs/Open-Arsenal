@@ -17,6 +17,10 @@ All specifications are released under the GNU Affero General Public License v3.0
  [https://roxanneardary.com/geolisting/](https://roxanneardary.com/geolisting/)  
   AI-powered real estate platform using semantic enrichment and retrieval-optimized content. Supports vector search alongside large language models to improve property discovery, marketing, and intelligent search experiences.
 
+- [**GlyphWorks Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/556ace7b4d3fdce4e2f748748ed0986a544548d3/GlyphWorks.md)    
+[https://roxanneardary.com/glyphworks/](https://roxanneardary.com/glyphworks/)  
+An open-source AI system that translates mission statements and core values into explainable, vector-based logo and identity designs through semantic-to-symbolic generation.  It creates meaningful visual identities from textual foundations.  
+
 - **MindCache**  
 [https://roxanneardary.com/mindcache/](https://roxanneardary.com/mindcache/)  
   Persistent memory platform for AI agents that supports vector databases, embeddings, semantic indexing, and multimodal retrieval to enable long-term knowledge storage and contextual recall.
