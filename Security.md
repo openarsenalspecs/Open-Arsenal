@@ -23,9 +23,9 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 ## Security Specs:
 
-- **Authensia Cloud**  
+- [**Authensia Cloud Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/f76aa2fee97dd7ff3b06a3e7f0c9eee0ef3d57a8/Authensia%20Cloud.md)    
 [https://roxanneardary.com/authensiacloud/](https://roxanneardary.com/authensiacloud/)  
-Secure cloud storage with end-to-end encryption, verifiable file integrity, and authorship proof for global access.
+An open-source trust-centered cloud storage platform focused on end-to-end encryption, verifiable file integrity, authorship proof, and secure global access. It emphasizes user ownership and transparency in data handling.
 
 - **Aurea**  
 [https://roxanneardary.com/aurea/](https://roxanneardary.com/aurea/)  
