@@ -33,7 +33,7 @@ Scans Terraform, Kubernetes, Docker, and Ansible for vulnerabilities, malware, a
 
 - **CloudCommons**  
 [https://roxanneardary.com/cloudcommons/](https://roxanneardary.com/cloudcommons/)  
-Multi-cloud zero-trust infrastructure with end-to-end encryption, TLS 1.3/mTLS, offline-first design, and secure secrets management across cloud and edge environments.
+An open-source, multi-cloud, zero-trust infrastructure platform that combines strong security, AI-driven automation, and a low-code developer experience for managing infrastructure across diverse environments.  It supports public clouds, hybrid, edge, and self-hosted setups with privacy focus.  
 
 - **CryptoGate**  
 [https://roxanneardary.com/cryptogate/](https://roxanneardary.com/cryptogate/)  
