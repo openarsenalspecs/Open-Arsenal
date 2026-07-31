@@ -8,29 +8,9 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 # Game Specs 
 
-- **SandNet**  
-  [https://roxanneardary.com/sandnet/](https://roxanneardary.com/sandnet/)  
-  Open-source, privacy-first modular game creation and virtual world platform for building, sharing, and collaborating in user-owned environments with visual editors, multiplayer systems, and creator tools.
-
-- **Lumina**  
-  [https://roxanneardary.com/lumina/](https://roxanneardary.com/lumina/)  
-  Open-source universal gaming platform that unifies game discovery, creator monetization, secure peer-to-peer trading, and community features across the gaming ecosystem.
-
-- **Velyndor**  
-  [https://roxanneardary.com/velyndor/](https://roxanneardary.com/velyndor/)  
-  AI-driven MMORPG where players explore, craft, battle, and shape a dynamic living world through dual combat and profession skill systems, procedural content, and evolving environments.
-
-- **Enchanta**  
-  [https://roxanneardary.com/enchanta/](https://roxanneardary.com/enchanta/)  
-  AI-powered adventure creation platform for building characters and magical worlds while directing cinematic PG-13 stories through prompts and Director Mode.
-
-- [**GameCommons Module Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/a4b553ef7b56913ee733c5b1e50b7c24c2af53ef/GameCommons.md)  
-  [https://roxanneardary.com/gamecommons/](https://roxanneardary.com/gamecommons/)  
-  GameCommons is an open-source, federated multiplayer gaming platform that enables communities to create, host, and connect community-owned game worlds through a modular server ecosystem. It provides shared infrastructure for federation, matchmaking, chat, analytics, funding, rewards, and extensible game modules while allowing independent communities to maintain control of their servers.
-
-- **Infinity Arena**  
-  [https://roxanneardary.com/infinity-arena/](https://roxanneardary.com/infinity-arena/)  
-  Modular fighting game and combat creation platform featuring customizable fighter pairs, DNA-based evolution, combo editors, synergy systems, and community sharing tools.
+- **AETHER STAGE**  
+  [https://roxanneardary.com/aether-stage/](https://roxanneardary.com/aether-stage/)  
+  Cinematic spatial intelligence system that converts productions into physics-aware, programmable 360-degree simulations with director controls for game cinematics and world-building.  
 
 - **Agility Ascension**  
   [https://roxanneardary.com/agility-ascension/](https://roxanneardary.com/agility-ascension/)  
@@ -40,21 +20,41 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/applied-unknowns/](https://roxanneardary.com/applied-unknowns/)  
   Action-adventure scientific sandbox where player actions become validated, permanent infrastructure within a persistent deterministic world.
 
-- **CineRenderAI**  
-  [https://roxanneardary.com/cinerenderai/](https://roxanneardary.com/cinerenderai/)  
-  Open-source real-time neural rendering engine that transforms game visuals into cinematic-quality experiences using AI-enhanced lighting, materials, and temporal stability.
-
 - **Atlas Continuum System**  
   [https://roxanneardary.com/atlas-continuum-system/](https://roxanneardary.com/atlas-continuum-system/)  
   Specification-driven system for compiling persistent narrative worlds with structured storytelling, reusable characters and assets, and integrated physics simulation for interactive experiences.
 
-- **AETHER STAGE**  
-  [https://roxanneardary.com/aether-stage/](https://roxanneardary.com/aether-stage/)  
-  Cinematic spatial intelligence system that converts productions into physics-aware, programmable 360-degree simulations with director controls for game cinematics and world-building.  
+- **CineRenderAI**  
+  [https://roxanneardary.com/cinerenderai/](https://roxanneardary.com/cinerenderai/)  
+  Open-source real-time neural rendering engine that transforms game visuals into cinematic-quality experiences using AI-enhanced lighting, materials, and temporal stability.
+
+- [**GameCommons Module Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/a4b553ef7b56913ee733c5b1e50b7c24c2af53ef/GameCommons.md)  
+  [https://roxanneardary.com/gamecommons/](https://roxanneardary.com/gamecommons/)  
+  GameCommons is an open-source, federated multiplayer gaming platform that enables communities to create, host, and connect community-owned game worlds through a modular server ecosystem. It provides shared infrastructure for federation, matchmaking, chat, analytics, funding, rewards, and extensible game modules while allowing independent communities to maintain control of their servers.
+
+- **Enchanta**  
+  [https://roxanneardary.com/enchanta/](https://roxanneardary.com/enchanta/)  
+  AI-powered adventure creation platform for building characters and magical worlds while directing cinematic PG-13 stories through prompts and Director Mode.
+
+- **Infinity Arena**  
+  [https://roxanneardary.com/infinity-arena/](https://roxanneardary.com/infinity-arena/)  
+  Modular fighting game and combat creation platform featuring customizable fighter pairs, DNA-based evolution, combo editors, synergy systems, and community sharing tools.
+
+- **Lumina**  
+  [https://roxanneardary.com/lumina/](https://roxanneardary.com/lumina/)  
+  Open-source universal gaming platform that unifies game discovery, creator monetization, secure peer-to-peer trading, and community features across the gaming ecosystem.
 
 - **Pelagia**  
 [https://roxanneardary.com/pelagia/](https://roxanneardary.com/pelagia/)  
 Pelagia is an open, modular specification for creating living ocean worlds through underwater exploration, diving, spearfishing, marine ecosystems, and discovery systems. It provides a framework for developers to build interoperable ocean simulations featuring dynamic environments, wildlife, mapping, treasure, research, conservation, and multiplayer experiences.
+
+- **SandNet**  
+  [https://roxanneardary.com/sandnet/](https://roxanneardary.com/sandnet/)  
+  Open-source, privacy-first modular game creation and virtual world platform for building, sharing, and collaborating in user-owned environments with visual editors, multiplayer systems, and creator tools.
+
+- **Velyndor**  
+  [https://roxanneardary.com/velyndor/](https://roxanneardary.com/velyndor/)  
+  AI-driven MMORPG where players explore, craft, battle, and shape a dynamic living world through dual combat and profession skill systems, procedural content, and evolving environments.
 
 ---
 
