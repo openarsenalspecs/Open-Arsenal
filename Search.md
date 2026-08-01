@@ -16,13 +16,13 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/arq/](https://roxanneardary.com/arq/)  
   Architecture intelligence specification that models software systems as knowledge graphs for structural search, dependency discovery, and relationship-based retrieval.
 
-- **AuthTrace AI**  
-  [https://roxanneardary.com/authtrace-ai/](https://roxanneardary.com/authtrace-ai/)  
-  Provenance and authorship specification that enables content origin search, semantic lineage tracking, and knowledge asset retrieval.
-
-- **AuthorityCore**  
+- [**AuthorityCore Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/61e276f94b547630f0fff6b1f6295da7cf4ea4b3/AuthorityCore.md)    
   [https://roxanneardary.com/authoritycore/](https://roxanneardary.com/authoritycore/)  
   Governance and reasoning specification featuring evidence-constrained retrieval, jurisdiction-aware search, and source validation workflows.
+
+- **AuthTrace AI**  
+  [https://roxanneardary.com/authtrace-ai/](https://roxanneardary.com/authtrace-ai/)  
+  Provenance and authorship specification that enables content origin search, semantic lineage tracking, and knowledge asset retrieval.  
 
 - **Axis Juris**  
   [https://roxanneardary.com/axisjuris/](https://roxanneardary.com/axisjuris/)  
