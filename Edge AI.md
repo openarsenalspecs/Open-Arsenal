@@ -10,7 +10,11 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 - **Custos**  
 [https://roxanneardary.com/custos/](https://roxanneardary.com/custos/)  
-Custos is an AI-powered physical security infrastructure platform built around edge AI, computer vision, sensors, cameras, and local intelligence processing. It enables privacy-preserving security operations through local video analysis, hardware abstraction, and decentralized deployment models. 
+Custos is an AI-powered physical security infrastructure platform built around edge AI, computer vision, sensors, cameras, and local intelligence processing. It enables privacy-preserving security operations through local video analysis, hardware abstraction, and decentralized deployment models.
+
+- [**EdgeGateway Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/e09dec09730fdba128612191c4673d4bea2c3aff/EdgeGateway.md)  
+[https://roxanneardary.com/edgegateway/](https://roxanneardary.com/edgegateway/)  
+EdgeGateway is an open modular specification for secure edge device onboarding, identity management, lifecycle governance, and zero-trust infrastructure. It provides a vendor-neutral framework for building trusted edge ecosystems through cryptographic identity, policy enforcement, monitoring, and interoperable device management.  
 
 - **FlexNode**  
 [https://roxanneardary.com/flexnode/](https://roxanneardary.com/flexnode/)  
