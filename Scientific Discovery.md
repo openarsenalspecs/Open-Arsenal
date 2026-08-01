@@ -26,7 +26,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/commongrid/](https://roxanneardary.com/commongrid/)  
   A scientific data discovery and federation framework for organizing, connecting, and accessing distributed datasets and open research resources. CommonGrid supports collaborative scientific exploration through interoperable knowledge systems.
 
-- **EurekaAI**  
+- [**EurekaAI Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/0914be409df0f19084ee42ccf0851a3cf2843dc1/EurekaAI.md)    
   [https://roxanneardary.com/eurekaai/](https://roxanneardary.com/eurekaai/)  
   An AI-powered scientific discovery platform designed to analyze research literature, identify knowledge gaps, generate hypotheses, and assist researchers in discovering new possibilities across scientific disciplines.
 
