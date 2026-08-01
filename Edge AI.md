@@ -12,6 +12,10 @@ All specifications are released under the GNU Affero General Public License v3.0
 [https://roxanneardary.com/custos/](https://roxanneardary.com/custos/)  
 Custos is an AI-powered physical security infrastructure platform built around edge AI, computer vision, sensors, cameras, and local intelligence processing. It enables privacy-preserving security operations through local video analysis, hardware abstraction, and decentralized deployment models.
 
+- [**Transitio Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/769af76d8702241de656939cde46511a703b438e/Transitio.md)  
+[https://roxanneardary.com/transitio/](https://roxanneardary.com/transitio/)  
+Transitio is an open, vendor-neutral specification for securely transitioning from cloud computing to Edge AI through modular migration frameworks, hardware abstraction, and distributed intelligence. It enables organizations to modernize infrastructure while preserving security, interoperability, governance, and operational continuity.  
+
 - **FlexNode**  
 [https://roxanneardary.com/flexnode/](https://roxanneardary.com/flexnode/)  
 FlexNode is an edge computing storage virtualization specification designed for IoT nodes, embedded systems, and distributed edge environments. It provides a unified storage management layer with pluggable backends, automation, monitoring, and local-first infrastructure support for remote and constrained deployments.
