@@ -22,7 +22,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/arq/](https://roxanneardary.com/arq/)  
   A structured knowledge graph system designed to organize complex engineering, scientific, and architectural information. Arq enables relationships between concepts, components, systems, and technical documentation to support research and discovery.
 
-- **CommonGrid**  
+- [**CommonGrid Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/fc884113f5c27f08e8d09d6492ee32e62f9044cf/CommonGrid.md)    
   [https://roxanneardary.com/commongrid/](https://roxanneardary.com/commongrid/)  
   A scientific data discovery and federation framework for organizing, connecting, and accessing distributed datasets and open research resources. CommonGrid supports collaborative scientific exploration through interoperable knowledge systems.
 
