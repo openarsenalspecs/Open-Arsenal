@@ -28,7 +28,7 @@ Legal knowledge graph specification for retrieving and analyzing statutes, regul
 [https://roxanneardary.com/cognitive-orchestration-stack/](https://roxanneardary.com/cognitive-orchestration-stack/)  
 Multi-agent cognitive architecture specification that combines memory systems, contextual retrieval, and reasoning layers to support long-horizon intelligent workflows.
 
-- **CommonGrid**  
+- [**CommonGrid Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/fc884113f5c27f08e8d09d6492ee32e62f9044cf/CommonGrid.md)    
 [https://roxanneardary.com/commongrid/](https://roxanneardary.com/commongrid/)  
 Open data retrieval specification that transforms web content into structured datasets and enables discovery and composition of repositories using open-source knowledge retrieval.
 
