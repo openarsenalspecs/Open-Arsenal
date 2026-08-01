@@ -8,7 +8,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 ## Education Specs 
 
-- **BeautifAI**  
+- [**BeautifAI Module Specification**](https://github.com/openarsenalspecs/Video/blob/944d64bca220f7b5ab83aa4dcd85be00c0e076b7/BeautifAI.md)    
   [https://roxanneardary.com/beautifai/](https://roxanneardary.com/beautifai/)  
   AI-driven beauty education platform combining computer vision with practical learning. Provides personalized recommendations, virtual try-on experiences, and step-by-step tutorials for makeup, hairstyling, and personal presentation.
 
