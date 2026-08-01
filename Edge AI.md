@@ -32,6 +32,10 @@ Horizon Runtime is a universal AI execution runtime designed for local, enterpri
 [https://roxanneardary.com/opencluster/](https://roxanneardary.com/opencluster/)  
 OpenCluster is a federated distributed compute infrastructure specification designed for sovereign AI, community-owned infrastructure, and resilient computing networks. It enables modular compute resources to work together across decentralized environments while reducing dependence on centralized providers.
 
+- [**OpenFabric Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/ae8e3a2b93e0f5ddf16cb8b03cbfcfd600a4259f/OpenFabric.md)  
+[https://roxanneardary.com/openfabric/](https://roxanneardary.com/openfabric/)  
+OpenFabric is an open, modular Hardware Abstraction Layer specification that provides a universal device layer for edge computing, enabling software, AI systems, and automation platforms to interact with diverse hardware through standardized interfaces. It creates a vendor-neutral foundation for interoperable devices by abstracting hardware capabilities, supporting extensible modules, and reducing fragmentation across connected edge ecosystems.
+
 - **RoadCraft**  
 [https://roxanneardary.com/roadcraft/](https://roxanneardary.com/roadcraft/)  
 RoadCraft is an edge AI mobility system designed for motorcycle intelligence, combining sensors, onboard computing, and real-time assistance capabilities. It processes critical information locally to provide faster responses, safety monitoring, and rider-focused intelligence.
