@@ -8,66 +8,65 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 ## AI Retrieval Specs 
 
-- **RAGBase**  
-https://roxanneardary.com/ragbase/  
-Schema-enforced infrastructure specification for Retrieval-Augmented Generation (RAG) systems, supporting modular retrieval components including chunking strategies, embedding models, vector databases, and retrieval pipelines.
-
-- **MindCache**  
-https://roxanneardary.com/mindcache/  
-Persistent multi-agent memory and retrieval specification for long-term state management, snippet retrieval, versioned memory, semantic search, and collaborative intelligence using structured and vector-based retrieval systems.
-
-- **VoxPersona**  
-https://roxanneardary.com/voxpersona/  
-Retrieval-based intelligence specification that searches approved knowledge bases and content repositories, extracts relevant information, and generates source-grounded responses across multiple content formats.
-
-- **SynapCache**  
-https://roxanneardary.com/synapcache/  
-Context-aware caching and retrieval specification featuring semantic search, vector similarity matching, memory indexing, and intelligent context retrieval for AI applications.
-
-- **AuthorityCore**  
-https://roxanneardary.com/authoritycore/  
-Governance and reasoning specification that incorporates evidence-constrained retrieval, jurisdiction-aware knowledge retrieval, and human-in-the-loop validation for trustworthy AI systems.
-
-- **VeritasCode**  
-https://roxanneardary.com/veritascode/  
-Retrieval-first legal intelligence specification designed for evidence-based legal analysis, statutory retrieval, conflict identification, and source-grounded reasoning.
-
-- **CommonGrid**  
-https://roxanneardary.com/commongrid/  
-Open data retrieval specification that transforms web content into structured datasets and enables discovery and composition of repositories using open-source knowledge retrieval.
-
-- **PublicStack AI**  
-https://roxanneardary.com/publicstackai/  
-Public knowledge retrieval and repository intelligence specification that aggregates, structures, and retrieves information from open-source ecosystems and public data sources.
-
-- **Axis Juris**  
-https://roxanneardary.com/axisjuris/  
-Legal knowledge graph specification for retrieving and analyzing statutes, regulations, case law, and legal relationships through structured knowledge retrieval.
-
-- **LexChangeFeed**  
-https://roxanneardary.com/lexchangefeed/  
-Real-time legal intelligence and retrieval specification that tracks legislative and regulatory changes and delivers searchable legal knowledge updates.
-
 - **Arq**  
-https://roxanneardary.com/arq/  
+[https://roxanneardary.com/arq/](https://roxanneardary.com/arq/)  
 Architecture intelligence specification that models software systems as living knowledge graphs, enabling structural retrieval and relationship-based knowledge discovery.
 
-- **LicenseTrace**  
-https://roxanneardary.com/licensetrace/  
-Semantic provenance and knowledge asset retrieval specification for tracking licensing information, content lineage, and attribution histories.
+- **AuthorityCore**  
+[https://roxanneardary.com/authoritycore/](https://roxanneardary.com/authoritycore/)  
+Governance and reasoning specification that incorporates evidence-constrained retrieval, jurisdiction-aware knowledge retrieval, and human-in-the-loop validation for trustworthy AI systems.
 
 - **AuthTrace AI**  
-https://roxanneardary.com/authtrace-ai/  
+[https://roxanneardary.com/authtrace-ai/](https://roxanneardary.com/authtrace-ai/)  
 Provenance and authorship retrieval specification that identifies content origins, tracks knowledge assets, and enables semantic lineage analysis.
 
-- **LatticeOS**  
-https://roxanneardary.com/latticeos/  
-Multi-agent orchestration specification featuring integrated memory, contextual retrieval, and knowledge management layers for coordinated AI systems.
+- **Axis Juris**  
+[https://roxanneardary.com/axisjuris/](https://roxanneardary.com/axisjuris/)  
+Legal knowledge graph specification for retrieving and analyzing statutes, regulations, case law, and legal relationships through structured knowledge retrieval.
 
 - **Cognitive Orchestration Stack (COS)**  
-https://roxanneardary.com/cognitive-orchestration-stack/  
+[https://roxanneardary.com/cognitive-orchestration-stack/](https://roxanneardary.com/cognitive-orchestration-stack/)  
 Multi-agent cognitive architecture specification that combines memory systems, contextual retrieval, and reasoning layers to support long-horizon intelligent workflows.
 
+- **CommonGrid**  
+[https://roxanneardary.com/commongrid/](https://roxanneardary.com/commongrid/)  
+Open data retrieval specification that transforms web content into structured datasets and enables discovery and composition of repositories using open-source knowledge retrieval.
+
+- **LatticeOS**  
+[https://roxanneardary.com/latticeos/](https://roxanneardary.com/latticeos/)  
+Multi-agent orchestration specification featuring integrated memory, contextual retrieval, and knowledge management layers for coordinated AI systems.
+
+- **LexChangeFeed**  
+[https://roxanneardary.com/lexchangefeed/](https://roxanneardary.com/lexchangefeed/)  
+Real-time legal intelligence and retrieval specification that tracks legislative and regulatory changes and delivers searchable legal knowledge updates.
+
+- **LicenseTrace**  
+[https://roxanneardary.com/licensetrace/](https://roxanneardary.com/licensetrace/)  
+Semantic provenance and knowledge asset retrieval specification for tracking licensing information, content lineage, and attribution histories.
+
+- **MindCache**  
+[https://roxanneardary.com/mindcache/](https://roxanneardary.com/mindcache/)  
+Persistent multi-agent memory and retrieval specification for long-term state management, snippet retrieval, versioned memory, semantic search, and collaborative intelligence using structured and vector-based retrieval systems.
+
+- **PublicStack AI**  
+[https://roxanneardary.com/publicstackai/](https://roxanneardary.com/publicstackai/)  
+Public knowledge retrieval and repository intelligence specification that aggregates, structures, and retrieves information from open-source ecosystems and public data sources.
+
+- **RAGBase**  
+[https://roxanneardary.com/ragbase/](https://roxanneardary.com/ragbase/)  
+Schema-enforced infrastructure specification for Retrieval-Augmented Generation (RAG) systems, supporting modular retrieval components including chunking strategies, embedding models, vector databases, and retrieval pipelines.
+
+- **SynapCache**  
+[https://roxanneardary.com/synapcache/](https://roxanneardary.com/synapcache/)  
+Context-aware caching and retrieval specification featuring semantic search, vector similarity matching, memory indexing, and intelligent context retrieval for AI applications.
+
+- **VeritasCode**  
+[https://roxanneardary.com/veritascode/](https://roxanneardary.com/veritascode/)  
+Retrieval-first legal intelligence specification designed for evidence-based legal analysis, statutory retrieval, conflict identification, and source-grounded reasoning.
+
+- **VoxPersona**  
+[https://roxanneardary.com/voxpersona/](https://roxanneardary.com/voxpersona/)  
+Retrieval-based intelligence specification that searches approved knowledge bases and content repositories, extracts relevant information, and generates source-grounded responses across multiple content formats.
 ---
 
 # Specification Branding License (SBL)
