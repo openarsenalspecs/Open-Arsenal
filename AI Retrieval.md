@@ -16,7 +16,7 @@ Architecture intelligence specification that models software systems as living k
 [https://roxanneardary.com/authoritycore/](https://roxanneardary.com/authoritycore/)  
 Governance and reasoning specification that incorporates evidence-constrained retrieval, jurisdiction-aware knowledge retrieval, and human-in-the-loop validation for trustworthy AI systems.
 
-- **AuthTrace AI**  
+- [**AuthTrace AI Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/62cef9853fb3c67c415c642a7de5a74a945ccbeb/AuthTrace%20AI.md)    
 [https://roxanneardary.com/authtrace-ai/](https://roxanneardary.com/authtrace-ai/)  
 Provenance and authorship retrieval specification that identifies content origins, tracks knowledge assets, and enables semantic lineage analysis.
 
