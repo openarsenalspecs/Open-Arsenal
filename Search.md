@@ -40,7 +40,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/citizen-tools/](https://roxanneardary.com/citizen-tools/)  
   Civic technology specification providing searchable public official profiles, geographic filtering, comparison tools, and public information discovery.
 
-- **Cognitive Orchestration Stack (COS)**  
+- [**Cognitive Orchestration Stack Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/3e49f944059b3ba13891f7dc4d8d0e846bf8c13e/Cognitive%20Orchestration%20Stack.md)    
   [https://roxanneardary.com/cognitive-orchestration-stack/](https://roxanneardary.com/cognitive-orchestration-stack/)  
   Multi-agent AI architecture that integrates contextual retrieval, persistent memory, and intelligent knowledge search for complex workflows.
 
