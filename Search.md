@@ -8,7 +8,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 ## Search Specs
 
-- **AI Retrieval**  
+- [**AI Retrieval**](https://github.com/openarsenalspecs/Open-Arsenal/blob/bd17beab71700137eda25997126912781896f82e/AI%20Retrieval.md)    
   [https://roxanneardary.com/ai-retrieval/](https://roxanneardary.com/ai-retrieval/)  
   A collection of retrieval specifications covering semantic search, vector search, Retrieval-Augmented Generation (RAG), contextual search, knowledge retrieval, and evidence retrieval systems.
 
