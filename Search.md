@@ -20,7 +20,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/authoritycore/](https://roxanneardary.com/authoritycore/)  
   Governance and reasoning specification featuring evidence-constrained retrieval, jurisdiction-aware search, and source validation workflows.
 
-- **AuthTrace AI**  
+- [**AuthTrace AI Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/3b62e0494970c96279536446ad209392ca368cba/AuthTrace%20AI.md)    
   [https://roxanneardary.com/authtrace-ai/](https://roxanneardary.com/authtrace-ai/)  
   Provenance and authorship specification that enables content origin search, semantic lineage tracking, and knowledge asset retrieval.  
 
