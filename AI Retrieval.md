@@ -12,7 +12,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 [https://roxanneardary.com/arq/](https://roxanneardary.com/arq/)  
 Architecture intelligence specification that models software systems as living knowledge graphs, enabling structural retrieval and relationship-based knowledge discovery.
 
-- **AuthorityCore**  
+- [**AuthorityCore Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/3b62e0494970c96279536446ad209392ca368cba/AuthorityCore.md)    
 [https://roxanneardary.com/authoritycore/](https://roxanneardary.com/authoritycore/)  
 Governance and reasoning specification that incorporates evidence-constrained retrieval, jurisdiction-aware knowledge retrieval, and human-in-the-loop validation for trustworthy AI systems.
 
