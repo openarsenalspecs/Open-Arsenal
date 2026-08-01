@@ -58,7 +58,11 @@ Vendra is a smart device operating system specification for connected retail inf
 
 - **Vehicle Overlay System (VOS)**  
 [https://roxanneardary.com/vehicle-overlay-system/](https://roxanneardary.com/vehicle-overlay-system/)  
-Vehicle Overlay System (VOS) is an automotive edge computing specification that adds intelligent processing, connectivity, and AI capabilities to vehicles without replacing core vehicle systems. It enables localized vehicle intelligence, sensor integration, and real-time decision support at the edge.
+Vehicle Overlay System (VOS) is an automotive edge computing specification that adds intelligent processing, connectivity, and AI capabilities to vehicles without replacing core vehicle systems. It enables localized vehicle intelligence, sensor integration, and real-time decision support at the edge.  
+
+- [**VoltIQ Module Specification**](https://github.com/openarsenalspecs/Energy/blob/31b3b9e67e2cd4daaf7ca288e19dcdb8bdc46a4f/VoltIQ.md)  
+[https://roxanneardary.com/voltiq/](https://roxanneardary.com/voltiq/)  
+VoltIQ is an open AGPL-3.0+ specification that serves as the energy brain for edge devices, providing intelligent power optimization, adaptive energy management, and energy-aware workload scheduling for distributed computing systems. Its modular architecture enables organizations to build efficient, autonomous edge infrastructure with optional support for battery intelligence, renewable energy integration, smart grid connectivity, and AI-driven energy optimization.
 
 ---
 
