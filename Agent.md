@@ -24,7 +24,7 @@ A single AI assistant workflow designed to guide users through complex processes
 [https://roxanneardary.com/civicos-ai/](https://roxanneardary.com/civicos-ai/)  
 An AI operating system architecture designed for autonomous systems, combining agent workflows, memory, tools, plugins, governance controls, and human approval mechanisms.
 
-- **Cognitive Orchestration Stack (COS)**  
+- [**Cognitive Orchestration Stack Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/3e49f944059b3ba13891f7dc4d8d0e846bf8c13e/Cognitive%20Orchestration%20Stack.md)    
 [https://roxanneardary.com/cognitive-orchestration-stack/](https://roxanneardary.com/cognitive-orchestration-stack/)  
 An orchestration architecture for coordinating AI capabilities including reasoning, memory, retrieval, and execution. It provides the workflow coordination layer required for advanced AI agents.
 
