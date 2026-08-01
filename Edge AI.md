@@ -10,11 +10,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 - **Custos**  
 [https://roxanneardary.com/custos/](https://roxanneardary.com/custos/)  
-Custos is an AI-powered physical security infrastructure platform built around edge AI, computer vision, sensors, cameras, and local intelligence processing. It enables privacy-preserving security operations through local video analysis, hardware abstraction, and decentralized deployment models.
-
-- [**Transitio Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/769af76d8702241de656939cde46511a703b438e/Transitio.md)  
-[https://roxanneardary.com/transitio/](https://roxanneardary.com/transitio/)  
-Transitio is an open, vendor-neutral specification for securely transitioning from cloud computing to Edge AI through modular migration frameworks, hardware abstraction, and distributed intelligence. It enables organizations to modernize infrastructure while preserving security, interoperability, governance, and operational continuity.  
+Custos is an AI-powered physical security infrastructure platform built around edge AI, computer vision, sensors, cameras, and local intelligence processing. It enables privacy-preserving security operations through local video analysis, hardware abstraction, and decentralized deployment models. 
 
 - **FlexNode**  
 [https://roxanneardary.com/flexnode/](https://roxanneardary.com/flexnode/)  
@@ -39,6 +35,10 @@ RoadCraft is an edge AI mobility system designed for motorcycle intelligence, co
 - **SynchroFab**  
 [https://roxanneardary.com/synchrofab/](https://roxanneardary.com/synchrofab/)  
 SynchroFab is an industrial intelligence platform that combines edge computing, IoT, automation, robotics, and AI-driven manufacturing coordination. It enables distributed intelligence across factory environments by connecting machines, sensors, and operational systems.
+
+- [**Transitio Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/769af76d8702241de656939cde46511a703b438e/Transitio.md)  
+[https://roxanneardary.com/transitio/](https://roxanneardary.com/transitio/)  
+Transitio is an open, vendor-neutral specification for securely transitioning from cloud computing to Edge AI through modular migration frameworks, hardware abstraction, and distributed intelligence. It enables organizations to modernize infrastructure while preserving security, interoperability, governance, and operational continuity.  
 
 - **ValidationOS**  
 [https://roxanneardary.com/ai-unit-testing-framework/](https://roxanneardary.com/ai-unit-testing-framework/)  
