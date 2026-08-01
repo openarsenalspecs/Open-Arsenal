@@ -22,19 +22,11 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 ## Reasoning Specs  
 
-- **Moral Inference Engine**  
-[https://roxanneardary.com/moral-inference-engine/](https://roxanneardary.com/moral-inference-engine/)  
-Open modular framework for AI systems that analyze moral dimensions of texts, generate multiple interpretations, rank them with confidence scores, and provide transparent explanations while preserving interpretive diversity.
-
-- **Moral Ranking and Diversity System**  
-[https://roxanneardary.com/moral-ranking-and-diversity-system/](https://roxanneardary.com/moral-ranking-and-diversity-system/)  
-Framework for evaluating and ranking multiple moral interpretations from AI reasoning systems, with confidence scoring, diversity preservation, and transparent explanations.
-
 - **Audit and Traceability Layer**  
 [https://roxanneardary.com/audit-and-traceability-layer/](https://roxanneardary.com/audit-and-traceability-layer/)    
 Tracks and verifies all steps in AI moral reasoning and narrative generation with full provenance.
 
-- [**Cognitive Orchestration Stack Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/3e49f944059b3ba13891f7dc4d8d0e846bf8c13e/Cognitive%20Orchestration%20Stack.md)    
+- **Cognitive Orchestration Stack**  
 [https://roxanneardary.com/cognitive-orchestration-stack/](https://roxanneardary.com/cognitive-orchestration-stack/)  
 Modular framework that separates reasoning from generation using structured cognitive workflows.
 
