@@ -24,7 +24,7 @@ Provenance and authorship retrieval specification that identifies content origin
 [https://roxanneardary.com/axisjuris/](https://roxanneardary.com/axisjuris/)  
 Legal knowledge graph specification for retrieving and analyzing statutes, regulations, case law, and legal relationships through structured knowledge retrieval.
 
-- **Cognitive Orchestration Stack (COS)**  
+- [**Cognitive Orchestration Stack Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/3e49f944059b3ba13891f7dc4d8d0e846bf8c13e/Cognitive%20Orchestration%20Stack.md)    
 [https://roxanneardary.com/cognitive-orchestration-stack/](https://roxanneardary.com/cognitive-orchestration-stack/)  
 Multi-agent cognitive architecture specification that combines memory systems, contextual retrieval, and reasoning layers to support long-horizon intelligent workflows.
 
