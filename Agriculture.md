@@ -18,7 +18,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/heirloom-haven/](https://roxanneardary.com/heirloom-haven/)  
   Heirloom Haven is an open-source seed exchange platform for preserving heirloom, native, and non-GMO seeds. It enables community sharing, catalogs, and education to support biodiversity.
 
-- **FarmWeb Intelligence**  
+- [**FarmWeb Intelligence Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/57ef637bb63c89c2ac5f346cbf1531ff4a1cb951/FarmWeb%20Intelligence.md)    
   [https://roxanneardary.com/farmweb-intelligence/](https://roxanneardary.com/farmweb-intelligence/)  
   FarmWeb Intelligence is an open-source platform that maps farms, ownership structures, public funding, and public records. It creates a transparent network revealing connections in agricultural systems and resource distribution.
 
