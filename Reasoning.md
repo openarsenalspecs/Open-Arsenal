@@ -26,7 +26,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 [https://roxanneardary.com/audit-and-traceability-layer/](https://roxanneardary.com/audit-and-traceability-layer/)    
 Tracks and verifies all steps in AI moral reasoning and narrative generation with full provenance.
 
-- **Cognitive Orchestration Stack**  
+- [**Cognitive Orchestration Stack Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/3e49f944059b3ba13891f7dc4d8d0e846bf8c13e/Cognitive%20Orchestration%20Stack.md)    
 [https://roxanneardary.com/cognitive-orchestration-stack/](https://roxanneardary.com/cognitive-orchestration-stack/)  
 Modular framework that separates reasoning from generation using structured cognitive workflows.
 
