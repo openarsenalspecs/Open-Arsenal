@@ -60,7 +60,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/lexchangefeed/](https://roxanneardary.com/lexchangefeed/)  
   Real-time legal intelligence specification that tracks legislative changes and maintains a searchable history of legal updates.
 
-- **LicenseTrace**  
+- [**LicenseTrace Module Specification**](https://github.com/openarsenalspecs/Legal/blob/5d6ce59882857f4a39ece8b7cb65a218ce9f5cc0/LicenseTrace.md)      
   [https://roxanneardary.com/licensetrace/](https://roxanneardary.com/licensetrace/)  
   License provenance specification for searching software licenses, attribution records, usage rights, and content lineage.
 
