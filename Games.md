@@ -40,7 +40,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/infinity-arena/](https://roxanneardary.com/infinity-arena/)  
   Modular fighting game and combat creation platform featuring customizable fighter pairs, DNA-based evolution, combo editors, synergy systems, and community sharing tools.
 
-- **Lumina**  
+- [**Lumina Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/d5c49bbbb905f0cf62d7fde82ff4b8cb02ad146f/Lumina.md)    
   [https://roxanneardary.com/lumina/](https://roxanneardary.com/lumina/)  
   Open-source universal gaming platform that unifies game discovery, creator monetization, secure peer-to-peer trading, and community features across the gaming ecosystem.
 
