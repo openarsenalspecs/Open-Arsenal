@@ -24,7 +24,7 @@ An AI-powered business operating system specification featuring the CipherAI ass
 [https://roxanneardary.com/ralph-workflow/](https://roxanneardary.com/ralph-workflow/)  
 An unattended AI agent orchestration specification for software development that coordinates developer and reviewer agents through structured execution phases, semantic code search, planning, iterative refinement, automated testing, and commit workflows.
 
-- [**Workflow Certification Module Specification**]  (https://github.com/openarsenalspecs/Wiki/blob/5403ffd42b58b52c89967f5f5251086a48857a24/Workflow%20Certification.md)  
+- [**Workflow Certification Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/5403ffd42b58b52c89967f5f5251086a48857a24/Workflow%20Certification.md)  
 [https://roxanneardary.com/workflow-certification/](https://roxanneardary.com/workflow-certification/)  
 Workflow Certification is an open specification for validating AI agent workflows by ensuring they include essential components for security, governance, transparency, reliability, and long-term maintainability. It provides a modular certification framework for evaluating workflow architecture, agent capabilities, human oversight, testing, observability, and lifecycle management.
 
