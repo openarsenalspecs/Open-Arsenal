@@ -12,7 +12,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/beekeepers-guide-to-the-universe/](https://roxanneardary.com/beekeepers-guide-to-the-universe/)  
   AI-powered platform for pollinator ecosystem design and management. Integrates bee biology, habitat engineering, climate modeling, and plant forage to support growing systems.
 
-- **HarvestIQ**  
+- [**HarvestIQ Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/40e23218268f954a56a0cc5959923c13779864e3/HarvestIQ.md)    
   [https://roxanneardary.com/harvestiq/](https://roxanneardary.com/harvestiq/)  
   AI-driven land optimization platform for maximizing property use in farming and sustainability. Uses geospatial analysis, zoning, and simulation for efficient food production layouts and growing strategies.
 
