@@ -14,7 +14,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/harvestiq/](https://roxanneardary.com/harvestiq/)  
   HarvestIQ is an AI-driven land optimization platform for maximizing property use in farming and sustainability. It combines geospatial analysis, zoning compliance, and simulation for food production and profitability.
 
-- **Heirloom Haven**  
+- [**Heirloom Haven Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/10111048c6c6a92b7423c292da91796d919baa43/Heirloom%20Haven.md)  
   [https://roxanneardary.com/heirloom-haven/](https://roxanneardary.com/heirloom-haven/)  
   Heirloom Haven is an open-source seed exchange platform for preserving heirloom, native, and non-GMO seeds. It enables community sharing, catalogs, and education to support biodiversity.
 
