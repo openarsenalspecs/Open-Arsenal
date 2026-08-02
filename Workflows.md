@@ -8,19 +8,19 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 # Workflow Specs
 
-**CivicOS AI**  
+- [**CivicOS AI Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/c89d459d1915c8fb7c7621ae2955207bb3e66281/CivicOS%20AI.md)    
 [https://roxanneardary.com/civicos-ai/](https://roxanneardary.com/civicos-ai/)  
 An AI operating system specification providing multi-agent orchestration, workflow graphs, branching execution, memory, governance, interoperability, federated execution, and human-in-the-loop decision making for complex AI systems.
 
-**LatticeOS**  
+- **LatticeOS**  
 [https://roxanneardary.com/latticeos/](https://roxanneardary.com/latticeos/)  
 A governed multi-agent operating system specification that enables AI agents to execute tasks within deterministic workflows while enforcing human approval, policy controls, audit logging, memory management, and secure execution.
 
-**MindLedger**  
+- **MindLedger**  
 [https://roxanneardary.com/mindledger/](https://roxanneardary.com/mindledger/)  
 An AI-powered business operating system specification featuring the CipherAI assistant to automate CRM, payroll, billing, compliance, scheduling, inventory, reporting, and business operations through natural language workflows and intelligent process automation.
 
-**Ralph Workflow**  
+- **Ralph Workflow**  
 [https://roxanneardary.com/ralph-workflow/](https://roxanneardary.com/ralph-workflow/)  
 An unattended AI agent orchestration specification for software development that coordinates developer and reviewer agents through structured execution phases, semantic code search, planning, iterative refinement, automated testing, and commit workflows.
 
