@@ -52,7 +52,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/corelia/](https://roxanneardary.com/corelia/)  
   AI-powered open source CMS featuring integrated SEO, AI search optimization, LLM-enhanced search, intelligent content organization, and automated SEO improvements.
 
-- **LatticeOS**  
+- [**LatticeOS Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/188379d380a767745708ae10f5bb927c46a4cf0e/LatticeOS.md)    
   [https://roxanneardary.com/latticeos/](https://roxanneardary.com/latticeos/)  
   Multi-agent operating platform with integrated memory management, contextual retrieval, semantic search, and knowledge orchestration.
 
