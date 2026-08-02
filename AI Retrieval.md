@@ -32,7 +32,7 @@ Multi-agent cognitive architecture specification that combines memory systems, c
 [https://roxanneardary.com/commongrid/](https://roxanneardary.com/commongrid/)  
 Open data retrieval specification that transforms web content into structured datasets and enables discovery and composition of repositories using open-source knowledge retrieval.
 
-- **LatticeOS**  
+- [**LatticeOS Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/188379d380a767745708ae10f5bb927c46a4cf0e/LatticeOS.md)    
 [https://roxanneardary.com/latticeos/](https://roxanneardary.com/latticeos/)  
 Multi-agent orchestration specification featuring integrated memory, contextual retrieval, and knowledge management layers for coordinated AI systems.
 
