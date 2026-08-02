@@ -26,7 +26,7 @@ An open-source, AI-powered specification framework for women-centered inner awar
 [https://roxanneardary.com/lightthroughwords/](https://roxanneardary.com/lightthroughwords/)  
 An open-source platform that reinterprets ancient religious, philosophical, and cultural writings as structured reflections of human psychology. Features authorial voice modeling (separating psychological “voices” in texts), emotional resonance mapping (linking user’s current mental/emotional states like anxiety or grief to historical parallels), and identification of recurring psychological strategies for resilience and meaning-making.
 
-- **Oneiros**  
+- [**Oneiros Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/372da3711e09f69e63e9bd89ff643773ff9588d5/Oneiros.md)    
 [https://roxanneardary.com/oneiros/](https://roxanneardary.com/oneiros/)  
 An open-source platform designed to help users (particularly men) interpret recurring dreams, especially those involving emotionally significant feminine figures, as symbolic reflections of the subconscious. Uses AI and psychological frameworks to reveal emotional patterns, attachment tendencies, relational readiness, and actionable personal growth insights.  
 
