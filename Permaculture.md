@@ -36,7 +36,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/terraguild-ai/](https://roxanneardary.com/terraguild-ai/)  
   TerraGuild AI is a modular artificial intelligence specification for designing regenerative food forests, permaculture landscapes, and sustainable ecosystems using generative AI, botanical intelligence, and ecological modeling. It enables intelligent landscape planning through land analysis, plant relationship mapping, seasonal recommendations, natural pest management, and long-term ecosystem simulation to help create abundant, resilient food systems.
 
-- **YieldStack**  
+- [**YieldStack Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/970c928645a4b1ed38f8dad6e3b00b1117cfeab1/YieldStack.md)     
   [https://roxanneardary.com/yieldstack/](https://roxanneardary.com/yieldstack/)  
   Modular AI agricultural intelligence platform for precision farming. Optimizes water, nitrogen, crop yields, soil health, and sustainability with real-time data and recommendations.
 
