@@ -44,9 +44,9 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/lumina/](https://roxanneardary.com/lumina/)  
   Open-source universal gaming platform that unifies game discovery, creator monetization, secure peer-to-peer trading, and community features across the gaming ecosystem.
 
-- **Pelagia**  
+- [**Pelagia Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/b3af857f69065ac556805ae2828490f7d0dd4898/Pelagia.md)   
 [https://roxanneardary.com/pelagia/](https://roxanneardary.com/pelagia/)  
-Pelagia is an open, modular specification for creating living ocean worlds through underwater exploration, diving, spearfishing, marine ecosystems, and discovery systems. It provides a framework for developers to build interoperable ocean simulations featuring dynamic environments, wildlife, mapping, treasure, research, conservation, and multiplayer experiences.
+Pelagia is an open, modular specification for creating living ocean worlds through underwater exploration, diving, spearfishing, marine ecosystems, and discovery systems. It provides a framework for developers to build interoperable ocean simulations featuring dynamic environments, wildlife, mapping, treasure, research, conservation, and multiplayer experiences.  
 
 - **SandNet**  
   [https://roxanneardary.com/sandnet/](https://roxanneardary.com/sandnet/)  
