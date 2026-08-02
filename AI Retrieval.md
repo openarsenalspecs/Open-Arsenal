@@ -40,7 +40,7 @@ Multi-agent orchestration specification featuring integrated memory, contextual 
 [https://roxanneardary.com/lexchangefeed/](https://roxanneardary.com/lexchangefeed/)  
 Real-time legal intelligence and retrieval specification that tracks legislative and regulatory changes and delivers searchable legal knowledge updates.
 
-- **LicenseTrace**  
+- [**LicenseTrace Module Specification**](https://github.com/openarsenalspecs/Legal/blob/5d6ce59882857f4a39ece8b7cb65a218ce9f5cc0/LicenseTrace.md)     
 [https://roxanneardary.com/licensetrace/](https://roxanneardary.com/licensetrace/)  
 Semantic provenance and knowledge asset retrieval specification for tracking licensing information, content lineage, and attribution histories.
 
