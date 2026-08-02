@@ -12,7 +12,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 [https://roxanneardary.com/civicos-ai/](https://roxanneardary.com/civicos-ai/)  
 An AI operating system specification providing multi-agent orchestration, workflow graphs, branching execution, memory, governance, interoperability, federated execution, and human-in-the-loop decision making for complex AI systems.
 
-- **LatticeOS**  
+- [**LatticeOS Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/188379d380a767745708ae10f5bb927c46a4cf0e/LatticeOS.md)    
 [https://roxanneardary.com/latticeos/](https://roxanneardary.com/latticeos/)  
 A governed multi-agent operating system specification that enables AI agents to execute tasks within deterministic workflows while enforcing human approval, policy controls, audit logging, memory management, and secure execution.
 
