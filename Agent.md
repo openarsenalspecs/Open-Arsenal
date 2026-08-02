@@ -40,7 +40,7 @@ An AI agent operating layer focused on controlled autonomy. It provides intent v
 [https://roxanneardary.com/horizon-runtime/](https://roxanneardary.com/horizon-runtime/)  
 An AI execution runtime designed for scalable inference, multimodal workloads, adaptive computation, and the infrastructure required to operate advanced AI agents.
 
-- **LatticeOS**  
+- [**LatticeOS Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/188379d380a767745708ae10f5bb927c46a4cf0e/LatticeOS.md)    
 [https://roxanneardary.com/latticeos/](https://roxanneardary.com/latticeos/)  
 An AI system architecture designed around connected intelligence components, knowledge management, memory, and contextual reasoning for adaptive agent environments.
 
