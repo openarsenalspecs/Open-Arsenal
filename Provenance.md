@@ -16,7 +16,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/license-guardian-network/](https://roxanneardary.com/license-guardian-network/)  
   A semantic licensing and provenance compliance platform that monitors attribution requirements, license relationships, specification usage, and intellectual property compliance.
 
-- **LicenseTrace**  
+- [**LicenseTrace Module Specification**](https://github.com/openarsenalspecs/Legal/blob/5d6ce59882857f4a39ece8b7cb65a218ce9f5cc0/LicenseTrace.md)    
   [https://roxanneardary.com/licensetrace/](https://roxanneardary.com/licensetrace/)  
   A software provenance and attribution intelligence system that tracks software origins, dependency lineage, reuse patterns, licensing relationships, and attribution requirements across projects.
 
