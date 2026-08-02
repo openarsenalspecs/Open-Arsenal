@@ -99,7 +99,7 @@ Secure distributed backup system using encrypted storage for resilient data prot
 [https://roxanneardary.com/selfroot/](https://roxanneardary.com/selfroot/)  
 Passwordless authentication system that converts live human presence into cryptographic proof using locally processed biometrics, challenge-response flows, and secure enclave support without centralized identity storage.
 
-- **ShieldGrid **  
+- **ShieldGrid**  
 [https://roxanneardary.com/shieldgrid/](https://roxanneardary.com/shieldgrid/)  
 Autonomous defense platform that turns devices into a unified security network with behavior-based anomaly detection, containment, quarantine, and self-healing updates.
 
