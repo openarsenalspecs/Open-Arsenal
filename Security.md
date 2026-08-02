@@ -55,7 +55,7 @@ Detects phishing, spam, scams, and malware across text, images, and video conten
 [https://roxanneardary.com/guardiannx/](https://roxanneardary.com/guardiannx/)  
 Privacy-first home security system with encrypted edge AI surveillance and decentralized architecture.
 
-- **Keyra**  
+- [**Keyra Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/2cdada7267708347289c718cd2b22e5c81944e7b/Keyra.md)    
 [https://roxanneardary.com/keyra/](https://roxanneardary.com/keyra/)  
 Authentication platform using quantum-safe cryptographic keys instead of traditional passwords.
 
