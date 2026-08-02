@@ -450,7 +450,8 @@ Open-Arsenal-Index/
     - [Psychology](https://github.com/openarsenalspecs/Open-Arsenal/blob/9c842eba34a6f897654f025f951a37e6f8bc00e7/Psychology.md)
     - [Search](https://github.com/openarsenalspecs/Open-Arsenal/blob/4adbec1c6e0faf84e8938d17fd46b26857dcf9ce/Search.md)  
     - [Taxation](https://github.com/openarsenalspecs/Open-Arsenal/blob/d59f02fa068dfaadfb63dd58f88debfa179962d7/Taxation.md)  
-    - [Vector](https://github.com/openarsenalspecs/Open-Arsenal/blob/84362c30689428657ae4c5a5d0edc2a2de46b79b/Vector.md)  
+    - [Vector](https://github.com/openarsenalspecs/Open-Arsenal/blob/84362c30689428657ae4c5a5d0edc2a2de46b79b/Vector.md)
+    - [Workflows](https://github.com/openarsenalspecs/Open-Arsenal/blob/15b181998ab1161a8d3205a7941d862a7e286b8b/Workflows.md)  
 
 ---
 
