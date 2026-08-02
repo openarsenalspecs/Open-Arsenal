@@ -22,7 +22,7 @@ An open-source AI-powered application that helps users explore thoughts, situati
 [https://roxanneardary.com/heroneiros/](https://roxanneardary.com/heroneiros/)  
 An open-source, AI-powered specification framework for women-centered inner awareness applications. Supports journaling, dream exploration, emotional analysis, cyclical/lunar awareness, body-mind reflection, relationship intelligence, and an AI communication assistant to improve clarity, emotional context, and intentional self-expression. Emphasizes privacy, emotional intelligence, and reflective practices.  
 
-- **LightThroughWords**  
+- [**LightThroughWords Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/9eb4bf8e62d7cd6892a52b30ea50b4129d91633e/LightThroughWords.md)   
 [https://roxanneardary.com/lightthroughwords/](https://roxanneardary.com/lightthroughwords/)  
 An open-source platform that reinterprets ancient religious, philosophical, and cultural writings as structured reflections of human psychology. Features authorial voice modeling (separating psychological “voices” in texts), emotional resonance mapping (linking user’s current mental/emotional states like anxiety or grief to historical parallels), and identification of recurring psychological strategies for resilience and meaning-making.
 
