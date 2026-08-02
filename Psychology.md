@@ -28,7 +28,11 @@ An open-source platform that reinterprets ancient religious, philosophical, and 
 
 - [**Oneiros Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/372da3711e09f69e63e9bd89ff643773ff9588d5/Oneiros.md)    
 [https://roxanneardary.com/oneiros/](https://roxanneardary.com/oneiros/)  
-An open-source platform designed to help users (particularly men) interpret recurring dreams, especially those involving emotionally significant feminine figures, as symbolic reflections of the subconscious. Uses AI and psychological frameworks to reveal emotional patterns, attachment tendencies, relational readiness, and actionable personal growth insights.  
+An open-source platform designed to help users (particularly men) interpret recurring dreams, especially those involving emotionally significant feminine figures, as symbolic reflections of the subconscious. Uses AI and psychological frameworks to reveal emotional patterns, attachment tendencies, relational readiness, and actionable personal growth insights.
+
+- [**Symbol Atlast Module Specification**](https://github.com/openarsenalspecs/Virtual-Reality/blob/05bb8a6faf29fae05115a724a72937e5cdd015ff/SymbolAtlas.md)  
+[https://roxanneardary.com/symbolatlas/](https://roxanneardary.com/symbolatlas/)
+SymbolAtlas is an open architecture for the human imagination, providing a personalized AI framework for active imagination, symbolic discovery, and reflection based on each individual's unique dream language. It connects inner exploration with knowledge, places, and experiences through intelligent retrieval, mapping, and discovery tools that help users uncover meaningful insights and personal solutions.  
 
 - **The Evidence Constitution**  
 [https://roxanneardary.com/the-evidence-constitution/](https://roxanneardary.com/the-evidence-constitution/)  
