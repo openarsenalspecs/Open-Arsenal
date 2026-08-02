@@ -16,7 +16,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/harvestiq/](https://roxanneardary.com/harvestiq/)  
   AI-driven land optimization platform for maximizing property use in farming and sustainability. Uses geospatial analysis, zoning, and simulation for efficient food production layouts and growing strategies.
 
-- **Heirloom Haven**  
+- [**Heirloom Haven Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/10111048c6c6a92b7423c292da91796d919baa43/Heirloom%20Haven.md)  
   [https://roxanneardary.com/heirloom-haven/](https://roxanneardary.com/heirloom-haven/)  
   Seed exchange platform for preserving and sharing heirloom, native, and non-GMO seeds. Supports community catalogs, biodiversity, and education for resilient growing.
 
