@@ -42,7 +42,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/resource-atlas/](https://roxanneardary.com/resource-atlas/)  
   Resource Atlas is an open-source intelligence platform for mapping resources including agricultural assets and food security solutions. It supports planning for vertical farming, urban agriculture, and regional self-sufficiency.
 
-- **YieldStack**  
+- [**YieldStack Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/970c928645a4b1ed38f8dad6e3b00b1117cfeab1/YieldStack.md)      
   [https://roxanneardary.com/yieldstack/](https://roxanneardary.com/yieldstack/)  
   YieldStack is an open-source agricultural intelligence platform that uses modular AI systems for precision farming. It optimizes water and nitrogen use, crop yields, soil health, and sustainability with real-time data and explainable recommendations.
 
