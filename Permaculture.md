@@ -28,6 +28,10 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/plantellect/](https://roxanneardary.com/plantellect/)  
   AI-powered permaculture companion for plant identification and sustainable gardening. Guides regenerative garden design, climate-viable crops, small-space permaculture techniques, soil regeneration, and food security in urban/food desert environments.
 
+- [**RegenBlueprint Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/6a46c622e500acc5d98881aa2bb78227bd568ed5/RegenBlueprint.md)  
+[https://roxanneardary.com/regenblueprint/](https://roxanneardary.com/regenblueprint/)  
+RegenBlueprint is an open specification for intelligent ecosystem design, providing a modular framework for restoring degraded landscapes through AI planning, soil engineering, water management, biodiversity restoration, and scientific monitoring. It enables communities, researchers, and organizations to design, simulate, and manage resilient regenerative ecosystems through open collaboration and adaptive planning.  
+
 - **Resource Atlas**  
   [https://roxanneardary.com/resource-atlas/](https://roxanneardary.com/resource-atlas/)  
   Resource mapping platform for agricultural assets and food security. Supports planning for vertical farming, urban agriculture, and regional growing self-sufficiency.
