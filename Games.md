@@ -8,7 +8,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 # Game Specs 
 
-- **AETHER STAGE**  
+- [**AETHER STAGE Module Specification**](https://github.com/openarsenalspecs/Video/blob/0caa50bf9ecb1b9eb5975d85c198deb6fe7e1979/AETHER%20STAGE.md)    
   [https://roxanneardary.com/aether-stage/](https://roxanneardary.com/aether-stage/)  
   Cinematic spatial intelligence system that converts productions into physics-aware, programmable 360-degree simulations with director controls for game cinematics and world-building.  
 
