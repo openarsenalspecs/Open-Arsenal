@@ -40,7 +40,7 @@ OriginSeal is an open-source AGPL 3.0+ provenance infrastructure specification f
   [https://roxanneardary.com/provenart/](https://roxanneardary.com/provenart/)  
   A digital creator provenance platform for tracking ownership, attribution, licensing metadata, distribution history, and revenue attribution chains for creative works.
 
-- **ProvenanceHub**  
+- [**ProvenanceHub Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/8f78234d5c3d978b1b6614d674e1a7842c78d710/ProvenanceHub.md)   
   [https://roxanneardary.com/provenancehub/](https://roxanneardary.com/provenancehub/)  
   A provenance and lineage intelligence platform for tracking the origin, evolution, and relationships of digital artifacts, software projects, specifications, forks, derivatives, and innovation history.
 
