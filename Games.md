@@ -12,7 +12,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/aether-stage/](https://roxanneardary.com/aether-stage/)  
   Cinematic spatial intelligence system that converts productions into physics-aware, programmable 360-degree simulations with director controls for game cinematics and world-building.  
 
-- **Agility Ascension**  
+- [**Agility Ascension Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/fa38213c81b9c7c42eba347b25e8df5c0f0ac198/Agility%20Ascension.md)    
   [https://roxanneardary.com/agility-ascension/](https://roxanneardary.com/agility-ascension/)  
   Dog agility training and competition simulation game with progression systems, environmental challenges, distance handling mechanics, and competitive trial experiences.
 
@@ -36,7 +36,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/enchanta/](https://roxanneardary.com/enchanta/)  
   AI-powered adventure creation platform for building characters and magical worlds while directing cinematic PG-13 stories through prompts and Director Mode.
 
-- **Infinity Arena**  
+- [**Infinity Arena Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/0ca58af866ad43706d4a6c3265ed0cfddf874c81/Infinity%20Arena.md)    
   [https://roxanneardary.com/infinity-arena/](https://roxanneardary.com/infinity-arena/)  
   Modular fighting game and combat creation platform featuring customizable fighter pairs, DNA-based evolution, combo editors, synergy systems, and community sharing tools.
 
@@ -52,7 +52,7 @@ Pelagia is an open, modular specification for creating living ocean worlds throu
   [https://roxanneardary.com/sandnet/](https://roxanneardary.com/sandnet/)  
   Open-source, privacy-first modular game creation and virtual world platform for building, sharing, and collaborating in user-owned environments with visual editors, multiplayer systems, and creator tools.
 
-- **Velyndor**  
+- [**Velyndor Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/ad2df0c09b7a1b37571b36c9f5de69e05172167d/Velyndor.md)    
   [https://roxanneardary.com/velyndor/](https://roxanneardary.com/velyndor/)  
   AI-driven MMORPG where players explore, craft, battle, and shape a dynamic living world through dual combat and profession skill systems, procedural content, and evolving environments.
 
