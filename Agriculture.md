@@ -34,10 +34,10 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/localematerials/](https://roxanneardary.com/localematerials/)  
   LocaleMaterials recommends regenerative building materials based on regional soil, climate, and agricultural outputs. It promotes locally sourced, climate-adaptive construction.
 
-- **Plantellect**  
+- [**Plantellect Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/974676db5b12d793a0ca7a84c9745535f4f22853/Plantellect.md)    
   [https://roxanneardary.com/plantellect/](https://roxanneardary.com/plantellect/)  
   Plantellect is an AI-powered permaculture companion for plant identification and sustainable gardening. It guides users in creating regenerative gardens, especially in urban or food desert environments.
-
+ 
 - **Resource Atlas**  
   [https://roxanneardary.com/resource-atlas/](https://roxanneardary.com/resource-atlas/)  
   Resource Atlas is an open-source intelligence platform for mapping resources including agricultural assets and food security solutions. It supports planning for vertical farming, urban agriculture, and regional self-sufficiency.
