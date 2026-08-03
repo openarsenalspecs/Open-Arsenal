@@ -36,6 +36,10 @@ OpenCluster is a federated distributed compute infrastructure specification desi
 [https://roxanneardary.com/openfabric/](https://roxanneardary.com/openfabric/)  
 OpenFabric is an open, modular Hardware Abstraction Layer specification that provides a universal device layer for edge computing, enabling software, AI systems, and automation platforms to interact with diverse hardware through standardized interfaces. It creates a vendor-neutral foundation for interoperable devices by abstracting hardware capabilities, supporting extensible modules, and reducing fragmentation across connected edge ecosystems.
 
+- [**RequestStamp Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/7a4b165848f1314207779604a4f7ea5de5a27c4e/RequestStamp.md)    
+[https://roxanneardary.com/requeststamp/](https://roxanneardary.com/requeststamp/)   
+RequestStamp is a self-hosted edge request identity and decision system that assigns a unique, traceable ID to every request entering your infrastructure, enabling transparent observability and distributed request tracking. With built-in rule evaluation and an explainability engine, it helps developers understand exactly how every request was handled and why.
+
 - **RoadCraft**  
 [https://roxanneardary.com/roadcraft/](https://roxanneardary.com/roadcraft/)  
 RoadCraft is an edge AI mobility system designed for motorcycle intelligence, combining sensors, onboard computing, and real-time assistance capabilities. It processes critical information locally to provide faster responses, safety monitoring, and rider-focused intelligence.
