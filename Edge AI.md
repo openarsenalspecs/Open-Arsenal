@@ -40,7 +40,7 @@ OpenFabric is an open, modular Hardware Abstraction Layer specification that pro
 [https://roxanneardary.com/requeststamp/](https://roxanneardary.com/requeststamp/)   
 RequestStamp is a self-hosted edge request identity and decision system that assigns a unique, traceable ID to every request entering your infrastructure, enabling transparent observability and distributed request tracking. With built-in rule evaluation and an explainability engine, it helps developers understand exactly how every request was handled and why.
 
-- **RoadCraft**  
+- [**RoadCraft Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/0f0a3405ee22933276a58b668b04bd03bedd6752/RoadCraft.md)    
 [https://roxanneardary.com/roadcraft/](https://roxanneardary.com/roadcraft/)  
 RoadCraft is an edge AI mobility system designed for motorcycle intelligence, combining sensors, onboard computing, and real-time assistance capabilities. It processes critical information locally to provide faster responses, safety monitoring, and rider-focused intelligence.
 
