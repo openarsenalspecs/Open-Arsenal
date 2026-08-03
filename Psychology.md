@@ -34,7 +34,7 @@ An open-source platform designed to help users (particularly men) interpret recu
 [https://roxanneardary.com/symbolatlas/](https://roxanneardary.com/symbolatlas/)
 SymbolAtlas is an open architecture for the human imagination, providing a personalized AI framework for active imagination, symbolic discovery, and reflection based on each individual's unique dream language. It connects inner exploration with knowledge, places, and experiences through intelligent retrieval, mapping, and discovery tools that help users uncover meaningful insights and personal solutions.  
 
-- **The Evidence Constitution**  
+- [**The Evidence Constitution Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/d61c899180cec523c8ae7fece413c36065910172/The%20Evidence%20Constitution.md)    
 [https://roxanneardary.com/the-evidence-constitution/](https://roxanneardary.com/the-evidence-constitution/)  
 A structured simulation platform for modeling truth, law, and reasoning that incorporates psychological pressure, attention limits, and bias modeling to create realistic decision-making frameworks.
 
