@@ -58,7 +58,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/ragbase/](https://roxanneardary.com/ragbase/)  
   A retrieval-augmented knowledge infrastructure specification for scientific documents, research archives, and specialized knowledge systems. RAGBase enables AI systems to access structured, contextual information for research assistance.
 
-- **TraceGraph OS**  
+- [**TraceGraph OS Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/bb1d317dfd30a5314c97cad4d5c47379c05d031d/TraceGraph%20OS.md)    
   [https://roxanneardary.com/tracegraph-os/](https://roxanneardary.com/tracegraph-os/)  
   A scientific intelligence operating system for modeling hypotheses, experiments, evidence, simulations, and research relationships. TraceGraph OS supports reproducible science through connected knowledge graphs and research provenance.
 
