@@ -80,6 +80,10 @@ A security infrastructure layer for AI systems providing sandboxing, secure exec
 [https://roxanneardary.com/semantic-firewall/](https://roxanneardary.com/semantic-firewall/)  
 A privacy and security layer that protects sensitive information while allowing AI agents to process, reason, and interact with protected data.
 
+- [**Stratum Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/9ae36d757b77b752f04cf11206517c727b08fd48/Stratum.md)    
+[https://roxanneardary.com/stratum/](https://roxanneardary.com/stratum/)  
+Stratum is an AI governance layer for MCP systems that controls agent actions through permissions, policy enforcement, context filtering, approval workflows, sandboxed execution, and audit logging. It provides a structured trust boundary between AI intent and execution, ensuring autonomous systems operate within defined rules and accountability frameworks.  
+
 - **TraceCommons**  
 [https://roxanneardary.com/tracecommons/](https://roxanneardary.com/tracecommons/)  
 A provenance and observability infrastructure specification for AI systems. It records agent actions, data sources, decisions, and execution history to improve transparency and accountability.
