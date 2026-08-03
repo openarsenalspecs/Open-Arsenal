@@ -24,7 +24,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/localematerials/](https://roxanneardary.com/localematerials/)  
   AI platform recommending regenerative, locally sourced building materials based on regional soil, climate, and agricultural outputs/byproducts.
 
-- **Plantellect**  
+- [**Plantellect Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/974676db5b12d793a0ca7a84c9745535f4f22853/Plantellect.md)    
   [https://roxanneardary.com/plantellect/](https://roxanneardary.com/plantellect/)  
   AI-powered permaculture companion for plant identification and sustainable gardening. Guides regenerative garden design, climate-viable crops, small-space permaculture techniques, soil regeneration, and food security in urban/food desert environments.
 
