@@ -46,7 +46,7 @@ LibreOrbit is an open-source, modular satellite networking operating system desi
   [https://roxanneardary.com/reality-pass/](https://roxanneardary.com/reality-pass/)  
   Reality Pass is an open-source, physics-accurate, AI-assisted space simulation platform for designing, testing, and experiencing spacecraft systems before real-world construction. It enforces real physical laws with immersive VR, collaborative multi-role modes, and deterministic simulation of orbital behavior, structural stress, and mission outcomes.
 
-- **Separation Engine**  
+- [**Separation Engine Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/e6938eac8a25b86057233cc584b3d14bd6ae9899/Separation%20Engine.md)    
   [https://roxanneardary.com/separationengine/](https://roxanneardary.com/separationengine/)  
   Separation Engine is an open-source AGPL 3.0+ airspace computation platform that uses predictive AI, physics-based trajectory modeling, and real-time environmental analysis to mathematically maintain safe aircraft separation. It builds 4D airspace representations for proactive conflict resolution, supporting aviation, drones, and urban air mobility.  
 
