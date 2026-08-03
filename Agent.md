@@ -64,7 +64,7 @@ An AI infrastructure specification focused on discovering, evaluating, and assem
 [https://roxanneardary.com/ragbase/](https://roxanneardary.com/ragbase/)  
 A retrieval-augmented generation foundation for AI agents. It provides knowledge retrieval capabilities, document processing, embeddings, contextual search, and grounding mechanisms that allow agents to access external information.
 
-- **RightGuide**  
+- [**RightGuide Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/7dfc8643f6e3117b3af15714af160184f40154c4/RightGuide.md)    
 [https://roxanneardary.com/rightguide/](https://roxanneardary.com/rightguide/)  
 A specialized AI legal guidance agent workflow that analyzes user questions, applies structured reasoning, retrieves relevant information, and assists users through legal research and decision-support processes.
 
