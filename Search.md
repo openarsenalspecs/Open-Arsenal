@@ -84,7 +84,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/synapcache/](https://roxanneardary.com/synapcache/)  
   Context-aware semantic memory specification featuring vector similarity search, intelligent indexing, and adaptive knowledge retrieval.
 
-- **VeritasCode**  
+- [**VeritasCode Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/1f7f4a7435b11fa58403a7b1e3a8b664b4762859/VeritasCode.md)    
   [https://roxanneardary.com/veritascode/](https://roxanneardary.com/veritascode/)  
   Legal intelligence specification focused on statutory retrieval, evidence search, conflict detection, and source-grounded reasoning.
 
