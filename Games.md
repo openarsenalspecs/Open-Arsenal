@@ -48,7 +48,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 [https://roxanneardary.com/pelagia/](https://roxanneardary.com/pelagia/)  
 Pelagia is an open, modular specification for creating living ocean worlds through underwater exploration, diving, spearfishing, marine ecosystems, and discovery systems. It provides a framework for developers to build interoperable ocean simulations featuring dynamic environments, wildlife, mapping, treasure, research, conservation, and multiplayer experiences.  
 
-- **SandNet**  
+- [**SandNet Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/f340b289904a562bbd316e02751be4e0663b82f4/SandNet.md)    
   [https://roxanneardary.com/sandnet/](https://roxanneardary.com/sandnet/)  
   Open-source, privacy-first modular game creation and virtual world platform for building, sharing, and collaborating in user-owned environments with visual editors, multiplayer systems, and creator tools.
 
