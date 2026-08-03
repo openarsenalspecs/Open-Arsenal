@@ -38,7 +38,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/plantellect/](https://roxanneardary.com/plantellect/)  
   Plantellect is an AI-powered permaculture companion for plant identification and sustainable gardening. It guides users in creating regenerative gardens, especially in urban or food desert environments.
  
-- **Resource Atlas**  
+- [**Resource Atlas Module Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/259db68a8c967ac714ffcd506298d38980a2f9b8/Resource%20Atlas.md)   
   [https://roxanneardary.com/resource-atlas/](https://roxanneardary.com/resource-atlas/)  
   Resource Atlas is an open-source intelligence platform for mapping resources including agricultural assets and food security solutions. It supports planning for vertical farming, urban agriculture, and regional self-sufficiency.
 
