@@ -92,7 +92,7 @@ SecurePath is an open-source enterprise AI evaluation and governance framework t
 [https://www.roxanneardary.com/semantic-firewall/](https://www.roxanneardary.com/semantic-firewall/)  
 Semantic Firewall is a zero-trust privacy layer for AI systems that protects sensitive information by transforming prompts before they reach external large language models. Its features include local data redaction, deterministic tokenization, encrypted mapping storage, prompt minimization, threat protection, and secure AI gateway capabilities that allow models to process intent without exposing raw user data.  
 
-- **StoryWeaver**  
+- [**StoryWeaver Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/ab9e8fe6d83bb0f0431c39301856bd0817a40333/StoryWeaver.md)    
 [https://www.roxanneardary.com/storyweaver/](https://www.roxanneardary.com/storyweaver/)  
 StoryWeaver is an open, modular, and federated AI skill library that allows intelligent agents to discover, share, and execute reusable capabilities through a secure and interoperable ecosystem. Its features include local and cloud deployment options, privacy controls, human-in-the-loop consent, age ratings, customizable themes, skill federation, and a flexible architecture for building next-generation AI systems.    
 
