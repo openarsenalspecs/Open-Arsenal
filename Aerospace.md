@@ -28,7 +28,11 @@ LibreOrbit is an open-source, modular satellite networking operating system desi
 
 - [**LibreSpaceflight Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/fe27d4103556ec53b0fb852c0192d75a0d5b1aea/LibreSpaceflight.md)    
   [https://roxanneardary.com/librespaceflight/](https://roxanneardary.com/librespaceflight/)  
-  LibreSpaceflight is an open-source platform for simulating spacecraft docking, orbital mechanics, mission planning, and autonomous space operations. It makes spaceflight science accessible by integrating realistic physics, spacecraft design with precise mass distribution and thruster configurations, orbital transfers using real astrodynamics, and AI experimentation for docking and navigation.  
+  LibreSpaceflight is an open-source platform for simulating spacecraft docking, orbital mechanics, mission planning, and autonomous space operations. It makes spaceflight science accessible by integrating realistic physics, spacecraft design with precise mass distribution and thruster configurations, orbital transfers using real astrodynamics, and AI experimentation for docking and navigation.
+
+- [**LunaSphere Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/e281cc5712a3439a0a4dba44cc03d22a59cd7348/LunaSphere.md)  
+ [https://roxanneardary.com/lunasphere/](https://roxanneardary.com/lunasphere/)  
+LunaSphere is an open AGPL-3.0+ specification for designing, simulating, and developing a self-sustaining lunar civilization through modular systems for habitats, life support, resource generation, manufacturing, and transportation. It provides an engineering framework for transforming the Moon into humanity’s first interplanetary gateway with rocket infrastructure, electromagnetic launch systems, and expansion capabilities beyond Earth.  
   
 - **Open Aerial Autonomous Safety System (OAASS)**  
   [https://roxanneardary.com/open-aerial-autonomous-safety-system/](https://roxanneardary.com/open-aerial-autonomous-safety-system/)  
