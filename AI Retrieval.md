@@ -60,7 +60,7 @@ Schema-enforced infrastructure specification for Retrieval-Augmented Generation 
 [https://roxanneardary.com/synapcache/](https://roxanneardary.com/synapcache/)  
 Context-aware caching and retrieval specification featuring semantic search, vector similarity matching, memory indexing, and intelligent context retrieval for AI applications.
 
-- **VeritasCode**  
+- [**VeritasCode Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/1f7f4a7435b11fa58403a7b1e3a8b664b4762859/VeritasCode.md)    
 [https://roxanneardary.com/veritascode/](https://roxanneardary.com/veritascode/)  
 Retrieval-first legal intelligence specification designed for evidence-based legal analysis, statutory retrieval, conflict identification, and source-grounded reasoning.
 
