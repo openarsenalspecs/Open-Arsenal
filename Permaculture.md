@@ -32,7 +32,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 [https://roxanneardary.com/regenblueprint/](https://roxanneardary.com/regenblueprint/)  
 RegenBlueprint is an open specification for intelligent ecosystem design, providing a modular framework for restoring degraded landscapes through AI planning, soil engineering, water management, biodiversity restoration, and scientific monitoring. It enables communities, researchers, and organizations to design, simulate, and manage resilient regenerative ecosystems through open collaboration and adaptive planning.  
 
-- **Resource Atlas**  
+- [**Resource Atlas Module Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/259db68a8c967ac714ffcd506298d38980a2f9b8/Resource%20Atlas.md)   
   [https://roxanneardary.com/resource-atlas/](https://roxanneardary.com/resource-atlas/)  
   Resource mapping platform for agricultural assets and food security. Supports planning for vertical farming, urban agriculture, and regional growing self-sufficiency.
 
