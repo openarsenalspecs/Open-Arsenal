@@ -94,7 +94,11 @@ Semantic Firewall is a zero-trust privacy layer for AI systems that protects sen
 
 - [**StoryWeaver Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/ab9e8fe6d83bb0f0431c39301856bd0817a40333/StoryWeaver.md)    
 [https://www.roxanneardary.com/storyweaver/](https://www.roxanneardary.com/storyweaver/)  
-StoryWeaver is an open, modular, and federated AI skill library that allows intelligent agents to discover, share, and execute reusable capabilities through a secure and interoperable ecosystem. Its features include local and cloud deployment options, privacy controls, human-in-the-loop consent, age ratings, customizable themes, skill federation, and a flexible architecture for building next-generation AI systems.    
+StoryWeaver is an open, modular, and federated AI skill library that allows intelligent agents to discover, share, and execute reusable capabilities through a secure and interoperable ecosystem. Its features include local and cloud deployment options, privacy controls, human-in-the-loop consent, age ratings, customizable themes, skill federation, and a flexible architecture for building next-generation AI systems.
+
+- [**ThreadGraph Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/bf232b491e466c7cca276b00875351eb80a0c7d2/ThreadGraph.md)  
+[https://roxanneardary.com/threadgraph/](https://roxanneardary.com/threadgraph/)  
+ThreadGraph is an open-source AGPL-3.0+ modular agent swarm runtime that transforms complex tasks into graph-structured execution workflows using coordinated agents, tools, and memory systems. Built for scalability and extensibility, it enables parallel reasoning, observable execution, and composable AI systems through a flexible plugin-based architecture.  
 
 - **TraceCommons**  
 [https://www.roxanneardary.com/tracecommons/](https://www.roxanneardary.com/tracecommons/)  
