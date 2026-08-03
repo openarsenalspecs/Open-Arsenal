@@ -30,6 +30,10 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/foodlab/](https://roxanneardary.com/foodlab/)  
   FoodLab is an open-source transparency database for food brands, chemicals, studies, and legislation. It provides traceable, evidence-based insights into food safety and supply chains.
 
+- [**FoodMesh Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/869793d1b2bb73ed2ac7f171bc3e235b5cc7dd90/FoodMesh.md)  
+  [https://roxanneardary.com/foodmesh/](https://roxanneardary.com/foodmesh/)  
+FoodMesh is an open-source, modular logistics specification that connects farmers, carriers, distributors, and communities through a shared transportation network. It provides transparent shipment tracking, multi-farm load coordination, GPS verification, truck-aware routing, and delivery validation to build resilient and decentralized food systems.  
+
 - [**LocaleMaterials Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/65da0e9a27cd711956ad75aa476484e34db6837b/LocaleMaterials.md)    
   [https://roxanneardary.com/localematerials/](https://roxanneardary.com/localematerials/)  
   LocaleMaterials recommends regenerative building materials based on regional soil, climate, and agricultural outputs. It promotes locally sourced, climate-adaptive construction.
