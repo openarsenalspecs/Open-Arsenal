@@ -10,7 +10,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 [https://roxanneardary.com/astraforge/](https://roxanneardary.com/astraforge/)  
 AstraForge is an open-source mission control and orchestration platform designed to coordinate complex systems, automated workflows, and operational environments. It provides a flexible foundation for building, managing, and scaling autonomous missions through modular tools, intelligent control layers, and interoperable components.
 
-- **DesignFlux**  
+- [**DesignFlux Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/5d5898b172301c4fb4b5303bd14959ab2e795c15/DesignFlux.md)    
   [https://roxanneardary.com/designflux/](https://roxanneardary.com/designflux/)  
   DesignFlux is an AGPL 3.0+ open-source engineering platform that combines physics-based simulation, AI-assisted design, and manufacturing workflows for advanced thermal, aerospace, and industrial technologies. It includes orbital thermal simulations, collaborative tools, manufacturability analysis, and extensible modules for developing aerospace systems from concept to production.
 
