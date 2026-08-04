@@ -42,9 +42,9 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/nature-pharmacopeia/](https://roxanneardary.com/nature-pharmacopeia/)  
   A natural sciences knowledge system focused on medicinal plants, fungi, minerals, natural compounds, traditional remedies, and pharmacognosy research. It provides a structured framework for exploring natural sources of therapeutic and biological knowledge.
 
-- **OpenChrona**  
+- [**OpenChrona Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/73fe9129a1c8812493a7a701171cca512a25bf39/OpenChrona.md)    
   [https://roxanneardary.com/openchrona/](https://roxanneardary.com/openchrona/)  
-  A scientific research specification exploring timekeeping, astronomy, calendars, historical measurement systems, and precision technologies. OpenChrona preserves and organizes knowledge around humanity's systems for measuring time and celestial cycles.
+  A scientific research specification exploring timekeeping, astronomy, calendars, historical measurement systems, and precision technologies. OpenChrona preserves and organizes knowledge around humanity's systems for measuring time and celestial cycles.  
 
 - **OpenLedger Provenance System**  
   [https://roxanneardary.com/openledger-provenance-system/](https://roxanneardary.com/openledger-provenance-system/)  
