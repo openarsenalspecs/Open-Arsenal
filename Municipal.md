@@ -26,6 +26,10 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/buildoracle/](https://roxanneardary.com/buildoracle/)  
   An open-source AI-powered zoning and environmental simulation platform that evaluates building projects for compliance, impact, and sustainability before approval.
 
+- [**Civic Module Specification**](https://github.com/openarsenalspecs/IoT/blob/80be3c7f48845eb6bf79d29c9ae253a2dc70912a/Civic.md)    
+  [https://roxanneardary.com/civic/](https://roxanneardary.com/civic/)  
+  An AI-powered hyperlocal community platform that connects residents, businesses, and organizations within town-based digital spaces featuring mini blogs, local directories, events, and intelligent community assistance. It strengthens local engagement.  
+
 - **CommonsProtocol**  
   [https://roxanneardary.com/commonsprotocol/](https://roxanneardary.com/commonsprotocol/)  
   An open-source civic transparency platform providing a federated, auditable public ledger for campaign finance, government spending, and civic accountability.
