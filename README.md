@@ -449,6 +449,7 @@ Open-Arsenal-Index/
     - [Permaculture](https://github.com/openarsenalspecs/Open-Arsenal/blob/d55f217837b0aee0ce70af732e24f6b76d56eb5b/Permaculture.md)
     - [Provenance](https://github.com/openarsenalspecs/Open-Arsenal/blob/d880e6e9eaf9c3335ee6546d7a70685748b61c9d/Provenance.md)  
     - [Psychology](https://github.com/openarsenalspecs/Open-Arsenal/blob/9c842eba34a6f897654f025f951a37e6f8bc00e7/Psychology.md)
+    - [Reasoning](https://github.com/openarsenalspecs/Open-Arsenal/blob/900dee708e6ca13917791c6ebfd4ccdc15974f3e/Reasoning.md)  
     - [Scientific Discovery](https://github.com/openarsenalspecs/Open-Arsenal/blob/c02f61ac152452743f36de39549003f5d132953f/Scientific%20Discovery.md)  
     - [Search](https://github.com/openarsenalspecs/Open-Arsenal/blob/4adbec1c6e0faf84e8938d17fd46b26857dcf9ce/Search.md)  
     - [Taxation](https://github.com/openarsenalspecs/Open-Arsenal/blob/d59f02fa068dfaadfb63dd58f88debfa179962d7/Taxation.md)
