@@ -50,7 +50,7 @@ A governance standard that ensures AI actions remain aligned with verified human
 [https://roxanneardary.com/intentmesh/](https://roxanneardary.com/intentmesh/)  
 An intent-based governance specification connecting human objectives, system behavior, licensing requirements, and execution policies.
 
-- **Kova**  
+- [**Kova Module Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/f0b3302e61d6dc4c7a3d0a93b1f3c35ac3c8dd50/Kova.md)     
 [https://roxanneardary.com/kova/](https://roxanneardary.com/kova/)  
 A policy-driven AI governance framework designed to control AI access, actions, web interactions, and automated decision processes.
 
