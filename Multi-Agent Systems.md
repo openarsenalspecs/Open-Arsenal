@@ -56,6 +56,10 @@ MachinaCore is an open-source autonomous engineering intelligence specification 
 [https://roxanneardary.com/multi-agent-conflict-resolution-framework/](https://roxanneardary.com/multi-agent-conflict-resolution-framework/)  
 Multi-Agent Conflict Resolution Framework (MACRF) is an open specification that enables autonomous AI agents to resolve conflicts through modular governance, negotiation, arbitration, and transparent decision-making systems.
 
+- [**NeuroGrid Module Sepcification**](https://github.com/openarsenalspecs/Civic-Tech/blob/857a72ef17a183bc91b42d3b7e1701823aa49216/NeuroGrid.md)    
+  [https://roxanneardary.com/neurogrid/](https://roxanneardary.com/neurogrid/)   
+  A modular, open-source autonomous intelligence protocol for coordinating multi-agent AI swarms with verifiable execution, structured collaboration, and specification-driven integrity.  
+
 - **OpenCluster**  
 [https://www.roxanneardary.com/opencluster/](https://www.roxanneardary.com/opencluster/)  
 OpenCluster is a modular, federated, open-source infrastructure platform designed for sovereign AI, distributed compute, municipal resilience, and community-owned infrastructure using open hardware principles and AGPL-3.0+ licensed software. Its features include modular compute, storage, networking, AI sovereignty, security, thermal management, emergency infrastructure, federation governance, and sustainable systems designed for long-term upgradeability and resilience.  
