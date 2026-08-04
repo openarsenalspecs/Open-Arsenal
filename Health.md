@@ -8,51 +8,65 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 ## Health Specs
 
-- **BeautifAI**  
+## Health Specs
+
+- [**BeautifAI Module Specification**](https://github.com/openarsenalspecs/Health/blob/50ae48739fcf1cf45b2f2dc30236633694e6e5f2/BeautifAI.md)    
   [https://roxanneardary.com/beautifai/](https://roxanneardary.com/beautifai/)  
   An open-source AI-driven beauty platform for personalized makeup and hairstyle recommendations via skin tone/facial analysis and virtual try-on, including health-conscious shopping recommendations that highlight ingredient safety, non-toxic, cruelty-free, and vegan options.
 
-- **Continuum Companion**  
+- [**Continuum Companion Module Specification**](https://github.com/openarsenalspecs/Health/blob/003769a7a12a1c5ad36fcf3f04933da001b8e3fb/Continuum%20Companion.md)    
   [https://roxanneardary.com/continuum-companion/](https://roxanneardary.com/continuum-companion/)  
   A modular, locally hosted, open-source AI platform designed to support integrative understanding of health, wellness, and human experience. It integrates structured AI research, evidence-backed information retrieval (distinguishing Western medical knowledge, Eastern traditions, and wellness practices), reflective tools, research archiving, and personalized wellness plan creation, with full privacy via local hosting.
 
-- **CureLens**  
+- [**CureLens Module Specification**](https://github.com/openarsenalspecs/Health/blob/cf4a69a7ba20ffe5533b45cdb7818be10d18e8ca/CureLens.md)    
   [https://roxanneardary.com/curelens/](https://roxanneardary.com/curelens/)  
-  An open-source platform that analyzes clinical trial data to compare placebo and treatment outcomes, flag anomalies (e.g., high placebo performance), uncover patterns in medical efficacy, and support meta-analysis and reproducible research.
+  An open-source platform that analyzes clinical trial data to compare placebo and treatment outcomes, flag anomalies (e.g., high placebo performance), uncover patterns in medical efficacy, and support meta-analysis and reproducible research.  
 
-- **GoldenLens**  
+- [**GentleCardia Module Specification**](https://github.com/openarsenalspecs/Health/blob/02d8b0b05cb0f64f71c24655559d7f4ee2f31951/GentleCardia.md)  
+[https://roxanneardary.com/gentlecardia/](https://roxanneardary.com/gentlecardia/)  
+GentleCardia is an open-source, modular cardiac biosensing specification designed to create safe, transparent, and interoperable infrastructure for ECG acquisition, signal processing, and health technology development. Built with a safety-first architecture, GentleCardia enables researchers, developers, and innovators to create extensible cardiac sensing systems with open hardware, software, data standards, and AI integration
+
+- [**GoldenLens Module Specification**](https://github.com/openarsenalspecs/Health/blob/5fc39495ec7844d82dbcc973f51d3d9a132af6f2/GoldenLens.md)  
   [https://roxanneardary.com/goldenlens/](https://roxanneardary.com/goldenlens/)  
-  An open-source AI-powered application that helps users explore multiple perspectives on their thoughts, situations, and emotions to reduce mental rigidity, ease emotional stress, and support clearer, more compassionate thinking. Includes guided reflection, mood tracking, and mental well-being features with a focus on privacy and non-clinical supportive reframing.
+  An open-source AI-powered application that helps users explore multiple perspectives on their thoughts, situations, and emotions to reduce mental rigidity, ease emotional stress, and support clearer, more compassionate thinking. Includes guided reflection, mood tracking, and mental well-being features with a focus on privacy and non-clinical supportive reframing.  
 
-- **MediLens**  
+- [**MediLens Module Specification**](https://github.com/openarsenalspecs/Health/blob/398c266c3b82a94961f84aae2420a6f49d4765a7/MediLens.md)    
   [https://roxanneardary.com/medilens/](https://roxanneardary.com/medilens/)  
   An open-source, real-time global database tracking pharmaceutical recalls for drugs, biologics, and vaccines, with company profiles, medication safety scoring, alerts, analytics, and accountability features for medications and manufacturers.
 
-- **MediNet AI**  
+- [**MediNet AI Module Specification**](https://github.com/openarsenalspecs/Health/blob/6577cbd1ac268e3a684e77e6865aeedfb087c2d5/MediNet%20AI.md)    
   [https://roxanneardary.com/medinet-ai/](https://roxanneardary.com/medinet-ai/)  
   An open-source AI platform for medical/dental image analysis with multi-modal disease detection (X-rays, CT, MRI, etc.), predictive modeling, explainable AI (heatmaps, confidence scores), automated reporting, EMR integration, patient engagement, and federated learning for clinical support and research.
 
-- [**Quantum Synapse Module Specification**](https://github.com/openarsenalspecs/IoT/blob/38de05dec0335b600bc66d34cfb523ca9af5c4b3/Quantum%20Synapse.md)    
-  [https://roxanneardary.com/quantum-synapse/](https://roxanneardary.com/quantum-synapse/)  
-  An open-source, non-invasive brain-computer interface (BCI) platform using wearable EEG technology for real-time neural signal processing, mind-controlled interaction, cognitive state detection, and applications in accessibility and smart systems, with strong emphasis on privacy and local processing.
+- [**MolecularAI Module Specification**](https://github.com/openarsenalspecs/Health/blob/fff1ba539ccd8ad63c67b67c03b6c185991c022e/MolecularAI.md)  
+[https://roxanneardary.com/molecularai/](https://roxanneardary.com/molecularai/)  
+An open-source modular platform for molecular intelligence, gene therapy research, nanotechnology, digital twins, autonomous scientific discovery, and advanced molecular design.
 
-- **ResponseOS**  
+- [**PHITrack Module Specification**](https://github.com/openarsenalspecs/Health/blob/015e7ec7749e45001ec75ae0b66ec6641e0ad74e/PHITrack.md)  
+[https://roxanneardary.com/phitrack/](https://roxanneardary.com/phitrack/)  
+Open-source platform that monitors, analyzes, and visualizes PHI transmissions with AI-driven insights, dashboards, alerts, and predictive risk scoring while maintaining human oversight.  
+
+- [**Quantum Synapse Module Specification**](https://github.com/openarsenalspecs/Health/blob/8eb9bacf91947c2eee5ecd0d5f7eb64a96057842/Quantum%20Synapse.md)    
+  [https://roxanneardary.com/quantum-synapse/](https://roxanneardary.com/quantum-synapse/)  
+  An open-source, non-invasive brain-computer interface (BCI) platform using wearable EEG technology for real-time neural signal processing, mind-controlled interaction, cognitive state detection, and applications in accessibility and smart systems, with strong emphasis on privacy and local processing.  
+
+- [**ResponseOS Module Specification**](https://github.com/openarsenalspecs/Health/blob/0593eb5c8522afe661626efcbac90b36da4071c4/ResponseOS.md)  
   [https://roxanneardary.com/responseos/](https://roxanneardary.com/responseos/)  
   An open-source platform for reproducible clinical research analysis using Bayesian modeling, meta-analysis, and normalized clinical trial data to evaluate treatment effectiveness versus placebo responses and improve transparency in biomedical literature.
 
-- **SafeMeds Index**  
+- [**SafeMeds Index Module Specification**](https://github.com/openarsenalspecs/Health/blob/fa9ed171546887d7c40bd81f48fadef39696f70f/SafeMeds%20Index.md)    
   [https://roxanneardary.com/safemedsindex/](https://roxanneardary.com/safemedsindex/)  
   An open-source global pharmaceutical intelligence platform for medication price transparency (international comparisons), manufacturer/supply chain tracking, recall monitoring, AI-driven safety analysis, adverse event insights, and evidence-based therapeutic/generic alternatives.
 
-- **ScribeVault**  
+- [**ScribeVault Module Specification**](https://github.com/openarsenalspecs/Health/blob/aee3749295383ace2a4484a5252fb9907fa2eb73/ScribeVault.md)    
   [https://roxanneardary.com/scribevault/](https://roxanneardary.com/scribevault/)  
   An open-source AI-driven clinical documentation platform for generating HIPAA-compliant medical notes via voice commands, real-time transcription, SOAP notes, coding suggestions, with EHR interoperability, specialty templates, and secure self-hosting.
 
-- **SmartSmile**  
+- [**SmartSmile Module Specification**](https://github.com/openarsenalspecs/Health/blob/5ccf662d6830d8ffe0d6d611328fd11bbc273361/SmartSmile.md)    
   [https://roxanneardary.com/smartsmile/](https://roxanneardary.com/smartsmile/)  
-  An open-source AI-powered dental transparency platform for comparing pricing, verifying specials, detecting upsells, analyzing dental imaging, and helping patients find trustworthy, affordable care.
+  An open-source AI-powered dental transparency platform for comparing pricing, verifying specials, detecting upsells, analyzing dental imaging, and helping patients find trustworthy, affordable care.  
 
-- **The Interpretation Layer**  
+- [**The Interpretation Layer Module Specification**](https://github.com/openarsenalspecs/Health/blob/e07c837161f062332da04ae834b726a07bc8ab31/The%20Interpretation%20Layer.md)    
 [https://roxanneardary.com/the-interpretation-layer/](https://roxanneardary.com/the-interpretation-layer/)  
 The Interpretation Layer is a modular human-in-the-loop AI system that transforms moral interpretations of textual passages into structured modern narratives through a transparent computational pipeline. It can also be used to reframe emotionally charged or manipulative content by shifting perspective, revealing underlying ethical tensions, and generating alternative grounded narratives.  
 
