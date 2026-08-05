@@ -16,7 +16,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/earthmetrics/](https://roxanneardary.com/earthmetrics/)  
   EarthMetrics is an open-source environmental intelligence platform that analyzes satellite imagery, remote sensing, terrain, climate, and geospatial datasets to measure environmental change and ecosystem health. It transforms Earth observation data into standardized metrics for monitoring land use, natural resources, conservation efforts, and long-term environmental trends.  
 
-- **FlightDynamics**  
+- [**FlightDynamics Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/3c75fea7a0cb764298967987d42b1755b47da4b9/FlightDynamics.md)    
   [https://roxanneardary.com/flightdynamics/](https://roxanneardary.com/flightdynamics/)  
   FlightDynamics is an open-source AI-native specification for launch planning, orbital mechanics, and satellite mission operations supporting individual satellites and large satellite constellations. It provides a modular framework for mission planning, deployment, communications, orbital analysis, and lifecycle management of satellite systems.
 
