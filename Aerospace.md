@@ -22,7 +22,7 @@ AstraForge is an open-source mission control and orchestration platform designed
 [https://roxanneardary.com/heliolink/](https://roxanneardary.com/heliolink/)  
 HelioLink is a modular orbital AI infrastructure system that converts continuous solar energy into autonomous, scalable compute beyond Earth’s physical limits. It integrates energy harvesting, radiation-hardened compute, radiative cooling, networking, and self-managing AI layers for space-native data infrastructure.
 
-- **LibreOrbit**  
+- [**LibreOrbit Module Specification**](https://github.com/openarsenalspecs/IoT/blob/3705dcf18f03e8a1c41314227825da4e93aab934/LibreOrbit.md)  
 [https://roxanneardary.com/libreorbit/](https://roxanneardary.com/libreorbit/)  
 LibreOrbit is an open-source, modular satellite networking operating system designed to connect satellites, ground stations, sensors, and edge devices through open and interoperable space infrastructure. Built with a flexible plugin architecture, LibreOrbit supports satellite communications, mission operations, data exchange, autonomous systems, and future space networks.
 
