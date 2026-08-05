@@ -12,9 +12,9 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/burpalert/](https://roxanneardary.com/burpalert/)  
   BurpAlert is an open-source AI volcano monitoring platform that combines seismic activity, gas emissions, thermal imaging, and satellite observations to detect volcanic unrest. It fuses multiple geospatial data sources to improve eruption prediction, monitoring, and early warning capabilities.  
 
-- **EarthMetrics**  
+- [**EarthMetrics Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/032390f02cbe417d09664c9fffc46d76d64a28a3/EarthMetrics.md)    
   [https://roxanneardary.com/earthmetrics/](https://roxanneardary.com/earthmetrics/)  
-  EarthMetrics is an open-source environmental intelligence platform that analyzes satellite imagery, remote sensing, terrain, climate, and geospatial datasets to measure environmental change and ecosystem health. It transforms Earth observation data into standardized metrics for monitoring land use, natural resources, conservation efforts, and long-term environmental trends.
+  EarthMetrics is an open-source environmental intelligence platform that analyzes satellite imagery, remote sensing, terrain, climate, and geospatial datasets to measure environmental change and ecosystem health. It transforms Earth observation data into standardized metrics for monitoring land use, natural resources, conservation efforts, and long-term environmental trends.  
 
 - **FlightDynamics**  
   [https://roxanneardary.com/flightdynamics/](https://roxanneardary.com/flightdynamics/)  
