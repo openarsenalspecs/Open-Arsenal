@@ -24,7 +24,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/infernowatchai/](https://roxanneardary.com/infernowatchai/)  
   InfernoWatchAI is an open-source AI wildfire intelligence platform that integrates satellite imagery, weather data, terrain information, and ground-based sensors to detect, monitor, and predict wildfire behavior. It uses satellite-derived observations to provide early warning, fire progression analysis, and decision support for emergency responders and land management agencies.
 
-- **LibreOrbit**  
+- [**LibreOrbit Module Specification**](https://github.com/openarsenalspecs/IoT/blob/3705dcf18f03e8a1c41314227825da4e93aab934/LibreOrbit.md)   
   [https://roxanneardary.com/libreorbit/](https://roxanneardary.com/libreorbit/)  
   LibreOrbit is an open-source modular satellite networking operating system designed to connect satellites, ground stations, sensors, and communities through interoperable space infrastructure. It provides a standardized framework for decentralized satellite communications while reducing vendor lock-in.
 
