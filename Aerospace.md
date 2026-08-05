@@ -34,7 +34,7 @@ LibreOrbit is an open-source, modular satellite networking operating system desi
  [https://roxanneardary.com/lunasphere/](https://roxanneardary.com/lunasphere/)  
 LunaSphere is an open AGPL-3.0+ specification for designing, simulating, and developing a self-sustaining lunar civilization through modular systems for habitats, life support, resource generation, manufacturing, and transportation. It provides an engineering framework for transforming the Moon into humanity’s first interplanetary gateway with rocket infrastructure, electromagnetic launch systems, and expansion capabilities beyond Earth.  
   
-- **Open Aerial Autonomous Safety System (OAASS)**  
+- [**Open Aerial Autonomous Safety System Module Specification**](https://github.com/openarsenalspecs/AI-and-the-Automobile/blob/cb1aaf966d7aca8d8245b823b00f8da239a3e56b/Open%20Aerial%20Autonomous%20Safety%20System.md)    
   [https://roxanneardary.com/open-aerial-autonomous-safety-system/](https://roxanneardary.com/open-aerial-autonomous-safety-system/)  
   Open Aerial Autonomous Safety System (OAASS) is a modular open-source autonomy framework combining multi-sensor perception, predictive collision avoidance, and emergency aerial escape capabilities for next-generation vehicle safety. It supports ground-to-air transitions, infrastructure coordination, and transparent development under AGPL-3.0+ for autonomous mobility and airspace safety.  
 
