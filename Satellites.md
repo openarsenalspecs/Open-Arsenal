@@ -8,9 +8,9 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 ## Satellite Specs
 
-- **BurpAlert**  
+- [**BurpAlert Module Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/7c85555e002380418ded8d29be54c1eca2a97e55/BurpAlert.md)    
   [https://roxanneardary.com/burpalert/](https://roxanneardary.com/burpalert/)  
-  BurpAlert is an open-source AI volcano monitoring platform that combines seismic activity, gas emissions, thermal imaging, and satellite observations to detect volcanic unrest. It fuses multiple geospatial data sources to improve eruption prediction, monitoring, and early warning capabilities.
+  BurpAlert is an open-source AI volcano monitoring platform that combines seismic activity, gas emissions, thermal imaging, and satellite observations to detect volcanic unrest. It fuses multiple geospatial data sources to improve eruption prediction, monitoring, and early warning capabilities.  
 
 - **EarthMetrics**  
   [https://roxanneardary.com/earthmetrics/](https://roxanneardary.com/earthmetrics/)  
