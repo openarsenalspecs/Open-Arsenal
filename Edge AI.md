@@ -20,7 +20,7 @@ EdgeGateway is an open modular specification for secure edge device onboarding, 
 [https://roxanneardary.com/flexnode/](https://roxanneardary.com/flexnode/)  
 FlexNode is an edge computing storage virtualization specification designed for IoT nodes, embedded systems, and distributed edge environments. It provides a unified storage management layer with pluggable backends, automation, monitoring, and local-first infrastructure support for remote and constrained deployments.
 
-- **FluxCore Mobility**  
+- [**FluxCore Mobility Specification**](https://github.com/openarsenalspecs/AI-and-the-Automobile/blob/025a13f4108bbf553182821d384785fde9892750/FluxCore%20Mobility.md)    
 [https://roxanneardary.com/fluxcore-mobility/](https://roxanneardary.com/fluxcore-mobility/)  
 FluxCore Mobility is a vehicle edge intelligence platform designed to provide secure, privacy-focused AI processing directly within automotive environments. It supports real-time vehicle analytics, intelligent assistance, and distributed computing closer to where vehicle data is generated.
 
