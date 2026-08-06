@@ -32,9 +32,9 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/nimbus/](https://roxanneardary.com/nimbus/)  
   Nimbus is an open-source weather intelligence platform that incorporates satellite weather data, atmospheric observations, radar information, and forecast models to deliver transparent weather intelligence. It provides modular tools for analyzing weather patterns, environmental conditions, and localized forecasting.
 
-- **OceanLand Sync System**  
+- [**OceanLand Sync System Module Specification**](https://github.com/openarsenalspecs/IoT/blob/83db90c63e4f6c76c9d48641235cf5735779bd6c/OceanLand%20Sync%20System.md)    
   [https://roxanneardary.com/oceanland-sync-system/](https://roxanneardary.com/oceanland-sync-system/)  
-  OceanLand Sync System provides stabilized satellite communications for amphibious vehicles operating across land and water. It uses predictive motion control and multi-orbit network switching to maintain reliable connectivity in dynamic environments.
+  OceanLand Sync System provides stabilized satellite communications for amphibious vehicles operating across land and water. It uses predictive motion control and multi-orbit network switching to maintain reliable connectivity in dynamic environments.  
 
 - **OrePulse**  
   [https://roxanneardary.com/orepulse/](https://roxanneardary.com/orepulse/)  
