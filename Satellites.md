@@ -40,7 +40,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/orepulse/](https://roxanneardary.com/orepulse/)  
   OrePulse is a geospatial intelligence platform that uses mapping, remote sensing, and satellite-derived Earth observation data to monitor mineral resources and infrastructure. It combines environmental intelligence and predictive analytics to support critical resource discovery and development.
 
-- **RAISE**  
+- [**RAISE Module Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/a8d01f9deb5c1cdb262dc598dac97ddea7824b31/RAISE.md)    
   [https://roxanneardary.com/raise/](https://roxanneardary.com/raise/)  
   RAISE is an open-source disaster intelligence and emergency response platform that integrates satellite imagery, weather data, geospatial information, IoT sensors, and AI analytics. It uses Earth observation data to improve hazard detection, situational awareness, emergency planning, and disaster response coordination.
 
