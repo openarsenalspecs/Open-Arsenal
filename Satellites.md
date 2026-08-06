@@ -44,7 +44,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/raise/](https://roxanneardary.com/raise/)  
   RAISE is an open-source disaster intelligence and emergency response platform that integrates satellite imagery, weather data, geospatial information, IoT sensors, and AI analytics. It uses Earth observation data to improve hazard detection, situational awareness, emergency planning, and disaster response coordination.
 
-- **Saturnet**  
+- [**Saturnet Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/c06b68a8f5cea0056e09d891dcaf27622c6f67a4/Saturnet.md)    
   [https://roxanneardary.com/saturnet/](https://roxanneardary.com/saturnet/)  
   Saturnet is an AI-powered astronomy intelligence platform that identifies celestial objects and tracks satellites in real time. It combines computer vision, astronomical databases, and observation data to provide interactive sky recognition and satellite awareness.
 
