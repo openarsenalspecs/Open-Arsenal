@@ -62,7 +62,7 @@ A governed multi-agent AI operating system that provides structured coordination
 [https://roxanneardary.com/neuratrust/](https://roxanneardary.com/neuratrust/)  
 A trustworthy AI governance specification focused on transparent decision-making, safety validation, accountability, and verifiable intelligence systems.
 
-- **Open Intelligence Stack (OIS)**  
+- [**Open Intelligence Stack Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/9dc78c1920cb2446ac0b2d3b54ccc8b25a10121c/Open%20Intelligence%20Stack.md)     
 [https://roxanneardary.com/open-intelligence-stack/](https://roxanneardary.com/open-intelligence-stack/)  
 A governance-first AI architecture providing modular intelligence components, evidence tracking, provenance, policy analysis, and human-supervised workflows.
 
