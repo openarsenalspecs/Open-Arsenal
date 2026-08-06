@@ -48,7 +48,7 @@ An AI system architecture designed around connected intelligence components, kno
 [https://roxanneardary.com/machinacore/](https://roxanneardary.com/machinacore/)  
 A foundational AI infrastructure specification providing core building blocks required for intelligent systems. It supports model execution, modular AI components, reasoning systems, and the underlying architecture needed to power AI agents.
 
-- **Open Intelligence Stack**  
+- [**Open Intelligence Stack Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/9dc78c1920cb2446ac0b2d3b54ccc8b25a10121c/Open%20Intelligence%20Stack.md)    
 [https://roxanneardary.com/open-intelligence-stack/](https://roxanneardary.com/open-intelligence-stack/)  
 A governance-first AI architecture that organizes intelligence systems into modular components with provenance, evidence tracking, accountability, and human oversight.
 
