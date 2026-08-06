@@ -38,7 +38,7 @@ LunaSphere is an open AGPL-3.0+ specification for designing, simulating, and dev
   [https://roxanneardary.com/open-aerial-autonomous-safety-system/](https://roxanneardary.com/open-aerial-autonomous-safety-system/)  
   Open Aerial Autonomous Safety System (OAASS) is a modular open-source autonomy framework combining multi-sensor perception, predictive collision avoidance, and emergency aerial escape capabilities for next-generation vehicle safety. It supports ground-to-air transitions, infrastructure coordination, and transparent development under AGPL-3.0+ for autonomous mobility and airspace safety.  
 
-- **OrbitReasoning Core**  
+- [**OrbitReasoning Core Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/4b829efa040d5bdfea0ed36beb3b45158b3888a5/OrbitReasoning%20Core.md)    
   [https://roxanneardary.com/orbitreasoning-core/](https://roxanneardary.com/orbitreasoning-core/)  
   OrbitReasoning Core is an AGPL 3.0+ autonomous AI Network Operations Center for managing complex networks of satellites, spacecraft, and high-altitude systems through simulation-first intelligence. It computes probable outcomes across simulated futures, detects anomalies, and supports governed autonomy with full traceability for orbital operations. 
 
