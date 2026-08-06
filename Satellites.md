@@ -28,7 +28,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/libreorbit/](https://roxanneardary.com/libreorbit/)  
   LibreOrbit is an open-source modular satellite networking operating system designed to connect satellites, ground stations, sensors, and communities through interoperable space infrastructure. It provides a standardized framework for decentralized satellite communications while reducing vendor lock-in.
 
-- **Nimbus**  
+- [**Nimbus Module Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/afd6575a404ec4472a2ba2a506a67e031679cd2f/Nimbus.md)    
   [https://roxanneardary.com/nimbus/](https://roxanneardary.com/nimbus/)  
   Nimbus is an open-source weather intelligence platform that incorporates satellite weather data, atmospheric observations, radar information, and forecast models to deliver transparent weather intelligence. It provides modular tools for analyzing weather patterns, environmental conditions, and localized forecasting.
 
