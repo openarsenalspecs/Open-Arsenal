@@ -94,7 +94,11 @@ SecurePath is an open-source enterprise AI evaluation and governance framework t
 
 - **Semantic Firewall**  
 [https://www.roxanneardary.com/semantic-firewall/](https://www.roxanneardary.com/semantic-firewall/)  
-Semantic Firewall is a zero-trust privacy layer for AI systems that protects sensitive information by transforming prompts before they reach external large language models. Its features include local data redaction, deterministic tokenization, encrypted mapping storage, prompt minimization, threat protection, and secure AI gateway capabilities that allow models to process intent without exposing raw user data.  
+Semantic Firewall is a zero-trust privacy layer for AI systems that protects sensitive information by transforming prompts before they reach external large language models. Its features include local data redaction, deterministic tokenization, encrypted mapping storage, prompt minimization, threat protection, and secure AI gateway capabilities that allow models to process intent without exposing raw user data.
+
+- [**SteadyMission Module Specification**](https://github.com/openarsenalspecs/IoT/blob/6100810b644f2fc4b2ab040e910d8832e52a8bc4/SteadyMission.md)    
+  [https://roxanneardary.com/steadymission/](https://roxanneardary.com/steadymission/)  
+  An open-source AI simulation and mission-alignment platform that helps organizations achieve strategic goals without compromising their values, ethics, or long-term direction. It supports ethical organizational planning.
 
 - [**StoryWeaver Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/ab9e8fe6d83bb0f0431c39301856bd0817a40333/StoryWeaver.md)    
 [https://www.roxanneardary.com/storyweaver/](https://www.roxanneardary.com/storyweaver/)  
