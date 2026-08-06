@@ -36,7 +36,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/oceanland-sync-system/](https://roxanneardary.com/oceanland-sync-system/)  
   OceanLand Sync System provides stabilized satellite communications for amphibious vehicles operating across land and water. It uses predictive motion control and multi-orbit network switching to maintain reliable connectivity in dynamic environments.  
 
-- **OrePulse**  
+- [**OrePulse Module Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/c4029139c0dbb3da08729f019822fce425869727/OrePulse.md)    
   [https://roxanneardary.com/orepulse/](https://roxanneardary.com/orepulse/)  
   OrePulse is a geospatial intelligence platform that uses mapping, remote sensing, and satellite-derived Earth observation data to monitor mineral resources and infrastructure. It combines environmental intelligence and predictive analytics to support critical resource discovery and development.
 
