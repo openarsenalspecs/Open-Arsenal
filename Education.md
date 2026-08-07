@@ -40,7 +40,7 @@ OmniScientia is a modular AI framework for scientific discovery that combines ad
   [https://roxanneardary.com/opencareerforecast/](https://roxanneardary.com/opencareerforecast/)  
   AGPL-3.0+ career intelligence platform analyzing education costs, student debt, ROI, cost of living, wages, industry trends, and future projections. Helps students evaluate colleges, trade schools, apprenticeships, certifications, and career paths.
 
-- **OriginType**  
+- [**OriginType Module Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/b2f1346b15713ac1e8f2cfbb77a1fd08c19a9ad1/OriginType.md)    
   [https://roxanneardary.com/origintype/](https://roxanneardary.com/origintype/)  
   AI handwriting education platform and tutor teaching print, cursive, signature development, and typography through adaptive lessons, intelligent handwriting analysis, and printable worksheets. Progresses learners from handwriting fundamentals to digital font design.
 
