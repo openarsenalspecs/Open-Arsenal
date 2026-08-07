@@ -42,7 +42,7 @@ An AI alignment specification focused on structured reasoning, ethical evaluatio
 [https://roxanneardary.com/open-intelligence-stack/](https://roxanneardary.com/open-intelligence-stack/)  
 A modular AI infrastructure specification providing components for intelligence systems, including reasoning, traceability, specialized models, and extensible AI capabilities.
 
-- **OriginType**  
+- [**OriginType Module Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/b2f1346b15713ac1e8f2cfbb77a1fd08c19a9ad1/OriginType.md)    
 [https://roxanneardary.com/origintype/](https://roxanneardary.com/origintype/)  
 An adaptive AI learning specification that uses feedback-driven analysis to personalize learning systems and improve AI-assisted educational experiences.
 
