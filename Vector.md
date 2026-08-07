@@ -29,7 +29,7 @@ An open-source AI system that translates mission statements and core values into
 [https://roxanneardary.com/mindvault/](https://roxanneardary.com/mindvault/)  
 MindVault is an open modular knowledge infrastructure specification designed to provide the knowledge layer for autonomous AI systems through persistent memory, vector intelligence, semantic understanding, and reasoning capabilities. It enables AI agents and RAG systems to store, manage, validate, and retrieve knowledge through a scalable, vendor-neutral architecture.  
 
-- **OriginType**  
+- [**OriginType Module Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/b2f1346b15713ac1e8f2cfbb77a1fd08c19a9ad1/OriginType.md)    
  [https://roxanneardary.com/origintype/](https://roxanneardary.com/origintype/)  
   Typography and letterform design system that analyzes strokes and converts them into vector-based glyphs, enabling scalable, editable, and digitally optimized type creation.
 
