@@ -60,7 +60,7 @@ ValidationOS is an AI assurance and validation framework designed to test, optim
 [https://roxanneardary.com/vendra/](https://roxanneardary.com/vendra/)  
 Vendra is a smart device operating system specification for connected retail infrastructure, intelligent vending systems, and autonomous equipment. It supports edge computing capabilities by enabling local device intelligence, hardware integration, monitoring, and real-time operational management.
 
-- **Vehicle Overlay System (VOS)**  
+- [**Vehicle Overlay System Specification**](https://github.com/openarsenalspecs/AI-and-the-Automobile/blob/f43820555695204705e42542eccdf05e9b01b8cc/Vehicle%20Overlay%20System.md)   
 [https://roxanneardary.com/vehicle-overlay-system/](https://roxanneardary.com/vehicle-overlay-system/)  
 Vehicle Overlay System (VOS) is an automotive edge computing specification that adds intelligent processing, connectivity, and AI capabilities to vehicles without replacing core vehicle systems. It enables localized vehicle intelligence, sensor integration, and real-time decision support at the edge.  
 
