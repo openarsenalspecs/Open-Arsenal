@@ -38,7 +38,7 @@ A model identity and fine-tuning specification that enables AI models to incorpo
 [https://roxanneardary.com/moral-inference-engine/](https://roxanneardary.com/moral-inference-engine/)  
 An AI alignment specification focused on structured reasoning, ethical evaluation, human-guided feedback, and mechanisms for shaping AI behavior.
 
-- **Open Intelligence Stack**  
+- [**Open Intelligence Stack Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/9dc78c1920cb2446ac0b2d3b54ccc8b25a10121c/Open%20Intelligence%20Stack.md)    
 [https://roxanneardary.com/open-intelligence-stack/](https://roxanneardary.com/open-intelligence-stack/)  
 A modular AI infrastructure specification providing components for intelligence systems, including reasoning, traceability, specialized models, and extensible AI capabilities.
 
