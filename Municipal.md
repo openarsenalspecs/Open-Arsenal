@@ -66,7 +66,11 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 - [**Orvian Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/71ff1b8c81344d6f5f5edf4d0954749eb895624d/Orvian.md)    
   [https://roxanneardary.com/orvian/](https://roxanneardary.com/orvian/)  
-  An AI-driven personal financial operating system that organizes money into intelligent budgeting envelopes, savings goals, cash-flow forecasting, and tax automation.  
+  An AI-driven personal financial operating system that organizes money into intelligent budgeting envelopes, savings goals, cash-flow forecasting, and tax automation.
+
+- [**VeritasVote Specification**](https://github.com/openarsenalspecs/IoT/blob/2d12c37474cbbe9f700c79e84a3d83b1bebd78d8/VeritasVote.md)    
+  [https://roxanneardary.com/veritasvote/](https://roxanneardary.com/veritasvote/)  
+  VeritasVote is an open-source, modular voting platform that combines secure hardware, transparent software, voter-verifiable paper ballots, and cryptographic auditing to create trustworthy in-person elections. Designed for public verification and community development, it provides a fully auditable alternative to proprietary voting systems with independently reviewable components.
 
 ---
 
