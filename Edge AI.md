@@ -62,7 +62,11 @@ Vendra is a smart device operating system specification for connected retail inf
 
 - [**Vehicle Overlay System Specification**](https://github.com/openarsenalspecs/AI-and-the-Automobile/blob/f43820555695204705e42542eccdf05e9b01b8cc/Vehicle%20Overlay%20System.md)   
 [https://roxanneardary.com/vehicle-overlay-system/](https://roxanneardary.com/vehicle-overlay-system/)  
-Vehicle Overlay System (VOS) is an automotive edge computing specification that adds intelligent processing, connectivity, and AI capabilities to vehicles without replacing core vehicle systems. It enables localized vehicle intelligence, sensor integration, and real-time decision support at the edge.  
+Vehicle Overlay System (VOS) is an automotive edge computing specification that adds intelligent processing, connectivity, and AI capabilities to vehicles without replacing core vehicle systems. It enables localized vehicle intelligence, sensor integration, and real-time decision support at the edge.
+
+- [**VeritasVote Specification**](https://github.com/openarsenalspecs/IoT/blob/2d12c37474cbbe9f700c79e84a3d83b1bebd78d8/VeritasVote.md)    
+  [https://roxanneardary.com/veritasvote/](https://roxanneardary.com/veritasvote/)  
+  VeritasVote is an open-source, modular voting platform designed to provide secure, transparent, and verifiable in-person elections through open hardware, open software, paper-backed ballots, and cryptographic auditing. Built for public trust, VeritasVote enables independent inspection, reproducible builds, and customizable hardware and software modules without reliance on proprietary election systems.  
 
 - [**VoltIQ Module Specification**](https://github.com/openarsenalspecs/Energy/blob/31b3b9e67e2cd4daaf7ca288e19dcdb8bdc46a4f/VoltIQ.md)  
 [https://roxanneardary.com/voltiq/](https://roxanneardary.com/voltiq/)  
