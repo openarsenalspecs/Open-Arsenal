@@ -66,7 +66,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/truthlayer/](https://roxanneardary.com/truthlayer/)  
   An evidence-based analysis framework designed around transparent methodologies, reproducible calculations, verification systems, and trustworthy information evaluation.
 
-- **Veridion System**  
+- [**Veridion System Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/55c1f00d48913e540fd07acee9a03de011566ccd/Veridion%20System.md)  
   [https://roxanneardary.com/veridion-system/](https://roxanneardary.com/veridion-system/)  
   A scientific validation and intelligence framework for transforming fragmented information into verified, explainable, and trustworthy signals. Veridion focuses on evidence validation, data integrity, and reliable knowledge creation.
 
