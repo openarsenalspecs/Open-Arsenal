@@ -14,7 +14,11 @@ Custos is an AI-powered physical security infrastructure platform built around e
 
 - [**EdgeGateway Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/e09dec09730fdba128612191c4673d4bea2c3aff/EdgeGateway.md)  
 [https://roxanneardary.com/edgegateway/](https://roxanneardary.com/edgegateway/)  
-EdgeGateway is an open modular specification for secure edge device onboarding, identity management, lifecycle governance, and zero-trust infrastructure. It provides a vendor-neutral framework for building trusted edge ecosystems through cryptographic identity, policy enforcement, monitoring, and interoperable device management.  
+EdgeGateway is an open modular specification for secure edge device onboarding, identity management, lifecycle governance, and zero-trust infrastructure. It provides a vendor-neutral framework for building trusted edge ecosystems through cryptographic identity, policy enforcement, monitoring, and interoperable device management.
+
+- [**EdgeLens Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/d415c65c27ddfa0af2a03f2a156922e037892bf9/EdgeLens.md)  
+[https://roxanneardary.com/edgelens/](https://roxanneardary.com/edgelens/)   
+EdgeLens is an open specification for privacy-preserving, edge-first computer vision systems that enable secure local processing while supporting scalable deployments from individual devices to enterprise infrastructures. It provides modular vision pipelines, federated learning, verification workflows, and provenance tracking to help organizations improve AI models without exposing sensitive visual data.  
 
 - [**FlexNode Module Specification**](https://github.com/openarsenalspecs/IoT/blob/4e17cf1c6bee7ba9ef9a455caceef93ec310db47/FlexNode.md)    
 [https://roxanneardary.com/flexnode/](https://roxanneardary.com/flexnode/)  
