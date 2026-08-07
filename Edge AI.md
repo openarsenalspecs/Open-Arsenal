@@ -16,7 +16,7 @@ Custos is an AI-powered physical security infrastructure platform built around e
 [https://roxanneardary.com/edgegateway/](https://roxanneardary.com/edgegateway/)  
 EdgeGateway is an open modular specification for secure edge device onboarding, identity management, lifecycle governance, and zero-trust infrastructure. It provides a vendor-neutral framework for building trusted edge ecosystems through cryptographic identity, policy enforcement, monitoring, and interoperable device management.  
 
-- **FlexNode**  
+- [**FlexNode Module Specification**](https://github.com/openarsenalspecs/IoT/blob/4e17cf1c6bee7ba9ef9a455caceef93ec310db47/FlexNode.md)    
 [https://roxanneardary.com/flexnode/](https://roxanneardary.com/flexnode/)  
 FlexNode is an edge computing storage virtualization specification designed for IoT nodes, embedded systems, and distributed edge environments. It provides a unified storage management layer with pluggable backends, automation, monitoring, and local-first infrastructure support for remote and constrained deployments.
 
