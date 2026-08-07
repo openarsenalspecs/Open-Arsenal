@@ -36,7 +36,7 @@ AI tutor delivering personalized, source-verified lessons across all subjects wi
 [https://roxanneardary.com/omniscientia/](https://roxanneardary.com/omniscientia/)  
 OmniScientia is a modular AI framework for scientific discovery that combines adaptive learning, safe experimentation, simulation, and verified research across all fields of science. It empowers learners to explore nature through curiosity, evidence, and AI-guided discovery from microscopic systems to ecosystems and beyond.  
 
-- **OpenCareerForecast**  
+- [**OpenCareerForecast Module Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/004ef1d85130b8e7d81206c9e19822b89387ef89/OpenCareerForecast.md)    
   [https://roxanneardary.com/opencareerforecast/](https://roxanneardary.com/opencareerforecast/)  
   AGPL-3.0+ career intelligence platform analyzing education costs, student debt, ROI, cost of living, wages, industry trends, and future projections. Helps students evaluate colleges, trade schools, apprenticeships, certifications, and career paths.
 
