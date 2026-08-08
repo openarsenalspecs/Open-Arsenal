@@ -8,6 +8,10 @@ All specifications are released under the **GNU Affero General Public License v3
 
 ## Robotics Specs
 
+- [**AeroGrid Specification**](https://github.com/openarsenalspecs/IoT/blob/2377870a21b843e21848a98f8c97155a2ca50009/AeroGrid.md)  
+[https://roxanneardary.com/aerogrid/](https://roxanneardary.com/aerogrid/)  
+An open source, modular AI-powered weather drone platform designed for autonomous atmospheric monitoring, real-time weather data collection, and advanced forecasting through distributed intelligence.
+
 - **AuthorityCore**  
 [https://roxanneardary.com/authoritycore/](https://roxanneardary.com/authoritycore/)  
 A governance and execution specification that establishes policy enforcement, authorization, evidence-based decision making, and controlled autonomous actions for AI agents and robotic systems, ensuring safety, accountability, and human oversight.  
