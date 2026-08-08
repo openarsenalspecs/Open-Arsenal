@@ -40,7 +40,7 @@ A framework for identifying unusual decision patterns, contradictions, policy re
 [https://roxanneardary.com/integritylayer/](https://roxanneardary.com/integritylayer/)  
 An open-source identity integrity infrastructure that verifies real, unique humans through privacy-preserving KYC, liveness detection, and fraud network prevention. It targets identity duplication, synthetic identities, coordinated fraud networks, and abuse of digital systems.
 
-**MedIQ**  
+- **MedIQ**  
 [https://roxanneardary.com/mediq/](https://roxanneardary.com/mediq/)  
 An AI platform for Medicaid-to-Medicare transitions that includes fraud, waste, and abuse detection capabilities. It uses machine learning anomaly detection, audit reporting, and prevention simulations to identify suspicious activity and improve healthcare program integrity.
 
