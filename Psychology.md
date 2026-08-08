@@ -18,7 +18,7 @@ An open-source operating system that incorporates psychological and experiential
 [https://roxanneardary.com/goldenlens/](https://roxanneardary.com/goldenlens/)  
 An open-source AI-powered application that helps users explore thoughts, situations, and emotions through multiple balanced perspectives to reduce mental rigidity, ease emotional stress, and foster clearer, more compassionate thinking. Includes guided reflection, mood tracking, pattern recognition, and supportive reframing with a strong mental health awareness focus.  
 
-- **HerOneiros**  
+- [**HerOneiros Module Specification**](https://gitlab.com/Roxanne_Ardary/heroneiros/-/tree/f243469dc19b26c86a211fe8735274d4c8a2f3e7/)    
 [https://roxanneardary.com/heroneiros/](https://roxanneardary.com/heroneiros/)  
 An open-source, AI-powered specification framework for women-centered inner awareness applications. Supports journaling, dream exploration, emotional analysis, cyclical/lunar awareness, body-mind reflection, relationship intelligence, and an AI communication assistant to improve clarity, emotional context, and intentional self-expression. Emphasizes privacy, emotional intelligence, and reflective practices.  
 
