@@ -18,7 +18,11 @@ A cryptographic audit and termination snapshot system designed for cryptocurrenc
 
 **CommonsTruth**  
 [https://roxanneardary.com/commonstruth/](https://roxanneardary.com/commonstruth/)  
-An anonymous reporting platform for documenting and exposing deceptive advertising and consumer fraud. It provides structured evidence collection, pattern detection, and public transparency dashboards to identify misleading practices and recurring fraud patterns.
+An anonymous reporting platform for documenting and exposing deceptive advertising and consumer fraud. It provides structured evidence collection, pattern detection, and public transparency dashboards to identify misleading practices and recurring fraud patterns.  
+
+- [**ConstitutionTrace Module Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/738476eb5b4da8236be962866c1f3f727103c330/ConstitutionTrace.md)    
+  [https://roxanneardary.com/constitutiontrace/](https://roxanneardary.com/constitutiontrace/)  
+  ConstitutionTrace is an open-source, AI-assisted civic transparency platform that transforms verified court records and citizen testimony into structured, searchable data for analyzing judicial decisions, constitutional issues, and court outcomes.  
 
 **FiscalTruth**  
 [https://roxanneardary.com/fiscaltruth/](https://roxanneardary.com/fiscaltruth/)  
