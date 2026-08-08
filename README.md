@@ -440,6 +440,7 @@ Open-Arsenal-Index/
     - [Agent](https://github.com/openarsenalspecs/Open-Arsenal/blob/846c1af21f0f451a4c6d1edad3eab4f9f5bf7e35/Agent.md)  
     - [Agriculture](https://github.com/openarsenalspecs/Open-Arsenal/blob/6f811ff0a3a1678283d8335cd9131e175e7659db/Agriculture.md)  
     - [AI Retrieval](https://github.com/openarsenalspecs/Open-Arsenal/blob/4c6987d7c06e3882aabe50aa7ae9906ec4036103/AI%20Retrieval.md)
+    - [Anti-Fraud](https://github.com/openarsenalspecs/Open-Arsenal/blob/d7569d730f7c0f5180530f29974ac9c74aac66f3/Anti-Fraud.md)  
     - [CyberSecurity](https://github.com/openarsenalspecs/Open-Arsenal/blob/8b73b6b34052be369fdf0220450d3178e123d23c/Cybersecurity.md)
     - [Edge AI](https://github.com/openarsenalspecs/Open-Arsenal/blob/c7388a6c4961cfcb0a8e0d3224f8ab109e5cdc24/Edge%20AI.md)  
     - [Education](https://github.com/openarsenalspecs/Open-Arsenal/blob/1988118f38cb8bec1f73cda40425100b748b2f80/Education.md)  
