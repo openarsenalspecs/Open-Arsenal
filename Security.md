@@ -31,6 +31,10 @@ An open-source trust-centered cloud storage platform focused on end-to-end encry
 [https://roxanneardary.com/aurea/](https://roxanneardary.com/aurea/)  
 Scans Terraform, Kubernetes, Docker, and Ansible for vulnerabilities, malware, and backdoors while providing automated remediation and self-healing infrastructure.
 
+- [**BockadeAI Module Specification**](https://github.com/openarsenalspecs/Security/blob/2671932fb44887990e5407ceb28ebe05078a7cb9/BlockadeAI.md)
+[https://roxanneardary.com/blockadeai/](https://roxanneardary.com/blockadeai/)  
+AI defense system protecting websites from DoS/DDoS attacks with predictive mitigation.
+
 - **CloudCommons**  
 [https://roxanneardary.com/cloudcommons/](https://roxanneardary.com/cloudcommons/)  
 An open-source, multi-cloud, zero-trust infrastructure platform that combines strong security, AI-driven automation, and a low-code developer experience for managing infrastructure across diverse environments.  It supports public clouds, hybrid, edge, and self-hosted setups with privacy focus.  
