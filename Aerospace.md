@@ -6,7 +6,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 ## Aerospace Specs 
 
-- **AstraForge**  
+- [**AstraForge Module Specification**](https://github.com/openarsenalspecs/IoT/blob/232af676d631a934b1c88721db9d1a7e0cd17d6e/AstraForge.md)   
 [https://roxanneardary.com/astraforge/](https://roxanneardary.com/astraforge/)  
 AstraForge is an open-source mission control and orchestration platform designed to coordinate complex systems, automated workflows, and operational environments. It provides a flexible foundation for building, managing, and scaling autonomous missions through modular tools, intelligent control layers, and interoperable components.
 
