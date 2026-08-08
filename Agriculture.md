@@ -10,14 +10,6 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/beekeepers-guide-to-the-universe/](https://roxanneardary.com/beekeepers-guide-to-the-universe/)  
   Beekeeper’s Guide to the Universe is an AI-powered platform for pollinator ecosystem design and management. It integrates bee biology, habitat engineering, climate modeling, and visual analysis.  
 
-- [**HarvestIQ Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/40e23218268f954a56a0cc5959923c13779864e3/HarvestIQ.md)      
-  [https://roxanneardary.com/harvestiq/](https://roxanneardary.com/harvestiq/)  
-  HarvestIQ is an AI-driven land optimization platform for maximizing property use in farming and sustainability. It combines geospatial analysis, zoning compliance, and simulation for food production and profitability.
-
-- [**Heirloom Haven Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/10111048c6c6a92b7423c292da91796d919baa43/Heirloom%20Haven.md)  
-  [https://roxanneardary.com/heirloom-haven/](https://roxanneardary.com/heirloom-haven/)  
-  Heirloom Haven is an open-source seed exchange platform for preserving heirloom, native, and non-GMO seeds. It enables community sharing, catalogs, and education to support biodiversity.
-
 - [**FarmWeb Intelligence Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/57ef637bb63c89c2ac5f346cbf1531ff4a1cb951/FarmWeb%20Intelligence.md)    
   [https://roxanneardary.com/farmweb-intelligence/](https://roxanneardary.com/farmweb-intelligence/)  
   FarmWeb Intelligence is an open-source platform that maps farms, ownership structures, public funding, and public records. It creates a transparent network revealing connections in agricultural systems and resource distribution.
@@ -26,13 +18,22 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/farmledger/](https://roxanneardary.com/farmledger/)  
   FarmLedger is an open-source platform for farms featuring AI forecasting, inventory management, and direct-to-consumer commerce. It supports pre-orders, livestock, crops, and secure transactions.
 
-- **FoodLab**  
+- [**FoodLab Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/e934ca67eea7edbb17ba392a97309f681674a87c/FoodLab.md)    
+[https://roxanneardary.com/foodlab/](https://roxanneardary.com/foodlab/)  
   [https://roxanneardary.com/foodlab/](https://roxanneardary.com/foodlab/)  
   FoodLab is an open-source transparency database for food brands, chemicals, studies, and legislation. It provides traceable, evidence-based insights into food safety and supply chains.
 
 - [**FoodMesh Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/869793d1b2bb73ed2ac7f171bc3e235b5cc7dd90/FoodMesh.md)  
   [https://roxanneardary.com/foodmesh/](https://roxanneardary.com/foodmesh/)  
-FoodMesh is an open-source, modular logistics specification that connects farmers, carriers, distributors, and communities through a shared transportation network. It provides transparent shipment tracking, multi-farm load coordination, GPS verification, truck-aware routing, and delivery validation to build resilient and decentralized food systems.  
+FoodMesh is an open-source, modular logistics specification that connects farmers, carriers, distributors, and communities through a shared transportation network. It provides transparent shipment tracking, multi-farm load coordination, GPS verification, truck-aware routing, and delivery validation to build resilient and decentralized food systems.
+
+- [**HarvestIQ Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/40e23218268f954a56a0cc5959923c13779864e3/HarvestIQ.md)      
+  [https://roxanneardary.com/harvestiq/](https://roxanneardary.com/harvestiq/)  
+  HarvestIQ is an AI-driven land optimization platform for maximizing property use in farming and sustainability. It combines geospatial analysis, zoning compliance, and simulation for food production and profitability.
+
+- [**Heirloom Haven Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/10111048c6c6a92b7423c292da91796d919baa43/Heirloom%20Haven.md)  
+  [https://roxanneardary.com/heirloom-haven/](https://roxanneardary.com/heirloom-haven/)  
+  Heirloom Haven is an open-source seed exchange platform for preserving heirloom, native, and non-GMO seeds. It enables community sharing, catalogs, and education to support biodiversity.
 
 - [**LocaleMaterials Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/65da0e9a27cd711956ad75aa476484e34db6837b/LocaleMaterials.md)    
   [https://roxanneardary.com/localematerials/](https://roxanneardary.com/localematerials/)  
