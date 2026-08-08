@@ -8,15 +8,15 @@ All specifications are released under the **GNU Affero General Public License v3
 
 ## Anti-Fraud Specs
 
-**ActionCheck**  
+- **ActionCheck**  
 [https://roxanneardary.com/actioncheck/](https://roxanneardary.com/actioncheck/)  
 An open-source civic accountability platform designed to detect inconsistencies between public promises, actions, financial disclosures, voting records, and potential conflicts of interest. It provides transparency tools, evidence tracking, and analysis systems that help identify misleading claims, undisclosed relationships, and accountability failures.
 
-**BalanceSeal**  
+- **BalanceSeal**  
 [https://roxanneardary.com/balanceseal/](https://roxanneardary.com/balanceseal/)  
 A cryptographic audit and termination snapshot system designed for cryptocurrency exchanges and wallets. It creates verifiable final-state balance reports with time-frozen valuations and tamper-evident integrity checks to reduce financial fraud, manipulation, and hidden asset discrepancies.
 
-**CommonsTruth**  
+- **CommonsTruth**  
 [https://roxanneardary.com/commonstruth/](https://roxanneardary.com/commonstruth/)  
 An anonymous reporting platform for documenting and exposing deceptive advertising and consumer fraud. It provides structured evidence collection, pattern detection, and public transparency dashboards to identify misleading practices and recurring fraud patterns.  
 
@@ -24,19 +24,19 @@ An anonymous reporting platform for documenting and exposing deceptive advertisi
   [https://roxanneardary.com/constitutiontrace/](https://roxanneardary.com/constitutiontrace/)  
   ConstitutionTrace is an open-source, AI-assisted civic transparency platform that transforms verified court records and citizen testimony into structured, searchable data for analyzing judicial decisions, constitutional issues, and court outcomes.  
 
-**FiscalTruth**  
+- **FiscalTruth**  
 [https://roxanneardary.com/fiscaltruth/](https://roxanneardary.com/fiscaltruth/)  
 An open-source civic watchdog platform focused on public spending transparency, financial anomaly detection, and whistleblower reporting. It provides tools for identifying waste, fraud, abuse, questionable transactions, and misuse of public resources.
 
-**Financial Transparency**  
+- **Financial Transparency**  
 [https://roxanneardary.com/financial-transparency/](https://roxanneardary.com/financial-transparency/)  
 A financial disclosure analysis framework that tracks assets, stock transactions, real estate interests, lobbying-linked investments, and changes in reported wealth. It helps identify unusual financial patterns, potential conflicts of interest, and suspicious relationships through evidence-based analysis.
 
-**Integrity and Deviation Detection**  
+- **Integrity and Deviation Detection**  
 [https://roxanneardary.com/integrity-and-deviation-detection/](https://roxanneardary.com/integrity-and-deviation-detection/)  
 A framework for identifying unusual decision patterns, contradictions, policy reversals, affiliated-interest relationships, and other accountability signals. It uses structured evidence collection, relationship mapping, audit trails, and explainable detection methods to highlight potential integrity risks.
 
-**IntegrityLayer**  
+- **IntegrityLayer**  
 [https://roxanneardary.com/integritylayer/](https://roxanneardary.com/integritylayer/)  
 An open-source identity integrity infrastructure that verifies real, unique humans through privacy-preserving KYC, liveness detection, and fraud network prevention. It targets identity duplication, synthetic identities, coordinated fraud networks, and abuse of digital systems.
 
@@ -44,47 +44,47 @@ An open-source identity integrity infrastructure that verifies real, unique huma
 [https://roxanneardary.com/mediq/](https://roxanneardary.com/mediq/)  
 An AI platform for Medicaid-to-Medicare transitions that includes fraud, waste, and abuse detection capabilities. It uses machine learning anomaly detection, audit reporting, and prevention simulations to identify suspicious activity and improve healthcare program integrity.
 
-**OpenGrievance**  
+- **OpenGrievance**  
 [https://roxanneardary.com/opengrievance/](https://roxanneardary.com/opengrievance/)  
 A privacy-first consumer complaint and accountability platform designed to identify patterns of corporate misconduct, fraud, deceptive practices, and false advertising. It enables structured reporting, evidence organization, and analysis of recurring consumer harm.
 
-**OpenProperty**  
+- **OpenProperty**  
 [https://roxanneardary.com/openproperty/](https://roxanneardary.com/openproperty/)  
 A real estate transparency platform with fraud prevention tools, disclosure verification, and scam avoidance features. It improves property transaction trust through verifiable information, ownership transparency, and risk detection.
 
-**ProofShield**  
+- **ProofShield**  
 [https://roxanneardary.com/proofshield/](https://roxanneardary.com/proofshield/)  
 An open-source document authenticity and fraud prevention system designed to protect digital and physical documents through certified mirror images, AI manipulation detection, privacy-preserving verification, and hardware-backed security mechanisms.
 
-**PublicLaunch**  
+- **PublicLaunch**  
 [https://roxanneardary.com/publiclaunch/](https://roxanneardary.com/publiclaunch/)  
 An AI-powered market intelligence platform that analyzes market behavior, manipulation risks, public hype cycles, and financial signals. It is designed to identify abnormal patterns and provide transparency into potentially misleading market activity.
 
-**RegistryGuide**  
+- **RegistryGuide**  
 [https://roxanneardary.com/registryguide/](https://roxanneardary.com/registryguide/)  
 A vehicle registration and title transparency platform using AI for fraud detection, compliance monitoring, and verification. It supports fraud prevention through improved record accuracy, ownership validation, and optional blockchain-based auditability.
 
-**ShellScan**  
+- **ShellScan**  
 [https://roxanneardary.com/shellscan/](https://roxanneardary.com/shellscan/)  
 An AI-driven corporate intelligence platform that maps ownership structures, shell companies, and business networks. It detects hidden relationships, opaque corporate structures, and potential fraud risks through entity analysis and relationship mapping.
 
-**ValueGrid**  
+- **ValueGrid**  
 [https://roxanneardary.com/valuegrid/](https://roxanneardary.com/valuegrid/)  
 A property intelligence platform with fraud detection systems for identifying suspicious transactions, ownership inconsistencies, and abnormal property activity. It includes a verifiable National Property Ledger designed to improve real estate transparency and reduce fraud.
 
-**Veridion System**  
+- **Veridion System**  
 [https://roxanneardary.com/veridion-system/](https://roxanneardary.com/veridion-system/)  
 A trusted signal intelligence framework that validates fragmented data through provenance tracking, entity resolution, contradiction testing, confidence scoring, and adversarial analysis. It helps detect manipulated, corrupted, or unreliable information before it influences decisions.
 
-**VerifyRights**  
+- **VerifyRights**  
 [https://roxanneardary.com/verifyrights/](https://roxanneardary.com/verifyrights/)  
 An AI-driven license verification and compliance intelligence specification that monitors commercial license usage, authorized deployments, corporate relationships, and contractual boundaries. It helps detect unauthorized use, licensing violations, and revenue leakage through evidence-based compliance monitoring.
 
-**VINGuard**  
+- **VINGuard**  
 [https://roxanneardary.com/vinguard/](https://roxanneardary.com/vinguard/)  
 A VIN-based vehicle transparency platform with AI-driven fraud detection. It identifies title issues, odometer fraud, hidden damage, ownership inconsistencies, and other vehicle history risks to improve automotive transaction trust.
 
-**Voting Record Analysis**  
+- **Voting Record Analysis**  
 [https://roxanneardary.com/voting-record-analysis/](https://roxanneardary.com/voting-record-analysis/)  
 A transparency framework that analyzes legislative activity through verified public records. It supports fraud-resistant civic reporting by separating documented facts from interpretations and providing source-backed evidence for accountability analysis.
 
