@@ -10,7 +10,11 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 - **AI Chauffeur**  
 [https://roxanneardary.com/aichauffeur/](https://roxanneardary.com/aichauffeur/)  
-An open, modular specification that defines standardized architectures for intelligent vehicle learning, predictive analytics, adaptive optimization, and privacy-first artificial intelligence. It enables interoperable, vendor-neutral AI systems with multi-agent orchestration, local-first processing, and extensible machine learning capabilities for next-generation transportation platforms.  
+An open, modular specification that defines standardized architectures for intelligent vehicle learning, predictive analytics, adaptive optimization, and privacy-first artificial intelligence. It enables interoperable, vendor-neutral AI systems with multi-agent orchestration, local-first processing, and extensible machine learning capabilities for next-generation transportation platforms.
+
+- [**AxonBot Module Specification**](https://github.com/openarsenalspecs/IoT/blob/9a16c7311cf81ffe742eb21c2ea58e5c3cd47370/AxonBot.md)    
+  [https://roxanneardary.com/axonbot/](https://roxanneardary.com/axonbot/)  
+AxonBot is an open-source, end-to-end encrypted robotics and IoT interface that connects and customizes devices, robots, and automation systems for any industry through a modular core and extensible plugins.  
 
 - [**CircuitPath Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/0e1f64a24b23d25a98085693e28a6a3c03823189/CircuitPath.md)    
 [https://www.roxanneardary.com/circuitpath/](https://www.roxanneardary.com/circuitpath/)  
