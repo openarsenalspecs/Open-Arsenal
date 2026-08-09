@@ -38,7 +38,11 @@ Econexus is an AI-driven modular incentive economy engine. It transforms digital
 
 - **EnerAgent**  
 [https://www.roxanneardary.com/eneragent/](https://www.roxanneardary.com/eneragent/)  
-EnerAgent is an open-source AI-driven energy management platform that combines real-time monitoring, predictive analytics, optimization engines, and intelligent automation to improve energy efficiency across industrial, commercial, and distributed energy systems. It features multi-agent AI coordination, digital twins, human-AI collaboration, sustainability intelligence, grid optimization, and strategic decision support to empower organizations with smarter, more resilient energy management.  
+EnerAgent is an open-source AI-driven energy management platform that combines real-time monitoring, predictive analytics, optimization engines, and intelligent automation to improve energy efficiency across industrial, commercial, and distributed energy systems. It features multi-agent AI coordination, digital twins, human-AI collaboration, sustainability intelligence, grid optimization, and strategic decision support to empower organizations with smarter, more resilient energy management.
+
+- [**EvolutionOS Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/b3fe33426ef4d12c38749699e3ddbead4f312ee9/EvolutionOS.md)    
+[https://roxanneardary.com/evolutionos/](https://roxanneardary.com/evolutionos/)  
+A modular, multi-agent economic intelligence platform that evaluates industry viability, models macroeconomic and market conditions, and identifies alternative business opportunities for long-term strategic decision-making.  
 
 - **FieldCell Systems**  
 [https://roxanneardary.com/fieldcellsystems/](https://roxanneardary.com/fieldcellsystems/)  
