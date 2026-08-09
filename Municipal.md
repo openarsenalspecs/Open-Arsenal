@@ -58,10 +58,13 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/govgraph/](https://roxanneardary.com/govgraph/)  
   An open graph of public systems that connects campaign finance disclosures, public institutional data, and social media into a unified transparency and analysis framework.
 
-
 - **KnowledgeContinuum**  
   [https://roxanneardary.com/knowledgecontinuum/](https://roxanneardary.com/knowledgecontinuum/)  
   A temporal knowledge graph framework with entity resolution and versioned data that tracks how fiscal information, budgets, policies, and public records evolve over time while preserving historical context.
+
+- [**NextState Module Specification**](https://github.com/openarsenalspecs/IoT/blob/3a309176151257f42db0567bd1893090b845d043/NextState.md)  
+[https://roxanneardary.com/nextstate/](https://roxanneardary.com/nextstate/)  
+NextState is an open-source AI platform that tracks state resources, public revenues, and potential citizen dividends, giving people transparent tools to understand the value their government creates. It uses AI-powered forecasting, state comparisons, policy simulations, and migration analysis to help citizens make informed financial and family decisions.
 
 - [**VeritasVote Specification**](https://github.com/openarsenalspecs/IoT/blob/2d12c37474cbbe9f700c79e84a3d83b1bebd78d8/VeritasVote.md)    
   [https://roxanneardary.com/veritasvote/](https://roxanneardary.com/veritasvote/)  
