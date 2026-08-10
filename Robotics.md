@@ -20,7 +20,7 @@ A governance and execution specification that establishes policy enforcement, au
   [https://roxanneardary.com/axonbot/](https://roxanneardary.com/axonbot/)  
 AxonBot is an open-source, end-to-end encrypted robotics and IoT interface that connects and customizes devices, robots, and automation systems for any industry through a modular core and extensible plugins.  
 
-- **Custos**  
+- [**Custos Module Specification**](https://github.com/openarsenalspecs/Virtual-Reality/blob/fd2f3c2b8321255f092b71bc39bd82b7de93e280/Custos.md)  
 [https://roxanneardary.com/custos/](https://roxanneardary.com/custos/)  
 An open-source physical security and facility management specification that integrates AI, robotics, sensors, IoT devices, autonomous patrol systems, and digital twins to coordinate monitoring, emergency response, and building automation.
 
