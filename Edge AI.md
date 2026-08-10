@@ -8,7 +8,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 # Edge AI Specs
 
-- **Custos**  
+- [**Custos Module Specification**](https://github.com/openarsenalspecs/Virtual-Reality/blob/fd2f3c2b8321255f092b71bc39bd82b7de93e280/Custos.md)   
 [https://roxanneardary.com/custos/](https://roxanneardary.com/custos/)  
 Custos is an AI-powered physical security infrastructure platform built around edge AI, computer vision, sensors, cameras, and local intelligence processing. It enables privacy-preserving security operations through local video analysis, hardware abstraction, and decentralized deployment models.
 
