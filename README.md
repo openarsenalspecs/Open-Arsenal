@@ -442,6 +442,7 @@ Open-Arsenal-Index/
     - [AI Retrieval](https://github.com/openarsenalspecs/Open-Arsenal/blob/4c6987d7c06e3882aabe50aa7ae9906ec4036103/AI%20Retrieval.md)
     - [Anti-Fraud](https://github.com/openarsenalspecs/Open-Arsenal/blob/d7569d730f7c0f5180530f29974ac9c74aac66f3/Anti-Fraud.md)  
     - [CyberSecurity](https://github.com/openarsenalspecs/Open-Arsenal/blob/8b73b6b34052be369fdf0220450d3178e123d23c/Cybersecurity.md)
+    - [Deterministic Financing](https://github.com/openarsenalspecs/Open-Arsenal/blob/005dac7e80dc6c7f8079530c8f09e29049ceeee3/Deterministic%20Financing.md)  
     - [Edge AI](https://github.com/openarsenalspecs/Open-Arsenal/blob/c7388a6c4961cfcb0a8e0d3224f8ab109e5cdc24/Edge%20AI.md)  
     - [Education](https://github.com/openarsenalspecs/Open-Arsenal/blob/1988118f38cb8bec1f73cda40425100b748b2f80/Education.md)  
     - [Games](https://github.com/openarsenalspecs/Open-Arsenal/blob/bde35251b12caa1957507f0d326146b5e97cbd30/Games.md)
