@@ -20,7 +20,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 [https://roxanneardary.com/futurepathway/](https://roxanneardary.com/futurepathway/)   
 FuturePathway is an open source specification for deterministic education financing that uses average starting salaries to establish predictable loan limits, while AI assists students with career planning, school discovery, and identifying education pathways that fit within their qualifying financing.  
 
-- **Internal Credit**  
+- [**Internal Credit Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/ba27717f6f62602952efa2711629bd77a2e7bb36/Internal%20Credit.md)    
   [https://roxanneardary.com/internal-credit/](https://roxanneardary.com/internal-credit/)  
   A financial financing specification that enables users to borrow against their own savings while continuing to earn returns on deposited capital, creating a structured internal-credit mechanism.
 
