@@ -48,7 +48,7 @@ A transparency specification that records decisions, reasoning paths, sensor inp
 [https://roxanneardary.com/ontologyruntime/](https://roxanneardary.com/ontologyruntime/)  
 A semantic execution specification that transforms structured knowledge and natural language instructions into machine-executable workflows for AI agents, robots, and autonomous industrial systems.
 
-- **OpenLimb**  
+- [**OpenLimb Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/3e1349ff6b109bc5870724ecbb372302eabdef70/OpenLimb.md)  
 [https://roxanneardary.com/openlimb/](https://roxanneardary.com/openlimb/)  
 An open-source robotics specification for modular robotic limbs, prosthetics, wearable robotics, and industrial manipulators, emphasizing interoperability, modular hardware, and extensible software control.
 
