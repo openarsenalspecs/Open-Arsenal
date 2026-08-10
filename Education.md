@@ -28,7 +28,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 [https://roxanneardary.com/mindora/](https://roxanneardary.com/mindora/)  
 AI tutor delivering personalized, source-verified lessons across all subjects with interactive visualizations.  It supports comprehensive learning with verified knowledge.  
 
-- **MotionNet**  
+- [**MotionNet Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/44cf80bf61afbe5be9a62d2dc87bd8730605c945/MotionNet.md)    
   [https://roxanneardary.com/motionnet/](https://roxanneardary.com/motionnet/)  
   AI system for generating real-time ballroom dance choreography from music. Includes instructional breakdowns, visual learning aids, adaptive practice tools, and community-driven learning for dancers of all skill levels.  
 
