@@ -16,7 +16,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/agility-ascension/](https://roxanneardary.com/agility-ascension/)  
   Dog agility training and competition simulation game with progression systems, environmental challenges, distance handling mechanics, and competitive trial experiences.
 
-- **Applied Unknowns**  
+- [**Applied Unknowns Module Specification**](https://github.com/openarsenalspecs/Virtual-Reality/blob/bb540c466bfabe1809ad499656da534c239e01da/Applied%20Unknowns.md)     
   [https://roxanneardary.com/applied-unknowns/](https://roxanneardary.com/applied-unknowns/)  
   Action-adventure scientific sandbox where player actions become validated, permanent infrastructure within a persistent deterministic world.
 
