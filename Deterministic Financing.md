@@ -16,9 +16,9 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/finishline/](https://roxanneardary.com/finishline/)  
   A deterministic debt analysis and optimization specification that evaluates debt instruments, loan terms, interest costs, and prepayment penalties to determine structured paths toward debt repayment.
 
-- **FuturePathway**  
-  [https://roxanneardary.com/futurepathway/](https://roxanneardary.com/futurepathway/)  
-  A deterministic education financing specification that structures education funding and repayment through explicit, predictable financing rules and calculations.
+- [**FuturePathway Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/33a068b6b286352f55e31d9b657e00039348acec/FuturePathway.md)  
+[https://roxanneardary.com/futurepathway/](https://roxanneardary.com/futurepathway/)   
+FuturePathway is an open source specification for deterministic education financing that uses average starting salaries to establish predictable loan limits, while AI assists students with career planning, school discovery, and identifying education pathways that fit within their qualifying financing.  
 
 - **Internal Credit**  
   [https://roxanneardary.com/internal-credit/](https://roxanneardary.com/internal-credit/)  
