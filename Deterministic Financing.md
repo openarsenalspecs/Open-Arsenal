@@ -24,7 +24,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/internal-credit/](https://roxanneardary.com/internal-credit/)  
   A financial financing specification that enables users to borrow against their own savings while continuing to earn returns on deposited capital, creating a structured internal-credit mechanism.
 
-- **JubileeLoan**  
+- [**JubileeLoan Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/b595948a697c98302b58d57efe11e8ee6b98c120/JubileeLoan.md)    
   [https://roxanneardary.com/jubileeloan/](https://roxanneardary.com/jubileeloan/)  
   A deterministic loan financing specification that defines predictable loan terms and repayment calculations, with interest set at 1% of the total loan amount rather than an annual interest rate.
 
