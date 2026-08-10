@@ -24,6 +24,10 @@ CircuitPath employs coordinated diagnostic agents to monitor, analyze, and troub
 [https://www.roxanneardary.com/cnc-companion/](https://www.roxanneardary.com/cnc-companion/)  
 CNC Companion is an open-source multi-agent AI machining tutor that guides apprentice machinists through adaptive lessons, real-time machine assistance, quality inspection, and skill development. It combines specialized AI agents for training, safety, vision analysis, machine operation, and continuous improvement to create an intelligent shop floor learning platform.
 
+- [**CortexCFO Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/01d40aec6a0f6acac295f4f5a85169761b8cbd00/CortexCFO.md)  
+[https://roxanneardary.com/cortexcfo/](https://roxanneardary.com/cortexcfo/)  
+An AGPL-3.0+ locally hosted AI CFO platform that transforms historical financial data into future strategy through expense forecasting, cash flow prediction, financial risk detection, and private AI-powered business intelligence.
+
 - **Crystal Ledger**  
 [https://www.roxanneardary.com/crystal-ledger/](https://www.roxanneardary.com/crystal-ledger/)  
 Crystal Ledger is an open-source custodial financial infrastructure platform built around Bitcoin-first treasury management, immutable accounting, proof-of-reserves, proof-of-liabilities, and cryptographically verifiable transparency. It combines institutional-grade custody, AI-powered risk monitoring, Bitcoin-native identity, and open financial auditing systems to create a secure and accountable foundation for next-generation digital asset infrastructure.  
