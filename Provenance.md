@@ -12,6 +12,10 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/actioncheck/](https://roxanneardary.com/actioncheck/)  
   A verification and accountability specification that links actions to evidence sources, maintains historical records, and provides traceable verification timelines.
 
+- [**ARCA Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/1bd62c4a3f38c869d1554673af09f107f1cb0188/ARCA.md)    
+[https://roxanneardary.com/arca/](https://roxanneardary.com/arca/)  
+ARCA is a per-user provenance and originality ledger that evaluates content novelty, contribution, and authenticity. It assesses relative to a creator’s own history before enabling monetization.  
+
 - **License Guardian Network**  
   [https://roxanneardary.com/license-guardian-network/](https://roxanneardary.com/license-guardian-network/)  
   A semantic licensing and provenance compliance platform that monitors attribution requirements, license relationships, specification usage, and intellectual property compliance.
