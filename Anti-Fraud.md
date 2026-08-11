@@ -68,6 +68,10 @@ A vehicle registration and title transparency platform using AI for fraud detect
 [https://roxanneardary.com/shellscan/](https://roxanneardary.com/shellscan/)  
 An AI-driven corporate intelligence platform that maps ownership structures, shell companies, and business networks. It detects hidden relationships, opaque corporate structures, and potential fraud risks through entity analysis and relationship mapping.
 
+- [**TruthInBilling Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/7ac1f6b8953f8b59e341978beee9b40988def82f/TruthInBilling.md)     
+  [https://roxanneardary.com/truthinbilling/](https://roxanneardary.com/truthinbilling/)   
+  An open-source, privacy-preserving billing transparency platform that verifies and analyzes real-world invoices to detect systemic discrepancies between advertised pricing and actual charges.  
+
 - **ValueGrid**  
 [https://roxanneardary.com/valuegrid/](https://roxanneardary.com/valuegrid/)  
 A property intelligence platform with fraud detection systems for identifying suspicious transactions, ownership inconsistencies, and abnormal property activity. It includes a verifiable National Property Ledger designed to improve real estate transparency and reduce fraud.
