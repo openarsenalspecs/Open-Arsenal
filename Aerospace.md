@@ -18,7 +18,7 @@ AstraForge is an open-source mission control and orchestration platform designed
   [https://roxanneardary.com/flightdynamics/](https://roxanneardary.com/flightdynamics/)  
   FlightDynamics is an open, AI-native specification for modular, local-first launch planning, mission engineering, and orbital operations across the full mission lifecycle. It defines interoperable standards for modeling, simulation, optimization, digital twins, and AI-assisted decision support for satellites to mega-constellations.
 
-- **ForwardState**  
+- [**ForwardState Module Specification**](https://github.com/openarsenalspecs/IoT/blob/b86cc0b628712b04cbd29a58ad2a29e4fc7f3dd3/ForwardState.md)    
 [https://roxanneardary.com/forwardstate/](https://roxanneardary.com/forwardstate/)   
 Predictive cryogenic control software enabling stable, autonomous in-space propellant transfer.
 
