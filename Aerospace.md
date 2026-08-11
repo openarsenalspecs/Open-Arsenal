@@ -42,7 +42,7 @@ LunaSphere is an open AGPL-3.0+ specification for designing, simulating, and dev
   [https://roxanneardary.com/orbitreasoning-core/](https://roxanneardary.com/orbitreasoning-core/)  
   OrbitReasoning Core is an AGPL 3.0+ autonomous AI Network Operations Center for managing complex networks of satellites, spacecraft, and high-altitude systems through simulation-first intelligence. It computes probable outcomes across simulated futures, detects anomalies, and supports governed autonomy with full traceability for orbital operations. 
 
-- **PhaseLock**  
+- [**PhaseLock Module Specifciation**](https://github.com/openarsenalspecs/IoT/blob/ac7856de33e4af168ee84911adf3fa5a26da6439/PhaseLock.md)    
   [https://roxanneardary.com/phaselock/](https://roxanneardary.com/phaselock/)  
   PhaseLock is a Cryogenic Conditioning Loop system designed to enable stable, vapor-free propellant transfer for in-space refueling in microgravity. It actively regulates temperature, pressure, and phase consistency with redundancy and safety features to support reliable reusable spaceflight and orbital infrastructure.  
 
