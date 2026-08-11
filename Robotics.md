@@ -60,7 +60,7 @@ A specification for programmable optical emitter arrays and structured-light sys
 [https://roxanneardary.com/project-synthesismotion/](https://roxanneardary.com/project-synthesismotion/)  
 A robotics motion intelligence specification that combines motion planning, navigation, sensor fusion, adaptive control, and physics-informed movement for autonomous robots and mobile platforms.
 
-- **Trionyx**  
+- [**Trionyx Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/56b8d50e30f971ab8792304a710197b3ed479c71/Trionyx.md)    
 [https://roxanneardary.com/trionyx/](https://roxanneardary.com/trionyx/)  
 A robotic fleet intelligence specification for coordinating multiple autonomous robots through distributed task allocation, scheduling, communication, resource management, and collaborative decision making.
 
