@@ -36,7 +36,7 @@ FuturePathway is an open source specification for deterministic education financ
   [https://roxanneardary.com/nest-intelligence/](https://roxanneardary.com/nest-intelligence/)  
   A home-affordability financing specification that evaluates income, expenses, assets, lifestyle costs, and local costs to establish a structured assessment of what a household can afford.
 
-- **OpenLeverage Lab**  
+- [**OpenLeverage Lab Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/2773ac842373e01e3bc592e9f98f1a54fab2ba62/OpenLeverage%20Lab.md)    
   [https://roxanneardary.com/openleverage-lab/](https://roxanneardary.com/openleverage-lab/)  
   A financial simulation specification for modeling leverage outcomes, margin risk, and portfolio behavior under financial uncertainty.
 
