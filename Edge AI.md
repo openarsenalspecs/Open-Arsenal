@@ -48,9 +48,9 @@ RequestStamp is a self-hosted edge request identity and decision system that ass
 [https://roxanneardary.com/roadcraft/](https://roxanneardary.com/roadcraft/)  
 RoadCraft is an edge AI mobility system designed for motorcycle intelligence, combining sensors, onboard computing, and real-time assistance capabilities. It processes critical information locally to provide faster responses, safety monitoring, and rider-focused intelligence.
 
-- **SynchroFab**  
+- [**SynchroFab Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/7924f72a3e2bf21b82a92270dc1bc6791d1bbf0f/SynchroFab.md)    
 [https://roxanneardary.com/synchrofab/](https://roxanneardary.com/synchrofab/)  
-SynchroFab is an industrial intelligence platform that combines edge computing, IoT, automation, robotics, and AI-driven manufacturing coordination. It enables distributed intelligence across factory environments by connecting machines, sensors, and operational systems.
+SynchroFab is an industrial intelligence platform that combines edge computing, IoT, automation, robotics, and AI-driven manufacturing coordination. It enables distributed intelligence across factory environments by connecting machines, sensors, and operational systems.  
 
 - [**Transitio Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/769af76d8702241de656939cde46511a703b438e/Transitio.md)  
 [https://roxanneardary.com/transitio/](https://roxanneardary.com/transitio/)  
