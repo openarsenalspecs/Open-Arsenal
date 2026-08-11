@@ -32,7 +32,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/branchweb/](https://roxanneardary.com/branchweb/)  
   AI-powered platform that converts Git repositories into interactive websites with browser-based navigation and exploration.
 
-- **BrightlayerBrowser**  
+- [**Brightlayer Browser Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/cc6c27e837643a5a77e2fd32cd650567e9bb16c5/Brightlayer.md)     
   [https://roxanneardary.com/brightlayerbrowser/](https://roxanneardary.com/brightlayerbrowser/)  
   AI-native, privacy-first open source web browser featuring local AI, stateless browsing, sandboxed execution, end-to-end encryption, and an open source extension ecosystem.
 
