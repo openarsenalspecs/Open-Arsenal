@@ -14,7 +14,7 @@ AstraForge is an open-source mission control and orchestration platform designed
   [https://roxanneardary.com/designflux/](https://roxanneardary.com/designflux/)  
   DesignFlux is an AGPL 3.0+ open-source engineering platform that combines physics-based simulation, AI-assisted design, and manufacturing workflows for advanced thermal, aerospace, and industrial technologies. It includes orbital thermal simulations, collaborative tools, manufacturability analysis, and extensible modules for developing aerospace systems from concept to production.
 
-- **FlightDynamics**  
+- [**FlightDynamics Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/82e1fffe0b8e30de5cdbfb6c943303586fc3d3b2/FlightDynamics.md)    
   [https://roxanneardary.com/flightdynamics/](https://roxanneardary.com/flightdynamics/)  
   FlightDynamics is an open, AI-native specification for modular, local-first launch planning, mission engineering, and orbital operations across the full mission lifecycle. It defines interoperable standards for modeling, simulation, optimization, digital twins, and AI-assisted decision support for satellites to mega-constellations.
 
