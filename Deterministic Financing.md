@@ -60,7 +60,7 @@ FuturePathway is an open source specification for deterministic education financ
   [https://roxanneardary.com/solvra/](https://roxanneardary.com/solvra/)  
   A deterministic loan amortization specification that models loans using a capped-interest system and evenly distributed payments across the full repayment term.
 
-- **Vantor**  
+- [**Vantor Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/cd7a95c507b763e3e3e681226ab74f9ab7fd1b33/Vantor.md)    
   [https://roxanneardary.com/vantor/](https://roxanneardary.com/vantor/)  
   A deterministic capital-routing specification that converts explicit financial intent into structured, rule-validated execution instructions for controlled movement of capital.
 
