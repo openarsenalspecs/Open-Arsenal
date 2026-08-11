@@ -64,7 +64,7 @@ An AI-powered market intelligence platform that analyzes market behavior, manipu
 [https://roxanneardary.com/registryguide/](https://roxanneardary.com/registryguide/)  
 A vehicle registration and title transparency platform using AI for fraud detection, compliance monitoring, and verification. It supports fraud prevention through improved record accuracy, ownership validation, and optional blockchain-based auditability.
 
-- **ShellScan**  
+- [**ShellScan Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/a5766e9e427da1d68324ce885342f1c19162eafc/ShellScan.md)    
 [https://roxanneardary.com/shellscan/](https://roxanneardary.com/shellscan/)  
 An AI-driven corporate intelligence platform that maps ownership structures, shell companies, and business networks. It detects hidden relationships, opaque corporate structures, and potential fraud risks through entity analysis and relationship mapping.
 
