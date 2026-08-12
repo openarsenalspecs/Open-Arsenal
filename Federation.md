@@ -76,7 +76,7 @@ A modular encrypted API integration layer designed to connect multiple services 
 [https://roxanneardary.com/power-transparency-network/](https://roxanneardary.com/power-transparency-network/)  
 An open-source energy intelligence platform analyzing energy ownership, infrastructure, markets, and dependency. It supports distributed transparency networks where multiple stakeholders contribute information into shared systems.
 
-**SharedRail**  
+- [**SharedRail Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/2691f53a5db27bff81ef8440f5a60f6a71b5bfd9/SharedRail.md)    
 [https://roxanneardary.com/sharedrail/](https://roxanneardary.com/sharedrail/)  
 A federated financial infrastructure network that allows independent institutions, cooperatives, and operators to deploy interoperable payment nodes. SharedRail creates a global payment layer without requiring a single centralized payment provider.
 
