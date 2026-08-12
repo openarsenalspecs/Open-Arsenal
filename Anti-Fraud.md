@@ -12,7 +12,7 @@ All specifications are released under the **GNU Affero General Public License v3
 [https://roxanneardary.com/actioncheck/](https://roxanneardary.com/actioncheck/)  
 An open-source civic accountability platform designed to detect inconsistencies between public promises, actions, financial disclosures, voting records, and potential conflicts of interest. It provides transparency tools, evidence tracking, and analysis systems that help identify misleading claims, undisclosed relationships, and accountability failures.
 
-- **BalanceSeal**  
+- [**BalanceSeal Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/892723f5e4258be0f7ca63c35bc666b2285cd04f/BalanceSeal.md)    
 [https://roxanneardary.com/balanceseal/](https://roxanneardary.com/balanceseal/)  
 A cryptographic audit and termination snapshot system designed for cryptocurrency exchanges and wallets. It creates verifiable final-state balance reports with time-frozen valuations and tamper-evident integrity checks to reduce financial fraud, manipulation, and hidden asset discrepancies.
 
