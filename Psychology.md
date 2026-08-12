@@ -32,7 +32,11 @@ An open-source platform designed to help users (particularly men) interpret recu
 
 - [**Symbol Atlas Module Specification**](https://github.com/openarsenalspecs/Virtual-Reality/blob/05bb8a6faf29fae05115a724a72937e5cdd015ff/SymbolAtlas.md)  
 [https://roxanneardary.com/symbolatlas/](https://roxanneardary.com/symbolatlas/)
-SymbolAtlas is an open architecture for the human imagination, providing a personalized AI framework for active imagination, symbolic discovery, and reflection based on each individual's unique dream language. It connects inner exploration with knowledge, places, and experiences through intelligent retrieval, mapping, and discovery tools that help users uncover meaningful insights and personal solutions.  
+SymbolAtlas is an open architecture for the human imagination, providing a personalized AI framework for active imagination, symbolic discovery, and reflection based on each individual's unique dream language. It connects inner exploration with knowledge, places, and experiences through intelligent retrieval, mapping, and discovery tools that help users uncover meaningful insights and personal solutions.
+
+- [**The Better Path**](https://github.com/openarsenalspecs/Transparency/blob/1b0f1dc890e451f79c6484ecbb9fb8b6d16e318c/The%20Better%20Path.md)  
+[https://roxanneardary.com/the-better-path/](https://roxanneardary.com/the-better-path/)  
+The Better Path is an open source AI specification that connects the Stations of the Cross with the Hero's Journey to help people reflect on challenges, awaken new possibilities, and choose a meaningful path forward. It transforms reflection into growth, mission, and action while seeking win/win outcomes that advance both individuals and society.  
 
 - [**The Evidence Constitution Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/d61c899180cec523c8ae7fece413c36065910172/The%20Evidence%20Constitution.md)    
 [https://roxanneardary.com/the-evidence-constitution/](https://roxanneardary.com/the-evidence-constitution/)  
