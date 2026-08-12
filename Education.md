@@ -46,7 +46,11 @@ OmniScientia is a modular AI framework for scientific discovery that combines ad
 
 - **StructIQ**  
   [https://roxanneardary.com/structiq/](https://roxanneardary.com/structiq/)  
-  AI-assisted structural engineering platform with education and training modes, digital twins, simulations, and visualization tools. Designed to make engineering education more accessible through guided learning, experimentation, and failure analysis.  
+  AI-assisted structural engineering platform with education and training modes, digital twins, simulations, and visualization tools. Designed to make engineering education more accessible through guided learning, experimentation, and failure analysis.
+
+- [**World Expedition Module Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/e91333c17ca2a293c30abd287c320c57e31d5373/World%20Expedition.md)  
+[https://roxanneardary.com/world-expedition/](https://roxanneardary.com/world-expedition/)  
+World Expedition is an open source higher education specification that uses AI to connect students' academic and career goals with real-world destinations, historical perspectives, professional experiences, and emerging opportunities. Its modular architecture transforms travel and exploration into structured experiential learning through AI-assisted journey planning, firsthand observation, reflection, assessment, and career development.  
 
 ---
 
