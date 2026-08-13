@@ -12,6 +12,10 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/altius-capital-os/](https://roxanneardary.com/altius-capital-os/)  
   A deterministic capital computation specification that transforms tax codes, regulatory rules, and custody constraints into an auditable rules-based engine for calculating and structuring capital.
 
+- **Explorer Captial**  
+[https://roxanneardary.com/explorer-capital/](https://roxanneardary.com/explorer-capital/)  
+Explorer Capital is a deterministic financing specification for participants in an approved World Expedition Program curriculum, offering up to $120,000 at 5% interest with a two-year interest-free delay and six years of equal principal and interest payments. Standard amortization establishes the total interest, while the Explorer Capital model distributes principal and interest equally across payments, with prepayments shortening the term and eliminating associated future interest.  
+
 - **FinishLine**  
   [https://roxanneardary.com/finishline/](https://roxanneardary.com/finishline/)  
   A deterministic debt analysis and optimization specification that evaluates debt instruments, loan terms, interest costs, and prepayment penalties to determine structured paths toward debt repayment.
