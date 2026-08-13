@@ -56,7 +56,7 @@ A modular federated infrastructure platform for sovereign AI, distributed comput
 [https://roxanneardary.com/openenergystack/](https://roxanneardary.com/openenergystack/)  
 A transparent energy infrastructure framework designed around distributed energy systems. OpenEnergyStack supports federated energy networks where communities, utilities, and operators manage independent systems while participating in larger ecosystems.
 
-**OpenSignal**  
+[**OpenSignal Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/c67192bb6e1aefdc97f5034e62d42aa1ae8c568f/OpenSignal.md)    
 [https://roxanneardary.com/opensignal/](https://roxanneardary.com/opensignal/)  
 A secure open-source communication and collaboration platform focused on private communication without centralized platform dependence. It supports self-hosted and interoperable communication environments.
 
