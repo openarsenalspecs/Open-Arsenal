@@ -32,7 +32,7 @@ ARCA is a per-user provenance and originality ledger that evaluates content nove
 [https://roxanneardary.com/originseal/](https://roxanneardary.com/originseal/)  
 OriginSeal is an open-source AGPL 3.0+ provenance infrastructure specification for AI systems, providing MCP-native identity, attribution, and lineage tracking across agents, workflows, and generated content. It creates a trusted foundation for verifiable AI by preserving context origins, transformation history, and ownership throughout the AI lifecycle.. 
 
-- **ProofLayer**  
+- [**ProofLayer Module Specification**](https://github.com/openarsenalspecs/IoT/blob/92480fdea144863b3d58c95fa8053004416771e9/ProofLayer.md)    
   [https://roxanneardary.com/prooflayer/](https://roxanneardary.com/prooflayer/)  
   A verification infrastructure specification focused on evidence collection, audit trails, machine-readable proofs, compliance records, and trust verification.
 
