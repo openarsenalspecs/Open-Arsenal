@@ -36,9 +36,9 @@ A financial disclosure analysis framework that tracks assets, stock transactions
 [https://roxanneardary.com/integrity-and-deviation-detection/](https://roxanneardary.com/integrity-and-deviation-detection/)  
 A framework for identifying unusual decision patterns, contradictions, policy reversals, affiliated-interest relationships, and other accountability signals. It uses structured evidence collection, relationship mapping, audit trails, and explainable detection methods to highlight potential integrity risks.
 
-- **IntegrityLayer**  
+- [**IntegrityLayer Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/cea6f6c2ee67c9c339ea4c3ffd1979ece988c3e4/IntegrityLayer.md)     
 [https://roxanneardary.com/integritylayer/](https://roxanneardary.com/integritylayer/)  
-An open-source identity integrity infrastructure that verifies real, unique humans through privacy-preserving KYC, liveness detection, and fraud network prevention. It targets identity duplication, synthetic identities, coordinated fraud networks, and abuse of digital systems.
+An open-source identity integrity infrastructure that verifies real, unique humans through privacy-preserving KYC, liveness detection, and fraud network prevention. It targets identity duplication, synthetic identities, coordinated fraud networks, and abuse of digital systems.  
 
 - [**MedIQ Module Specficiation**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/111b053e9a673df0354c26ab558b1be50e7c74f1/MedIQ.md)    
 [https://roxanneardary.com/mediq/](https://roxanneardary.com/mediq/)  
