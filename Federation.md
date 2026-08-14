@@ -20,9 +20,9 @@ A federated intelligence infrastructure for autonomous agents, distributed compu
 [https://roxanneardary.com/ecliptic/](https://roxanneardary.com/ecliptic/)  
 A decentralized, encrypted, self-healing web infrastructure system that distributes hosting across peer-to-peer networks instead of centralized servers. Ecliptic creates a resilient alternative web architecture based on distributed ownership.
 
-**FederAI**  
+- [**FederAI Module Specification**](https://github.com/openarsenalspecs/IoT/blob/104aba6186ab9a258d66ff058fa700f03156dbbb/FederAI.md)    
 [https://roxanneardary.com/federai/](https://roxanneardary.com/federai/)  
-A federated AI framework enabling distributed intelligence across everyday devices. FederAI allows AI workloads, models, and capabilities to operate across multiple participating devices instead of depending entirely on centralized AI infrastructure.
+An open-source, ultra-efficient federated AI framework enabling distributed intelligence across everyday devices. It brings AI capabilities to edge and IoT environments.  
 
 - [**FederNet Module Specifcation**](https://github.com/openarsenalspecs/IoT/blob/3beaa2c8873c6f67aac572d472f0c65500328951/FederNet.md)    
   [https://roxanneardary.com/federnet/](https://roxanneardary.com/federnet/)  
