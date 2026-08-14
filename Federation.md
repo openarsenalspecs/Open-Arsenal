@@ -64,7 +64,7 @@ A secure open-source communication and collaboration platform focused on private
 [https://roxanneardary.com/the-open-work-system/](https://roxanneardary.com/the-open-work-system/)  
 An open-source coordination and contribution framework that enables decentralized collaboration across independent individuals, organizations, and communities. It provides transparent contribution tracking, shared funding mechanisms, incentive distribution, governance tools, and interoperable workflows that allow participants to work together without relying on a centralized platform.
 
-**PeopleLayer**  
+- [**PeopleLayer Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/977ee2db99c4a73622ec6555eefb709945624c07/PeopleLayer.md)     
 [https://roxanneardary.com/peoplelayer/](https://roxanneardary.com/peoplelayer/)  
 A self-sovereign identity and portable reputation framework designed for interoperable digital ecosystems. PeopleLayer allows communities and platforms to operate independently while recognizing shared credentials, reputation, and trust relationships.
 
