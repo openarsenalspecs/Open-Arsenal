@@ -21,7 +21,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 [https://roxanneardary.com/glyphworks/](https://roxanneardary.com/glyphworks/)  
 An open-source AI system that translates mission statements and core values into explainable, vector-based logo and identity designs through semantic-to-symbolic generation.  It creates meaningful visual identities from textual foundations.  
 
-- **MindCache**  
+- [**MindCache Module Specification**](https://github.com/openarsenalspecs/IoT/blob/c6521de0b0d62119e0843ff0a2b31f84ac0d394a/MindCache.md)   
 [https://roxanneardary.com/mindcache/](https://roxanneardary.com/mindcache/)  
   Persistent memory platform for AI agents that supports vector databases, embeddings, semantic indexing, and multimodal retrieval to enable long-term knowledge storage and contextual recall.
 
