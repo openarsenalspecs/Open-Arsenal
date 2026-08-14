@@ -24,9 +24,9 @@ A decentralized, encrypted, self-healing web infrastructure system that distribu
 [https://roxanneardary.com/federai/](https://roxanneardary.com/federai/)  
 A federated AI framework enabling distributed intelligence across everyday devices. FederAI allows AI workloads, models, and capabilities to operate across multiple participating devices instead of depending entirely on centralized AI infrastructure.
 
-**FederNet**  
-[https://roxanneardary.com/federnet/](https://roxanneardary.com/federnet/)  
-A decentralized and federated networking framework for encrypted communication between applications and devices. FederNet enables independent nodes to securely communicate while maintaining interoperability across the network.
+- [**FederNet Module Specifcation**](https://github.com/openarsenalspecs/IoT/blob/3beaa2c8873c6f67aac572d472f0c65500328951/FederNet.md)    
+  [https://roxanneardary.com/federnet/](https://roxanneardary.com/federnet/)  
+  An open-source, secure, and decentralized networking framework enabling seamless, end-to-end encrypted communication between apps across devices. It supports private interconnectivity.  
 
 **GameCommons**  
 [https://roxanneardary.com/gamecommons/](https://roxanneardary.com/gamecommons/)  
