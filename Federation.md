@@ -56,7 +56,7 @@ A modular federated infrastructure platform for sovereign AI, distributed comput
 [https://roxanneardary.com/open-commons-dividend/](https://roxanneardary.com/open-commons-dividend/)  
 OpenCommonsDividend is an open-source civic finance platform that identifies verified financial surplus and distributes it equitably through transparent, auditable dividend programs. Built on Fundamenta, it combines AI-assisted auditing, citizen oversight, and human-approved financial decisions with recorded traceability and accountability.  
 
-**OpenEnergyStack**  
+- [**OpenEnergyStack Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/ded4c1cf227f2665146cc3ad1dbecda8833b30ea/OpenEnergyStack.md)  
 [https://roxanneardary.com/openenergystack/](https://roxanneardary.com/openenergystack/)  
 A transparent energy infrastructure framework designed around distributed energy systems. OpenEnergyStack supports federated energy networks where communities, utilities, and operators manage independent systems while participating in larger ecosystems.
 
