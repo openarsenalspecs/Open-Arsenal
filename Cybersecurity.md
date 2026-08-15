@@ -15,7 +15,7 @@ Aurea is an open-source AI-powered security tool designed for infrastructure-as-
   https://roxanneardary.com/authensia/  
 Authensia is an open-source systemic file storage platform focused on immutable verification, cryptographic hashing, and authorship proof. It prioritizes end-to-end encryption, zero-knowledge privacy, and tamper detection for secure, long-term data ownership.
 
-- **CyberChimera**  
+- [**CyberChimera Module Specification**](https://github.com/openarsenalspecs/Security/blob/60e91186bbab58480a8d91109e23ab2f4be5e991/CyberChimera.md)     
   https://roxanneardary.com/cyberchimera/  
 CyberChimera is a next-generation autonomous cybersecurity intelligence platform using multi-agent AI for reconnaissance, vulnerability assessment, exploitation simulation, and reporting. It supports coordinated offensive and defensive operations in secure, sandboxed environments with features like attack mapping, risk scoring, and extensibility.
 
