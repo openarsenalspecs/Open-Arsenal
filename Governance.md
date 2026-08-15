@@ -30,7 +30,7 @@ A human-governed AI orchestration framework that enables transparent reasoning, 
 [https://roxanneardary.com/covenantai/](https://roxanneardary.com/covenantai/)  
 A bounded autonomy AI governance specification focused on human authority, privacy, safety controls, and verifiable AI behavior.
 
-- **FortiMind**  
+- [**FortiMind Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/58df3b82b17f21c4a3ec430521cd16be8d6461be/FortiMind.md)  
 [https://roxanneardary.com/fortimind/](https://roxanneardary.com/fortimind/)  
 An ethical AI decision-support framework designed around secure, transparent, and human-aligned intelligence systems.
 
