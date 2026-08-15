@@ -20,7 +20,7 @@ A governed multi-agent operating system specification that enables AI agents to 
 [https://roxanneardary.com/mindledger/](https://roxanneardary.com/mindledger/)  
 An AI-powered business operating system specification featuring the CipherAI assistant to automate CRM, payroll, billing, compliance, scheduling, inventory, reporting, and business operations through natural language workflows and intelligent process automation.
 
-- [**Ralph Workflow Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/7a71ea76accf1c542356c5acd6befffe137550d3/Ralph%20Workflow.md)    
+- [**Ralph Workflow Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/315bcdb72c9b9d49b3b4843fb0f65bfcc3903589/Ralph%20Workflow.md)      
 [https://roxanneardary.com/ralph-workflow/](https://roxanneardary.com/ralph-workflow/)  
 An unattended AI agent orchestration specification for software development that coordinates developer and reviewer agents through structured execution phases, semantic code search, planning, iterative refinement, automated testing, and commit workflows.
 
