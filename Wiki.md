@@ -21,7 +21,7 @@ All specifications are designed to be adaptable across diverse technical ecosyst
 
 # Wiki Specs:
 
-- [**AgoraTV Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/a2e652671f8e5c6273d9586bf18905d68db7c5f8/AgoraTV.md)    
+- [**AgoraTV Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/d4061cab6b59a99c61c4850ef04c6b40791ea2ce/AgoraTV.md)      
 [https://roxanneardary.com/agoratv/](https://roxanneardary.com/agoratv/)  
 An open-source, democratically owned global broadcasting platform that empowers independent voices through public media infrastructure, multilingual accessibility, and transparent governance.  
 
