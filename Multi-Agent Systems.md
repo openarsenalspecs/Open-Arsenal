@@ -60,7 +60,7 @@ FluxGrid Infrastructure is an open-source wireless EV charging platform that tra
 [https://roxanneardary.com/horizon-framework/](https://roxanneardary.com/horizon-framework/)  
 Horizon Framework is an open, modular AI architecture specification that provides a scalable foundation for building intelligent systems with advanced memory, retrieval, reasoning, verification, and multi-agent capabilities. Designed for any industry and deployment environment, it enables organizations to create adaptable, transparent, and trustworthy AI infrastructure without vendor lock-in.  
 
-- **MachinaCore**  
+- [**MachinaCore Module Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/7e74828f6b785e61970d01c464847021d56fbfc3/MachinaCore.md)    
 [https://www.roxanneardary.com/machinacore/](https://www.roxanneardary.com/machinacore/)  
 MachinaCore is an open-source autonomous engineering intelligence specification that enables software systems to build, test, deploy, and continuously improve through multi-agent collaboration, simulation, knowledge awareness, and self-evolving workflows. Its features include autonomous engineering, configurable intelligence profiles, lineage tracking, digital twins, failure intelligence, compliance systems, and adaptive learning designed to create software that grows over time.
 
