@@ -52,6 +52,10 @@ A self-hostable communication and collaboration platform designed for communitie
 [https://roxanneardary.com/opencluster/](https://roxanneardary.com/opencluster/)  
 A modular federated infrastructure platform for sovereign AI, distributed compute, municipal resilience, and community-owned infrastructure. OpenCluster enables independent infrastructure operators to contribute resources to larger interoperable networks.
 
+[**Open Commons Dividend Module Specification**](- [**Open Commons Dividend Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/aee8ccd0f6e8bfb1b6375077ce4f2e7956f66781/OpenCommonsDividend.md)   
+[https://roxanneardary.com/open-commons-dividend/](https://roxanneardary.com/open-commons-dividend/)  
+OpenCommonsDividend is an open-source civic finance platform that identifies verified financial surplus and distributes it equitably through transparent, auditable dividend programs. Built on Fundamenta, it combines AI-assisted auditing, citizen oversight, and human-approved financial decisions with recorded traceability and accountability.  
+
 **OpenEnergyStack**  
 [https://roxanneardary.com/openenergystack/](https://roxanneardary.com/openenergystack/)  
 A transparent energy infrastructure framework designed around distributed energy systems. OpenEnergyStack supports federated energy networks where communities, utilities, and operators manage independent systems while participating in larger ecosystems.
