@@ -44,7 +44,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/cognitive-orchestration-stack/](https://roxanneardary.com/cognitive-orchestration-stack/)  
   Multi-agent AI architecture that integrates contextual retrieval, persistent memory, and intelligent knowledge search for complex workflows.
 
-- [**CommonGrid Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/fc884113f5c27f08e8d09d6492ee32e62f9044cf/CommonGrid.md)    
+- [**CommonGrid Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/eecc75eca18deccf59e6fd4413cce15d56ac800c/CommonGrid.md)    
   [https://roxanneardary.com/commongrid/](https://roxanneardary.com/commongrid/)  
   Open data retrieval specification that transforms web content into structured, searchable datasets and knowledge repositories.
 
