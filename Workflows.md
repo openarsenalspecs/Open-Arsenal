@@ -16,7 +16,7 @@ An AI operating system specification providing multi-agent orchestration, workfl
 [https://roxanneardary.com/latticeos/](https://roxanneardary.com/latticeos/)  
 A governed multi-agent operating system specification that enables AI agents to execute tasks within deterministic workflows while enforcing human approval, policy controls, audit logging, memory management, and secure execution.
 
-- [**MindLedger Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/a12e5187bb64c5cec5e571be9482530b0aa49dcf/MindLedger.md)    
+- [**MindLedger Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/985215225061ae386c9111aa4721efba415148a0/MindLedger.md)     
 [https://roxanneardary.com/mindledger/](https://roxanneardary.com/mindledger/)  
 An AI-powered business operating system specification featuring the CipherAI assistant to automate CRM, payroll, billing, compliance, scheduling, inventory, reporting, and business operations through natural language workflows and intelligent process automation.
 
