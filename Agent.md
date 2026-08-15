@@ -44,7 +44,7 @@ An AI execution runtime designed for scalable inference, multimodal workloads, a
 [https://roxanneardary.com/latticeos/](https://roxanneardary.com/latticeos/)  
 An AI system architecture designed around connected intelligence components, knowledge management, memory, and contextual reasoning for adaptive agent environments.
 
-- **MachinaCore**  
+- [**MachinaCore Module Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/7e74828f6b785e61970d01c464847021d56fbfc3/MachinaCore.md)    
 [https://roxanneardary.com/machinacore/](https://roxanneardary.com/machinacore/)  
 A foundational AI infrastructure specification providing core building blocks required for intelligent systems. It supports model execution, modular AI components, reasoning systems, and the underlying architecture needed to power AI agents.
 
