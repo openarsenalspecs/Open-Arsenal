@@ -8,7 +8,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 # Federation Specs
 
-**CommonGrid**  
+- [**CommonGrid Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/eecc75eca18deccf59e6fd4413cce15d56ac800c/CommonGrid.md)    
 [https://roxanneardary.com/commongrid/](https://roxanneardary.com/commongrid/)  
 A decentralized AI-powered data network that transforms web information into structured datasets through a globally distributed network. CommonGrid enables independent contributors to participate in a shared knowledge ecosystem.
 
