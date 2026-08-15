@@ -26,7 +26,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/biofoundry/](https://roxanneardary.com/biofoundry/)   
   An open-source computational biology platform for primer design, genome validation, and CRISPR-aware experimental planning. It enables seamless workflows from DNA sequence input to validated experimental design.  
 
-- [**CommonGrid Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/fc884113f5c27f08e8d09d6492ee32e62f9044cf/CommonGrid.md)    
+- [**CommonGrid Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/eecc75eca18deccf59e6fd4413cce15d56ac800c/CommonGrid.md)    
   [https://roxanneardary.com/commongrid/](https://roxanneardary.com/commongrid/)  
   A scientific data discovery and federation framework for organizing, connecting, and accessing distributed datasets and open research resources. CommonGrid supports collaborative scientific exploration through interoperable knowledge systems.
 
