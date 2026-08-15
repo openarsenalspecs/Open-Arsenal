@@ -44,7 +44,7 @@ An open-source identity integrity infrastructure that verifies real, unique huma
 [https://roxanneardary.com/mediq/](https://roxanneardary.com/mediq/)  
 An AI platform for Medicaid-to-Medicare transitions that includes fraud, waste, and abuse detection capabilities. It uses machine learning anomaly detection, audit reporting, and prevention simulations to identify suspicious activity and improve healthcare program integrity.
 
-- **OpenGrievance**  
+- [**OpenGrievance Module Specification**](https://github.com/openarsenalspecs/Transparency/blob/deccf19a13047daf9c3ebef8e20c82ec16799b5b/OpenGrievance.md)    
 [https://roxanneardary.com/opengrievance/](https://roxanneardary.com/opengrievance/)  
 A privacy-first consumer complaint and accountability platform designed to identify patterns of corporate misconduct, fraud, deceptive practices, and false advertising. It enables structured reporting, evidence organization, and analysis of recurring consumer harm.
 
