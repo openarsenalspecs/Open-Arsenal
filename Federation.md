@@ -60,7 +60,7 @@ OpenCommonsDividend is an open-source civic finance platform that identifies ver
 [https://roxanneardary.com/openenergystack/](https://roxanneardary.com/openenergystack/)  
 A transparent energy infrastructure framework designed around distributed energy systems. OpenEnergyStack supports federated energy networks where communities, utilities, and operators manage independent systems while participating in larger ecosystems.
 
-[**OpenSignal Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/c67192bb6e1aefdc97f5034e62d42aa1ae8c568f/OpenSignal.md)    
+- [**OpenSignal Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/38184d4e1a15f59b70214eeb0bc69749fa42089b/OpenSignal.md)    
 [https://roxanneardary.com/opensignal/](https://roxanneardary.com/opensignal/)  
 A secure open-source communication and collaboration platform focused on private communication without centralized platform dependence. It supports self-hosted and interoperable communication environments.
 
