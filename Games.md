@@ -24,7 +24,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/atlas-continuum-system/](https://roxanneardary.com/atlas-continuum-system/)  
   Specification-driven system for compiling persistent narrative worlds with structured storytelling, reusable characters and assets, and integrated physics simulation for interactive experiences.
 
-- [**CineRenderAI Module Specifications**](https://github.com/openarsenalspecs/Simulations/blob/8354792638c20c21656a6885c070e3b9bb35497e/CineRenderAI.md)    
+- [**CineRenderAI Module Specifications**](https://github.com/openarsenalspecs/Simulations/blob/54d12b474bfb8514b4c0f29b1a545a443a3ea7c0/CineRenderAI.md)  
   [https://roxanneardary.com/cinerenderai/](https://roxanneardary.com/cinerenderai/)  
   Open-source real-time neural rendering engine that transforms game visuals into cinematic-quality experiences using AI-enhanced lighting, materials, and temporal stability.
 
