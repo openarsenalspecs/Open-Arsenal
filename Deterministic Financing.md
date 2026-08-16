@@ -52,7 +52,7 @@ FuturePathway is an open source specification for deterministic education financ
   [https://roxanneardary.com/payterrain/](https://roxanneardary.com/payterrain/)  
   A compensation and financial-analysis specification that tracks real wages and cost-of-living adjustments to provide structured calculations for fair compensation.
 
-- **ProofRail**  
+- [**ProofRail Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/415bd6cac1328d615a49464691f205c3d29b960a/ProofRail.md)  
   [https://roxanneardary.com/proofrail/](https://roxanneardary.com/proofrail/)  
   A programmable financial infrastructure specification for real-time, verifiable money movement, using deterministic and auditable rules for financial transactions and settlement.
 
