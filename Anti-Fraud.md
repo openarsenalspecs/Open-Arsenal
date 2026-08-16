@@ -36,7 +36,7 @@ A financial disclosure analysis framework that tracks assets, stock transactions
 [https://roxanneardary.com/integrity-and-deviation-detection/](https://roxanneardary.com/integrity-and-deviation-detection/)  
 A framework for identifying unusual decision patterns, contradictions, policy reversals, affiliated-interest relationships, and other accountability signals. It uses structured evidence collection, relationship mapping, audit trails, and explainable detection methods to highlight potential integrity risks.
 
-- [**IntegrityLayer Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/cea6f6c2ee67c9c339ea4c3ffd1979ece988c3e4/IntegrityLayer.md)     
+- [**IntegrityLayer Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/ff45866984226f53d87f2e19cde7ef35ec10ecc8/IntegrityLayer.md)     
 [https://roxanneardary.com/integritylayer/](https://roxanneardary.com/integritylayer/)  
 An open-source identity integrity infrastructure that verifies real, unique humans through privacy-preserving KYC, liveness detection, and fraud network prevention. It targets identity duplication, synthetic identities, coordinated fraud networks, and abuse of digital systems.  
 
