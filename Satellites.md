@@ -20,7 +20,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/flightdynamics/](https://roxanneardary.com/flightdynamics/)  
   FlightDynamics is an open-source AI-native specification for launch planning, orbital mechanics, and satellite mission operations supporting individual satellites and large satellite constellations. It provides a modular framework for mission planning, deployment, communications, orbital analysis, and lifecycle management of satellite systems.
 
-- [**InfernoWatchAI Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/a0dccebb91cc282d7f24edaf2747897e57262f43/InfernoWatchAI.md)       
+- [**InfernoWatchAI Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/1627bae7585e89adc1d88aa2136c0d87591aa6e9/InfernoWatchAI.md)       
   [https://roxanneardary.com/infernowatchai/](https://roxanneardary.com/infernowatchai/)  
   InfernoWatchAI is an open-source AI wildfire intelligence platform that integrates satellite imagery, weather data, terrain information, and ground-based sensors to detect, monitor, and predict wildfire behavior. It uses satellite-derived observations to provide early warning, fire progression analysis, and decision support for emergency responders and land management agencies.
 
