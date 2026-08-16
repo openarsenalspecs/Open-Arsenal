@@ -125,6 +125,10 @@ An open-source system that transforms RSS feeds into structured, AI-enhanced dis
 [https://roxanneardary.com/neurotext/](https://roxanneardary.com/neurotext/)  
 AI platform turning messaging prompts into code, apps, and projects with multi-platform integration.  It bridges natural communication and development workflows.  
 
+- [**NexusGrid Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/de9f1e719da1b4baf5b07abf26163937b2f97ece/NexusGrid.md)  
+[https://roxanneardary.com/nexusgrid/](https://roxanneardary.com/nexusgrid/)  
+NexusGrid is a modular, provider-neutral telecommunications specification that enables users, devices, vehicles, and edge AI systems to dynamically discover, evaluate, select, and switch between available networks. It supports Wi-Fi, cellular, satellite, mesh, and other connectivity technologies while reducing vendor lock-in and giving users control over network choice, performance, cost, security, and reliability.  
+
 - [**OpenDataLedger Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/f967804d4c045dd9681bad37de2b1281d6618685/OpenDataLedger.md)    
 [https://roxanneardary.com/opendataledger/](https://roxanneardary.com/opendataledger/)  
 An open-source universal encrypted API engine designed to connect, unify, and securely manage data across virtually any system.  It simplifies secure data interoperability.  
