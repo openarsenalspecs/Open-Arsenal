@@ -30,7 +30,7 @@ HelioLink is a modular orbital AI infrastructure system that converts continuous
 [https://roxanneardary.com/libreorbit/](https://roxanneardary.com/libreorbit/)  
 LibreOrbit is an open-source, modular satellite networking operating system designed to connect satellites, ground stations, sensors, and edge devices through open and interoperable space infrastructure. Built with a flexible plugin architecture, LibreOrbit supports satellite communications, mission operations, data exchange, autonomous systems, and future space networks.
 
-- [**LibreSpaceflight Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/dde3c6a10bc526522a93810843b8845203f67fc1/LibreSpaceflight.md)    
+- [**LibreSpaceflight Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/f33b8285df91eec84adb26d6d61a66e7b666b566/LibreSpaceflight.md)   
   [https://roxanneardary.com/librespaceflight/](https://roxanneardary.com/librespaceflight/)  
   LibreSpaceflight is an open-source platform for simulating spacecraft docking, orbital mechanics, mission planning, and autonomous space operations. It makes spaceflight science accessible by integrating realistic physics, spacecraft design with precise mass distribution and thruster configurations, orbital transfers using real astrodynamics, and AI experimentation for docking and navigation.
 
