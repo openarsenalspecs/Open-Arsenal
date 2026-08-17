@@ -48,7 +48,7 @@ An AI platform for Medicaid-to-Medicare transitions that includes fraud, waste, 
 [https://roxanneardary.com/opengrievance/](https://roxanneardary.com/opengrievance/)  
 A privacy-first consumer complaint and accountability platform designed to identify patterns of corporate misconduct, fraud, deceptive practices, and false advertising. It enables structured reporting, evidence organization, and analysis of recurring consumer harm.
 
-- [**OpenProperty Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/c153b71f4626c1550378b4aa8a5d5e9c89a0f5a2/OpenProperty.md)     
+- [**OpenProperty Module Specification**](https://github.com/openarsenalspecs/Real-Estate/blob/67f8ed1197ec0dd9897b85eeb210c865e34bd62a/OpenProperty.md)    
 [https://roxanneardary.com/openproperty/](https://roxanneardary.com/openproperty/)  
 A real estate transparency platform with fraud prevention tools, disclosure verification, and scam avoidance features. It improves property transaction trust through verifiable information, ownership transparency, and risk detection.
 
