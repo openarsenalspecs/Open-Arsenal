@@ -26,7 +26,7 @@ An AI training infrastructure specification designed to support structured model
 [https://roxanneardary.com/latticeos/](https://roxanneardary.com/latticeos/)  
 An AI operating system specification focused on multi-agent orchestration, memory integration, knowledge management, and coordinated intelligent workflows.
 
-- [**MindCache Module Specification**](https://github.com/openarsenalspecs/IoT/blob/c6521de0b0d62119e0843ff0a2b31f84ac0d394a/MindCache.md)   
+- [**MindCache Module Specification**](https://github.com/openarsenalspecs/IoT/blob/286bfb7b518297d415875279b4c29d5885bf9b84/MindCache.md)  
 [https://roxanneardary.com/mindcache/](https://roxanneardary.com/mindcache/)  
 A persistent AI memory specification that enables intelligent systems to retain, organize, and retrieve contextual knowledge to improve future interactions and learning capabilities.
 
