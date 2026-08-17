@@ -64,7 +64,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/licensetrace/](https://roxanneardary.com/licensetrace/)  
   License provenance specification for searching software licenses, attribution records, usage rights, and content lineage.
 
-- [**MindCache Module Specification**](https://github.com/openarsenalspecs/IoT/blob/c6521de0b0d62119e0843ff0a2b31f84ac0d394a/MindCache.md)   
+- - [**MindCache Module Specification**](https://github.com/openarsenalspecs/IoT/blob/286bfb7b518297d415875279b4c29d5885bf9b84/MindCache.md)  
   [https://roxanneardary.com/mindcache/](https://roxanneardary.com/mindcache/)  
   Persistent AI memory specification supporting semantic search, vector retrieval, snippet lookup, and long-term knowledge storage.
 
