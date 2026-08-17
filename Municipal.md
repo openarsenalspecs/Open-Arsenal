@@ -70,6 +70,10 @@ All specifications are released under the GNU Affero General Public License v3.0
 [https://roxanneardary.com/nextstate/](https://roxanneardary.com/nextstate/)  
 NextState is an open-source AI platform that tracks state resources, public revenues, and potential citizen dividends, giving people transparent tools to understand the value their government creates. It uses AI-powered forecasting, state comparisons, policy simulations, and migration analysis to help citizens make informed financial and family decisions.
 
+- [**UrbanLayer Module Specification**](https://github.com/openarsenalspecs/Real-Estate/blob/5df1e04c991cc0b7a021c00e45893a101cef1738/UrbanLayer.md)   
+  [https://roxanneardary.com/urbanlayer/](https://roxanneardary.com/urbanlayer/)  
+  An open-source municipal infrastructure platform for zoning, permitting, GIS analysis, and AI-powered regulatory automation. It supports property development and urban planning.
+
 - [**VeritasVote Specification**](https://github.com/openarsenalspecs/IoT/blob/2d12c37474cbbe9f700c79e84a3d83b1bebd78d8/VeritasVote.md)    
   [https://roxanneardary.com/veritasvote/](https://roxanneardary.com/veritasvote/)  
   VeritasVote is an open-source, modular voting platform that combines secure hardware, transparent software, voter-verifiable paper ballots, and cryptographic auditing to create trustworthy in-person elections. Designed for public verification and community development, it provides a fully auditable alternative to proprietary voting systems with independently reviewable components.
