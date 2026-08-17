@@ -44,7 +44,7 @@ Real-time legal intelligence and retrieval specification that tracks legislative
 [https://roxanneardary.com/licensetrace/](https://roxanneardary.com/licensetrace/)  
 Semantic provenance and knowledge asset retrieval specification for tracking licensing information, content lineage, and attribution histories.
 
-- [**MindCache Module Specification**](https://github.com/openarsenalspecs/IoT/blob/c6521de0b0d62119e0843ff0a2b31f84ac0d394a/MindCache.md)   
+- [**MindCache Module Specification**](https://github.com/openarsenalspecs/IoT/blob/286bfb7b518297d415875279b4c29d5885bf9b84/MindCache.md)  
 [https://roxanneardary.com/mindcache/](https://roxanneardary.com/mindcache/)  
 Persistent multi-agent memory and retrieval specification for long-term state management, snippet retrieval, versioned memory, semantic search, and collaborative intelligence using structured and vector-based retrieval systems.
 
