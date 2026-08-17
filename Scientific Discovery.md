@@ -38,7 +38,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/localematerials/](https://roxanneardary.com/localematerials/)  
   A local materials intelligence specification focused on discovering, cataloging, and analyzing region-specific natural resources such as stone, clay, timber, fibers, minerals, and biological materials. It supports sustainable design, regional manufacturing, and place-based material innovation.
 
-- [**MindCache Module Specification**](https://github.com/openarsenalspecs/IoT/blob/c6521de0b0d62119e0843ff0a2b31f84ac0d394a/MindCache.md)   
+- [**MindCache Module Specification**](https://github.com/openarsenalspecs/IoT/blob/286bfb7b518297d415875279b4c29d5885bf9b84/MindCache.md)  
   [https://roxanneardary.com/mindcache/](https://roxanneardary.com/mindcache/)  
   A persistent knowledge memory system for storing, organizing, and retrieving scientific research knowledge. MindCache supports long-term research continuity, collaborative intelligence, and structured information management.
 
