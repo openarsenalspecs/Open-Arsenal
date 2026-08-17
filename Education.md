@@ -20,7 +20,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/continuum-companion/](https://roxanneardary.com/continuum-companion/)  
   Locally hosted AI wellness and research platform with source-backed educational tools. Integrates knowledge traditions for exploratory learning, research archiving, and reflective wellness education alongside professional guidance.
 
-- [**LibreSpaceflight Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/dde3c6a10bc526522a93810843b8845203f67fc1/LibreSpaceflight.md)    
+- [**LibreSpaceflight Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/f33b8285df91eec84adb26d6d61a66e7b666b566/LibreSpaceflight.md)    
   [https://roxanneardary.com/librespaceflight/](https://roxanneardary.com/librespaceflight/)  
   Open platform for democratizing spaceflight knowledge. Converts aerospace concepts into interactive, testable simulations for active learning, teaching orbital mechanics, robotics, spacecraft systems, and engineering principles.
 
