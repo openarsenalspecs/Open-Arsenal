@@ -14,7 +14,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/farmweb-intelligence/](https://roxanneardary.com/farmweb-intelligence/)  
   FarmWeb Intelligence is an open-source platform that maps farms, ownership structures, public funding, and public records. It creates a transparent network revealing connections in agricultural systems and resource distribution.
 
-- **FarmLedger**  
+- [**FarmLedger Module Specification**](https://github.com/openarsenalspecs/Blockchain/blob/aac6b0f6e362cb631a934431a8f338b450c42478/FarmLedger.md)   
   [https://roxanneardary.com/farmledger/](https://roxanneardary.com/farmledger/)  
   FarmLedger is an open-source platform for farms featuring AI forecasting, inventory management, and direct-to-consumer commerce. It supports pre-orders, livestock, crops, and secure transactions.
 
