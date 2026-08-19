@@ -32,7 +32,7 @@ An engineering specification for designing durable, repairable, and modular hard
 [https://roxanneardary.com/human-decision-specification/](https://roxanneardary.com/human-decision-specification/)  
 A governance specification requiring meaningful human approval and oversight before AI or robotic systems perform high-impact or safety-critical actions, providing accountability and regulatory compliance.
 
-- **IteraMind**  
+- [**IteraMind Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/fafb2297b851fe1526969eeba611d4b797c19da4/IteraMind.md)   
 [https://roxanneardary.com/iteramind/](https://roxanneardary.com/iteramind/)  
 A cognitive architecture specification that provides planning, reasoning, memory, execution, verification, and continuous learning capabilities for autonomous agents and intelligent robotic systems.
 
