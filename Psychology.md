@@ -14,7 +14,7 @@ An open-source AI-powered real estate intelligence platform that includes buyer 
 [https://roxanneardary.com/effortless-os/](https://roxanneardary.com/effortless-os/)  
 An open-source operating system that incorporates psychological and experiential modeling alongside financial logic to support intentional decision-making, reduce unnecessary effort, and design a more reflective way of living.  
 
-- **GoldenLens**  
+- [**GoldenLens Module Specification**](https://github.com/openarsenalspecs/Health/blob/576fbb32c08e5eae53ff961db7d235c357e948ef/GoldenLens.md)  
 [https://roxanneardary.com/goldenlens/](https://roxanneardary.com/goldenlens/)  
 An open-source AI-powered application that helps users explore thoughts, situations, and emotions through multiple balanced perspectives to reduce mental rigidity, ease emotional stress, and foster clearer, more compassionate thinking. Includes guided reflection, mood tracking, pattern recognition, and supportive reframing with a strong mental health awareness focus.  
 
