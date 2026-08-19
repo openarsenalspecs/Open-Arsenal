@@ -116,6 +116,10 @@ Semantic Firewall is a zero-trust privacy layer for AI systems that protects sen
 [https://www.roxanneardary.com/storyweaver/](https://www.roxanneardary.com/storyweaver/)  
 StoryWeaver is an open, modular, and federated AI skill library that allows intelligent agents to discover, share, and execute reusable capabilities through a secure and interoperable ecosystem. Its features include local and cloud deployment options, privacy controls, human-in-the-loop consent, age ratings, customizable themes, skill federation, and a flexible architecture for building next-generation AI systems.
 
+- [**ThoughtBridge Module Specification**](https://github.com/openarsenalspecs/Virtual-Reality/blob/0087fc453e8da1755d6e83b0f1a57789b519c3be/ThoughtBridge.md)  
+(https://roxanneardary.com/thoughtbridge/)(https://roxanneardary.com/thoughtbridge/)  
+ThoughtBridge is a modular, multi-agent AI specification that transforms human ideas into understandable, testable, buildable, and validated products, services, systems, and real-world solutions. It combines diverse perspectives, creative exploration, visual, verbal, and metaphorical understanding, physics-grounded reasoning, industry and trade expertise, product design, testing, validation, and customer-centered development.
+
 - [**ThreadGraph Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/bf232b491e466c7cca276b00875351eb80a0c7d2/ThreadGraph.md)  
 [https://roxanneardary.com/threadgraph/](https://roxanneardary.com/threadgraph/)  
 ThreadGraph is an open-source AGPL-3.0+ modular agent swarm runtime that transforms complex tasks into graph-structured execution workflows using coordinated agents, tools, and memory systems. Built for scalability and extensibility, it enables parallel reasoning, observable execution, and composable AI systems through a flexible plugin-based architecture.  
