@@ -89,7 +89,7 @@ An AI-powered cocktail and mocktail companion that manages your inventory, creat
 [https://roxanneardary.com/glyphworks/](https://roxanneardary.com/glyphworks/)  
 An open-source AI system that translates mission statements and core values into explainable, vector-based logo and identity designs through semantic-to-symbolic generation.  It creates meaningful visual identities from textual foundations.  
 
-- [**Inspectra Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/63a2b8e9a7e593e2e8d259b161a2d5effaacc74e/Inspectra.md)    
+- [**Inspectra Module Specification**](https://github.com/openarsenalspecs/SaaS/blob/b93e83e6e0e47859b87c9cfa71ac6a8a15d39ca7/Inspectra.md)  
 [https://roxanneardary.com/inspectra/](https://roxanneardary.com/inspectra/)  
 An open-source, AI-assisted inspection platform that analyzes images to detect structural defects, risks, and anomalies with precision.  It aids in safety and maintenance assessments through visual intelligence.  
 
