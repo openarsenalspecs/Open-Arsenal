@@ -98,7 +98,7 @@ A secure open-source voting infrastructure designed with modular hardware and so
 [https://roxanneardary.com/verifyrights/](https://roxanneardary.com/verifyrights/)  
 A distributed licensing verification ecosystem designed to track ownership, attribution, authorized deployments, and compliance relationships across networks. VerifyRights enables independent organizations to participate in shared license verification systems.
 
-**YieldGrid**  
+- [**YieldGrid Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/3044ac17ad38861696b7828b7249a8c65758f345/YieldGrid.md)  
 [https://roxanneardary.com/yieldgrid/](https://roxanneardary.com/yieldgrid/)  
 A participation economy framework that supports distributed communities and platforms. YieldGrid enables compatible economic systems where independent groups can share contribution tracking and reward mechanisms.
 
