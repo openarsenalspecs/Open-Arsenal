@@ -72,7 +72,7 @@ An AI-driven corporate intelligence platform that maps ownership structures, she
   [https://roxanneardary.com/truthinbilling/](https://roxanneardary.com/truthinbilling/)   
   An open-source, privacy-preserving billing transparency platform that verifies and analyzes real-world invoices to detect systemic discrepancies between advertised pricing and actual charges.  
 
-- **ValueGrid**  
+- [**ValueGrid Module Specification**](https://github.com/openarsenalspecs/Real-Estate/blob/6c7ba5c701c5378e7f6c60800165a7f6131bee6c/ValueGrid.md)  
 [https://roxanneardary.com/valuegrid/](https://roxanneardary.com/valuegrid/)  
 A property intelligence platform with fraud detection systems for identifying suspicious transactions, ownership inconsistencies, and abnormal property activity. It includes a verifiable National Property Ledger designed to improve real estate transparency and reduce fraud.
 
