@@ -48,6 +48,12 @@ A governed multi-party data sharing platform designed for secure interoperabilit
 [https://roxanneardary.com/meshora/](https://roxanneardary.com/meshora/)  
 A self-hostable communication and collaboration platform designed for communities, teams, and online groups. Meshora supports distributed community networks with federation capabilities, allowing independent communities to operate their own instances while maintaining interoperability.
 
+
+- [**OpenAudia Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/c9d1f9d95f0965bd125e6f87eecf994b81a73c29/OpenAudia.md)  
+  [https://roxanneardary.com/openaudia/](https://roxanneardary.com/openaudia/)   
+  An open-source platform for ebooks, audiobooks, and music streaming that allows creators to upload, share, and discover digital media in a community-driven ecosystem.
+
+
 **OpenCluster**  
 [https://roxanneardary.com/opencluster/](https://roxanneardary.com/opencluster/)  
 A modular federated infrastructure platform for sovereign AI, distributed compute, municipal resilience, and community-owned infrastructure. OpenCluster enables independent infrastructure operators to contribute resources to larger interoperable networks.
@@ -64,10 +70,6 @@ A transparent energy infrastructure framework designed around distributed energy
 [https://roxanneardary.com/opensignal/](https://roxanneardary.com/opensignal/)  
 A secure open-source communication and collaboration platform focused on private communication without centralized platform dependence. It supports self-hosted and interoperable communication environments.
 
-**The Open Work System**  
-[https://roxanneardary.com/the-open-work-system/](https://roxanneardary.com/the-open-work-system/)  
-An open-source coordination and contribution framework that enables decentralized collaboration across independent individuals, organizations, and communities. It provides transparent contribution tracking, shared funding mechanisms, incentive distribution, governance tools, and interoperable workflows that allow participants to work together without relying on a centralized platform.
-
 - [**PeopleLayer Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/6119ec467da4ec01b60975bdfb941d3abbcadb8e/PeopleLayer.md)   
 [https://roxanneardary.com/peoplelayer/](https://roxanneardary.com/peoplelayer/)  
 A self-sovereign identity and portable reputation framework designed for interoperable digital ecosystems. PeopleLayer allows communities and platforms to operate independently while recognizing shared credentials, reputation, and trust relationships.
@@ -83,6 +85,10 @@ An open-source energy intelligence platform analyzing energy ownership, infrastr
 - [**SharedRail Module Specification**](https://github.com/openarsenalspecs/Digital-Finance/blob/2691f53a5db27bff81ef8440f5a60f6a71b5bfd9/SharedRail.md)    
 [https://roxanneardary.com/sharedrail/](https://roxanneardary.com/sharedrail/)  
 A federated financial infrastructure network that allows independent institutions, cooperatives, and operators to deploy interoperable payment nodes. SharedRail creates a global payment layer without requiring a single centralized payment provider.
+
+**The Open Work System**  
+[https://roxanneardary.com/the-open-work-system/](https://roxanneardary.com/the-open-work-system/)  
+An open-source coordination and contribution framework that enables decentralized collaboration across independent individuals, organizations, and communities. It provides transparent contribution tracking, shared funding mechanisms, incentive distribution, governance tools, and interoperable workflows that allow participants to work together without relying on a centralized platform.
 
 **VeritasVote**  
 [https://roxanneardary.com/veritasvote/](https://roxanneardary.com/veritasvote/)  
