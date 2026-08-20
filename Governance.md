@@ -58,7 +58,7 @@ A policy-driven AI governance framework designed to control AI access, actions, 
 [https://roxanneardary.com/latticeos/](https://roxanneardary.com/latticeos/)  
 A governed multi-agent AI operating system that provides structured coordination, human oversight, execution controls, and auditability.
 
-- **NeuraTrust**  
+- [**NeuraTrust Module Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/6978d9413922b1719950b001f647a6772b0bb24f/NeuraTrust.md)    
 [https://roxanneardary.com/neuratrust/](https://roxanneardary.com/neuratrust/)  
 A trustworthy AI governance specification focused on transparent decision-making, safety validation, accountability, and verifiable intelligence systems.
 
