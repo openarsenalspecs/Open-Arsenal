@@ -86,6 +86,10 @@ An open-source energy intelligence platform analyzing energy ownership, infrastr
 [https://roxanneardary.com/sharedrail/](https://roxanneardary.com/sharedrail/)  
 A federated financial infrastructure network that allows independent institutions, cooperatives, and operators to deploy interoperable payment nodes. SharedRail creates a global payment layer without requiring a single centralized payment provider.
 
+- [**Sovereign Module Specification**](https://github.com/openarsenalspecs/IoT/blob/c2ca77d54fd6ccd5df108473d59a0adcaf950792/Sovereign.md)  
+[https://roxanneardary.com/sovereign/](https://roxanneardary.com/sovereign/)  
+Sovereign is an AI specification for transforming dependency-based systems into independent, portable, federated alternatives that prioritize human autonomy, ownership, economic participation, and freedom from vendor lock-in. It provides architectures for independent implementation, reproducibility, right-to-leave, corporate exit, anti-capture governance, economic participation, and certification so people can build, operate, govern, and sustain the systems they depend on.  
+
 **The Open Work System**  
 [https://roxanneardary.com/the-open-work-system/](https://roxanneardary.com/the-open-work-system/)  
 An open-source coordination and contribution framework that enables decentralized collaboration across independent individuals, organizations, and communities. It provides transparent contribution tracking, shared funding mechanisms, incentive distribution, governance tools, and interoperable workflows that allow participants to work together without relying on a centralized platform.
