@@ -64,7 +64,11 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 - [**LeaseTrack Module Specifications**](https://github.com/openarsenalspecs/Real-Estate/blob/7af486b1b5e1478c9c851a87ec21965d53fe132a/LeaseTrack.md)    
   [https://roxanneardary.com/leasetrack/](https://roxanneardary.com/leasetrack/)  
-  An open source AI platform that analyzes U.S. rental markets to identify affordability gaps, ownership patterns, and landlord compliance issues. It focuses on rental market equity and compliance.  
+  An open source AI platform that analyzes U.S. rental markets to identify affordability gaps, ownership patterns, and landlord compliance issues. It focuses on rental market equity and compliance.
+
+- **Municipal Resource Intelligence**  
+[https://roxanneardary.com/municipal-resource-intelligence/](https://roxanneardary.com/municipal-resource-intelligence/)  
+Municipal Resource Intelligence is an open source AI specification designed to help municipalities analyze services, expenditures, personnel, contracts, and procurement to identify measurable savings and more economical delivery models. It provides transparent, auditable recommendations while tracking verified savings, recalculating potential property-tax impacts, and helping communities make informed decisions about public resources.  
 
 - [**NextState Module Specification**](https://github.com/openarsenalspecs/IoT/blob/3a309176151257f42db0567bd1893090b845d043/NextState.md)  
 [https://roxanneardary.com/nextstate/](https://roxanneardary.com/nextstate/)  
