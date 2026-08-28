@@ -74,6 +74,10 @@ Municipal Resource Intelligence is an open source AI specification designed to h
 [https://roxanneardary.com/nextstate/](https://roxanneardary.com/nextstate/)  
 NextState is an open-source AI platform that tracks state resources, public revenues, and potential citizen dividends, giving people transparent tools to understand the value their government creates. It uses AI-powered forecasting, state comparisons, policy simulations, and migration analysis to help citizens make informed financial and family decisions.
 
+- [**Tax Accountability System Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/0e8a050bbbd92f0c016b77282bfd416ab22456cd/Tax%20Accountability%20System.md)    
+[https://roxanneardary.com/tax-accountability-system/](https://roxanneardary.com/tax-accountability-system/)  
+Tax Accountability System is a modular specification for transparent, government-controlled property tax recovery, delinquency, redemption, foreclosure, forfeiture, and property disposition. It provides complete financial accountability and requires eligible excess proceeds to be distributed equally among primary homeowners within the jurisdiction.   
+
 - [**UrbanLayer Module Specification**](https://github.com/openarsenalspecs/Real-Estate/blob/5df1e04c991cc0b7a021c00e45893a101cef1738/UrbanLayer.md)   
   [https://roxanneardary.com/urbanlayer/](https://roxanneardary.com/urbanlayer/)  
   An open-source municipal infrastructure platform for zoning, permitting, GIS analysis, and AI-powered regulatory automation. It supports property development and urban planning.
