@@ -30,6 +30,10 @@ An open-source platform that reinterprets ancient religious, philosophical, and 
 [https://roxanneardary.com/oneiros/](https://roxanneardary.com/oneiros/)  
 An open-source platform designed to help users (particularly men) interpret recurring dreams, especially those involving emotionally significant feminine figures, as symbolic reflections of the subconscious. Uses AI and psychological frameworks to reveal emotional patterns, attachment tendencies, relational readiness, and actionable personal growth insights.
 
+- **PsycheCross**  
+[https://roxanneardary.com/psychecross/](https://roxanneardary.com/psychecross/)  
+PsycheCross is an AI-assisted cognitive framework that uses a symbolic four-direction cross to explore logic, emotion, instinct, and higher awareness. It helps users recognize primitive reactions, expand perspective, integrate competing cognitive influences, and make more conscious decisions toward the highest reasonably achievable outcome.  
+
 - [**Symbol Atlas Module Specification**](https://github.com/openarsenalspecs/Virtual-Reality/blob/05bb8a6faf29fae05115a724a72937e5cdd015ff/SymbolAtlas.md)  
 [https://roxanneardary.com/symbolatlas/](https://roxanneardary.com/symbolatlas/)
 SymbolAtlas is an open architecture for the human imagination, providing a personalized AI framework for active imagination, symbolic discovery, and reflection based on each individual's unique dream language. It connects inner exploration with knowledge, places, and experiences through intelligent retrieval, mapping, and discovery tools that help users uncover meaningful insights and personal solutions.
