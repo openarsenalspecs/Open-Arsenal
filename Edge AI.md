@@ -28,7 +28,7 @@ FlexNode is an edge computing storage virtualization specification designed for 
 [https://roxanneardary.com/fluxcore-mobility/](https://roxanneardary.com/fluxcore-mobility/)  
 FluxCore Mobility is a vehicle edge intelligence platform designed to provide secure, privacy-focused AI processing directly within automotive environments. It supports real-time vehicle analytics, intelligent assistance, and distributed computing closer to where vehicle data is generated.
 
-- **Horizon Runtime**  
+- [**Horizon Runtime Module Specification**](https://github.com/openarsenalspecs/AI-Infrastructure/blob/c80400e9ca6fc49aede8b4b7e6d71c3df94209ee/Horizon%20Runtime.md)      
 [https://roxanneardary.com/horizon-runtime/](https://roxanneardary.com/horizon-runtime/)  
 Horizon Runtime is a universal AI execution runtime designed for local, enterprise, and distributed AI deployments. It supports adaptive inference, reasoning workloads, and scalable execution across environments where AI may operate outside traditional centralized cloud infrastructure.
 
