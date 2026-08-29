@@ -44,9 +44,9 @@ OmniScientia is a modular AI framework for scientific discovery that combines ad
   [https://roxanneardary.com/origintype/](https://roxanneardary.com/origintype/)  
   AI handwriting education platform and tutor teaching print, cursive, signature development, and typography through adaptive lessons, intelligent handwriting analysis, and printable worksheets. Progresses learners from handwriting fundamentals to digital font design.
 
-- **StructIQ**  
-  [https://roxanneardary.com/structiq/](https://roxanneardary.com/structiq/)  
-  AI-assisted structural engineering platform with education and training modes, digital twins, simulations, and visualization tools. Designed to make engineering education more accessible through guided learning, experimentation, and failure analysis.
+- [**StructIQ Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/42737f90ff4582d569c562412f2a98f40c6d9f13/StructIQ.md)  
+[https://roxanneardary.com/structiq/](https://roxanneardary.com/structiq/)   
+  AI-assisted structural engineering platform with education and training modes, digital twins, simulations, and visualization tools. Designed to make engineering education more accessible through guided learning, experimentation, and failure analysis.  
 
 - [**World Expedition Module Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/e91333c17ca2a293c30abd287c320c57e31d5373/World%20Expedition.md)  
 [https://roxanneardary.com/world-expedition/](https://roxanneardary.com/world-expedition/)  
