@@ -159,7 +159,11 @@ The missing layer between code and purpose, providing a governance and infrastru
 
 - [**Keyra Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/2cdada7267708347289c718cd2b22e5c81944e7b/Keyra.md)    
 [https://roxanneardary.com/keyra/](https://roxanneardary.com/keyra/)  
-An open-source, quantum-safe authentication platform that replaces passwords with cryptographic key-based security.  
+An open-source, quantum-safe authentication platform that replaces passwords with cryptographic key-based security.
+
+- [**Knowledge Continuum**](https://github.com/openarsenalspecs/Wiki/blob/f9277b76e385fa24e06625b20d27eb90c377e27f/Knowledge%20Continuum.md)  
+[https://roxanneardary.com/knowledge-continuum/](https://roxanneardary.com/knowledge-continuum/)  
+Knowledge Continuum is an open source modular specification designed to provide a unified framework for building, organizing, managing, sharding, licensing, distributing, and monetizing knowledge bases, datasets, and AI models. It organizes information across sectors, domains, subjects, topics, knowledge levels, datasets, models, shards, and individual assets, allowing knowledge to be managed at both broad and highly granular levels.  
 
 - [**LatticeOS Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/188379d380a767745708ae10f5bb927c46a4cf0e/LatticeOS.md)    
 [https://roxanneardary.com/latticeos/](https://roxanneardary.com/latticeos/)  
