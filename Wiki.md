@@ -161,7 +161,7 @@ The missing layer between code and purpose, providing a governance and infrastru
 [https://roxanneardary.com/keyra/](https://roxanneardary.com/keyra/)  
 An open-source, quantum-safe authentication platform that replaces passwords with cryptographic key-based security.
 
-- [**Knowledge Continuum**](https://github.com/openarsenalspecs/Wiki/blob/f9277b76e385fa24e06625b20d27eb90c377e27f/Knowledge%20Continuum.md)  
+- [**Knowledge Continuum Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/f9277b76e385fa24e06625b20d27eb90c377e27f/Knowledge%20Continuum.md)  
 [https://roxanneardary.com/knowledge-continuum/](https://roxanneardary.com/knowledge-continuum/)  
 Knowledge Continuum is an open source modular specification designed to provide a unified framework for building, organizing, managing, sharding, licensing, distributing, and monetizing knowledge bases, datasets, and AI models. It organizes information across sectors, domains, subjects, topics, knowledge levels, datasets, models, shards, and individual assets, allowing knowledge to be managed at both broad and highly granular levels.  
 
