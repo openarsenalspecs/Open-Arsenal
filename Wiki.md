@@ -313,6 +313,10 @@ A modular AI-driven astronomy intelligence system for the night sky.
 [https://roxanneardary.com/signalnet/](https://roxanneardary.com/signalnet/)  
 An open-source AI system analyzing public claims against actions.
 
+- [**SpecDNA Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/8518b8fb67735743eea1538b65f6f51e1c0d20b8/SpecDNA.md)  
+[https://roxanneardary.com/specdna/](https://roxanneardary.com/specdna/)  
+SpecDNA is a human directed specification framework that enables AI agents to evolve, fork, modify, and extend specifications while preserving provenance, licensing, attribution, and human intent. It provides structured intellectual property risk analysis and auditable transformation tracking to help ensure that AI driven specification evolution remains transparent, traceable, and under human control.  
+
 - [**StoryWeaver Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/ab9e8fe6d83bb0f0431c39301856bd0817a40333/StoryWeaver.md)    
 [https://roxanneardary.com/storyweaver/](https://roxanneardary.com/storyweaver/)  
 StoryWeaver is an open, modular, and federated AI skill library that enables intelligent agents to discover, share, and execute reusable capabilities across local, private, hybrid, and cloud environments. Built with privacy, human-in-the-loop consent, customizable themes, and secure skill management, it provides a flexible foundation for collaborative AI ecosystems. 
