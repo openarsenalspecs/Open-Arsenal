@@ -149,6 +149,10 @@ An open-source thermal infrastructure standard that enables safe recovery of was
 [https://roxanneardary.com/human-decision-specification/](https://roxanneardary.com/human-decision-specification/)  
 A modular open standard for human-guided AI systems that ensures all AI-driven recommendations and actions are validated through explicit human intent and approval.  
 
+- [**HydroForge AI Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/62cb8820cc1562f26111d55f3f90927d95aebd2a/HydroForge%20AI.md)    
+[https://roxanneardary.com/hydroforge-ai/](https://roxanneardary.com/hydroforge-ai/)  
+HydroForge AI is an open specification for generative hydraulic engineering that enables the creation, analysis, simulation, and optimization of water infrastructure designs. It supports gravity-first systems, aqueducts, canals, pipelines, reservoirs, treatment systems, hydraulic networks, and resilient infrastructure while maintaining human oversight and engineering verification.  
+
 - [**InspectHome Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/76cc9785f784eef228d4341a3493b66c530738e0/InspectHome.md)  
 [https://roxanneardary.com/inspecthome/](https://roxanneardary.com/inspecthome/)  
 An open-source, transparency-first real estate platform that requires full property disclosures, verified documentation, and encrypted user data to help people find homes with confidence.  
