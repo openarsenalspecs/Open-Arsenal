@@ -28,17 +28,21 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/cinerenderai/](https://roxanneardary.com/cinerenderai/)  
   Open-source real-time neural rendering engine that transforms game visuals into cinematic-quality experiences using AI-enhanced lighting, materials, and temporal stability.
 
-- [**GameCommons Module Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/a4b553ef7b56913ee733c5b1e50b7c24c2af53ef/GameCommons.md)  
-  [https://roxanneardary.com/gamecommons/](https://roxanneardary.com/gamecommons/)  
-  GameCommons is an open-source, federated multiplayer gaming platform that enables communities to create, host, and connect community-owned game worlds through a modular server ecosystem. It provides shared infrastructure for federation, matchmaking, chat, analytics, funding, rewards, and extensible game modules while allowing independent communities to maintain control of their servers.
-
 - [**Enchanta Module Specification**](https://github.com/openarsenalspecs/Voice/blob/e39a78fc7fea2d52263179dafe81ed3cb65613d1/Enchanta.md)  
   [https://roxanneardary.com/enchanta/](https://roxanneardary.com/enchanta/)  
-  AI-powered adventure creation platform for building characters and magical worlds while directing cinematic PG-13 stories through prompts and Director Mode.  
+  AI-powered adventure creation platform for building characters and magical worlds while directing cinematic PG-13 stories through prompts and Director Mode. 
+
+- [**GameCommons Module Specification**](https://github.com/openarsenalspecs/Civic-Tech/blob/a4b553ef7b56913ee733c5b1e50b7c24c2af53ef/GameCommons.md)  
+  [https://roxanneardary.com/gamecommons/](https://roxanneardary.com/gamecommons/)  
+  GameCommons is an open-source, federated multiplayer gaming platform that enables communities to create, host, and connect community-owned game worlds through a modular server ecosystem. It provides shared infrastructure for federation, matchmaking, chat, analytics, funding, rewards, and extensible game modules while allowing independent communities to maintain control of their servers. 
 
 - [**Infinity Arena Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/0ca58af866ad43706d4a6c3265ed0cfddf874c81/Infinity%20Arena.md)    
   [https://roxanneardary.com/infinity-arena/](https://roxanneardary.com/infinity-arena/)  
   Modular fighting game and combat creation platform featuring customizable fighter pairs, DNA-based evolution, combo editors, synergy systems, and community sharing tools.
+
+- [**LightQuest Specification**](https://github.com/openarsenalspecs/Blockchain/blob/c56ab143e08b15c7b4ab2fd211d785b809cf5599/LightQuest.md)  
+[https://roxanneardary.com/lightquest/](https://roxanneardary.com/lightquest/)  
+LightQuest is a real-world adventure game where players venture beneath the surface, confront Shadow figures, uncover powerful loot, and complete cooperative quests. Persistent worlds, unique digital assets, federated communities, and a player-driven economy create an evolving adventure where exploration and discovery have lasting consequences.  
 
 - [**Lumina Module Specification**](https://github.com/openarsenalspecs/Wiki/blob/f1e0bf613521ef5d6cc33bccb05b91340eadb7b0/Lumina.md)  
   [https://roxanneardary.com/lumina/](https://roxanneardary.com/lumina/)  
@@ -61,6 +65,8 @@ Pelagia is an open, modular specification for creating living ocean worlds throu
 # Specification Branding License (SBL)
 
 Buy the Basket: [https://roxanneardary.com/game-specifications/](https://roxanneardary.com/game-specifications/)
+
+Purchasing a Specification Basket grants the purchaser a perpetual license for attribution-free use of every existing specification included within that category, as well as any additional specifications subsequently added to the category.
 
 ---
 
