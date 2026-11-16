@@ -623,4 +623,8 @@ For full legal details, please refer to the AGPL-3.0+ license and the project's 
 **Open Arsenal Hub**  
 [https://github.com/openarsenalspecs](https://github.com/openarsenalspecs) 
 
+**Catalog**  
+[Open Arsenal]([https://roxanneardary.com/)  
+[Specification Index](https://roxanneardary.com/wp-content/uploads/spec-index/specification-index.html)
+
 <p><img src="https://roxanneardary.com/wp-content/uploads/2026/07/Open-Arsenal-1024x641.png" alt="" class="wp-image-6099"/></p>
