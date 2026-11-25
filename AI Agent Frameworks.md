@@ -24,6 +24,8 @@ All specifications are released under the **GNU Affero General Public License v3
 
 ---
 
+### AI Agent Framework Specs
+
 - **AgentBlocks**  
   [https://roxanneardary.com/agentblocks/](https://roxanneardary.com/agentblocks/)  
   An open-source modular AI experience marketplace for creating, sharing, licensing, and deploying AI interfaces, workflows, personalities, and intelligent applications through open standards and AI-powered tools. It gives an agent framework a marketplace layer for reusable workflows, personalities, and interfaces.
@@ -242,6 +244,6 @@ Please note the following:
 
 For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
 
-**Catalog**
-[Open Arsenal]([https://roxanneardary.com/)
-[Specification Index](https://roxanneardary.com/wp-content/uploads/spec-index/specification-index.html)
+**Catalog**  
+[Open Arsenal]([https://roxanneardary.com/)  
+[Specification Index](https://roxanneardary.com/wp-content/uploads/spec-index/specification-index.html)  
