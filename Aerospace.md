@@ -6,58 +6,77 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 ## Aerospace Specs 
 
-- [**AstraForge Module Specification**](https://github.com/openarsenalspecs/IoT/blob/232af676d631a934b1c88721db9d1a7e0cd17d6e/AstraForge.md)   
-[https://roxanneardary.com/astraforge/](https://roxanneardary.com/astraforge/)  
-AstraForge is an open-source mission control and orchestration platform designed to coordinate complex systems, automated workflows, and operational environments. It provides a flexible foundation for building, managing, and scaling autonomous missions through modular tools, intelligent control layers, and interoperable components.
+- **AeroGrid**  
+  [https://roxanneardary.com/aerogrid/](https://roxanneardary.com/aerogrid/)  
+  AeroGrid is an open source AI-powered weather drone platform using autonomous flight, atmospheric sensors, and real-time forecasting to build a distributed weather intelligence network. It flies autonomous weather drones carrying atmospheric sensors to gather the data its forecasting models use.  
 
-- [**DesignFlux Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/5d5898b172301c4fb4b5303bd14959ab2e795c15/DesignFlux.md)    
+- **AeroMotive**  
+  [https://roxanneardary.com/aeromotive/](https://roxanneardary.com/aeromotive/)  
+  AI-assisted, modular drone engineering and manufacturing platform featuring autonomous flight, digital simulation, hardware development, testing, fleet management, and economic feasibility analysis. The platform covers drone engineering and manufacturing end to end, from design through production and fleet operations.  
+
+- **AstraForge**  
+  [https://roxanneardary.com/astraforge/](https://roxanneardary.com/astraforge/)  
+  AstraForge is an open-source mission control and orchestration platform designed to coordinate complex systems, autonomous operations, and distributed workflows. It provides a scalable foundation for managing missions, automation, telemetry, and intelligent decision-making across connected environments.  
+
+- **CIRRUS GRID**  
+  [https://roxanneardary.com/cirrus-grid/](https://roxanneardary.com/cirrus-grid/)  
+  CIRRUS GRID is a modular atmospheric intelligence network enabling persistent connectivity, autonomous swarm coordination, and distributed edge computing across ground, airborne, and stratospheric layers. It treats airspace as a structured, programmable system, connecting ground infrastructure, autonomous low-altitude aircraft, and stratospheric platforms into a single coordinated ecosystem.  
+
+- **DesignFlux**  
   [https://roxanneardary.com/designflux/](https://roxanneardary.com/designflux/)  
-  DesignFlux is an AGPL 3.0+ open-source engineering platform that combines physics-based simulation, AI-assisted design, and manufacturing workflows for advanced thermal, aerospace, and industrial technologies. It includes orbital thermal simulations, collaborative tools, manufacturability analysis, and extensible modules for developing aerospace systems from concept to production.
+  DesignFlux is an AGPL 3.0+ open-source engineering platform that combines physics-based simulation, AI-assisted design, and manufacturing workflows for advanced thermal, aerospace, and industrial technologies. It includes orbital thermal simulations, collaborative tools, manufacturability analysis, and extensible modules for developing aerospace systems from concept to production.  
 
-- [**FlightDynamics Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/82e1fffe0b8e30de5cdbfb6c943303586fc3d3b2/FlightDynamics.md)    
+- **FlightDynamics**  
   [https://roxanneardary.com/flightdynamics/](https://roxanneardary.com/flightdynamics/)  
-  FlightDynamics is an open, AI-native specification for modular, local-first launch planning, mission engineering, and orbital operations across the full mission lifecycle. It defines interoperable standards for modeling, simulation, optimization, digital twins, and AI-assisted decision support for satellites to mega-constellations.
+  FlightDynamics is an open, AI-native specification for modular, local-first launch planning, mission engineering, and orbital operations across the full mission lifecycle. It defines interoperable standards for modeling, simulation, optimization, digital twins, and AI-assisted decision support for satellites to mega-constellations.  
 
-- [**ForwardState Module Specification**](https://github.com/openarsenalspecs/IoT/blob/b86cc0b628712b04cbd29a58ad2a29e4fc7f3dd3/ForwardState.md)    
-[https://roxanneardary.com/forwardstate/](https://roxanneardary.com/forwardstate/)   
-Predictive cryogenic control software enabling stable, autonomous in-space propellant transfer.
+- **ForwardState**  
+  [https://roxanneardary.com/forwardstate/](https://roxanneardary.com/forwardstate/)  
+  ForwardState is a modular predictive control and state-estimation platform for cryogenic propellant conditioning, transfer, and in-space refueling, working alongside PhaseLock. It continuously evaluates the current and predicted state of a physical system, identifies developing instability, and determines corrective action.  
 
-- [**HelioLink Module Specification**](https://github.com/openarsenalspecs/Virtual-Reality/blob/88b6df213fc58787cb9430a916ac4a0e65872081/HelioLink.md)    
-[https://roxanneardary.com/heliolink/](https://roxanneardary.com/heliolink/)  
-HelioLink is a modular orbital AI infrastructure system that converts continuous solar energy into autonomous, scalable compute beyond Earth’s physical limits. It integrates energy harvesting, radiation-hardened compute, radiative cooling, networking, and self-managing AI layers for space-native data infrastructure.
+- **HelioLink**  
+  [https://roxanneardary.com/heliolink/](https://roxanneardary.com/heliolink/)  
+  Humanity’s First Solar Data Layer, a modular orbital AI infrastructure system that converts continuous solar energy into autonomous, scalable compute beyond Earth’s physical limits.  
 
-- [**LibreOrbit Module Specification**](https://github.com/openarsenalspecs/IoT/blob/3705dcf18f03e8a1c41314227825da4e93aab934/LibreOrbit.md)  
-[https://roxanneardary.com/libreorbit/](https://roxanneardary.com/libreorbit/)  
-LibreOrbit is an open-source, modular satellite networking operating system designed to connect satellites, ground stations, sensors, and edge devices through open and interoperable space infrastructure. Built with a flexible plugin architecture, LibreOrbit supports satellite communications, mission operations, data exchange, autonomous systems, and future space networks.
+- **LAVE**  
+  [https://roxanneardary.com/lave/](https://roxanneardary.com/lave/)  
+  LAVE (Low-Altitude Vehicle Experiment) is an open-source human-scale hover research platform focused on distributed electric thrust, real-time stabilization, and transparent low-altitude flight experimentation, designed to study and measure the physics and control challenges of sub-meter hover systems. It treats vertical lift as an open scientific problem, studying how distributed electric thrust behaves, fails, and stabilizes at sub-meter altitudes.  
 
-- [**LibreSpaceflight Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/f33b8285df91eec84adb26d6d61a66e7b666b566/LibreSpaceflight.md)   
+- **LibreOrbit**  
+  [https://roxanneardary.com/libreorbit/](https://roxanneardary.com/libreorbit/)  
+  LibreOrbit is an open-source, modular satellite networking operating system designed to connect satellites, ground stations, sensors, and edge devices through open and interoperable space infrastructure. Built with a flexible plugin architecture, LibreOrbit enables secure communications, mission operations, data exchange, AI-assisted automation, and the future development of decentralized space networks.  
+
+- **LibreSpaceflight**  
   [https://roxanneardary.com/librespaceflight/](https://roxanneardary.com/librespaceflight/)  
-  LibreSpaceflight is an open-source platform for simulating spacecraft docking, orbital mechanics, mission planning, and autonomous space operations. It makes spaceflight science accessible by integrating realistic physics, spacecraft design with precise mass distribution and thruster configurations, orbital transfers using real astrodynamics, and AI experimentation for docking and navigation.
+  LibreSpaceflight is an open-source platform for simulating spacecraft docking, orbital mechanics, mission planning, and autonomous space operations. It makes spaceflight science accessible by integrating realistic physics, spacecraft design with precise mass distribution and thruster configurations, orbital transfers using real astrodynamics, and AI experimentation for docking and navigation.  
 
-- [**LunaSphere Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/e281cc5712a3439a0a4dba44cc03d22a59cd7348/LunaSphere.md)  
- [https://roxanneardary.com/lunasphere/](https://roxanneardary.com/lunasphere/)  
-LunaSphere is an open AGPL-3.0+ specification for designing, simulating, and developing a self-sustaining lunar civilization through modular systems for habitats, life support, resource generation, manufacturing, and transportation. It provides an engineering framework for transforming the Moon into humanity’s first interplanetary gateway with rocket infrastructure, electromagnetic launch systems, and expansion capabilities beyond Earth.  
-  
-- [**Open Aerial Autonomous Safety System Module Specification**](https://github.com/openarsenalspecs/AI-and-the-Automobile/blob/cb1aaf966d7aca8d8245b823b00f8da239a3e56b/Open%20Aerial%20Autonomous%20Safety%20System.md)    
+- **LunaSphere**  
+  [https://roxanneardary.com/lunasphere/](https://roxanneardary.com/lunasphere/)  
+  An open AGPL-3.0+ specification for designing and simulating the development of a self-sustaining lunar civilization, including habitats, life support systems, resource generation, manufacturing, launch infrastructure, and expansion beyond Earth.  
+
+- **Open Aerial Autonomous Safety System (OAASS)**  
   [https://roxanneardary.com/open-aerial-autonomous-safety-system/](https://roxanneardary.com/open-aerial-autonomous-safety-system/)  
   Open Aerial Autonomous Safety System (OAASS) is a modular open-source autonomy framework combining multi-sensor perception, predictive collision avoidance, and emergency aerial escape capabilities for next-generation vehicle safety. It supports ground-to-air transitions, infrastructure coordination, and transparent development under AGPL-3.0+ for autonomous mobility and airspace safety.  
 
-- [**OrbitReasoning Core Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/4b829efa040d5bdfea0ed36beb3b45158b3888a5/OrbitReasoning%20Core.md)    
+- **OrbitReasoning Core**  
   [https://roxanneardary.com/orbitreasoning-core/](https://roxanneardary.com/orbitreasoning-core/)  
-  OrbitReasoning Core is an AGPL 3.0+ autonomous AI Network Operations Center for managing complex networks of satellites, spacecraft, and high-altitude systems through simulation-first intelligence. It computes probable outcomes across simulated futures, detects anomalies, and supports governed autonomy with full traceability for orbital operations. 
+  OrbitReasoning Core is an AGPL 3.0+ autonomous AI Network Operations Center for managing complex networks of satellites, spacecraft, and high-altitude systems through simulation-first intelligence. It computes probable outcomes across simulated futures, detects anomalies, and supports governed autonomy with full traceability for orbital operations.  
 
-- [**PhaseLock Module Specifciation**](https://github.com/openarsenalspecs/IoT/blob/ac7856de33e4af168ee84911adf3fa5a26da6439/PhaseLock.md)    
+- **PhaseLock**  
   [https://roxanneardary.com/phaselock/](https://roxanneardary.com/phaselock/)  
   PhaseLock is a Cryogenic Conditioning Loop system designed to enable stable, vapor-free propellant transfer for in-space refueling in microgravity. It actively regulates temperature, pressure, and phase consistency with redundancy and safety features to support reliable reusable spaceflight and orbital infrastructure.  
 
-- [**RealityPass Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/fe30237efa4e8c6ba72d65e5beb7f580bbc4798f/RealityPass.md)    
+- **Reality Pass**  
   [https://roxanneardary.com/reality-pass/](https://roxanneardary.com/reality-pass/)  
-  Reality Pass is an open-source, physics-accurate, AI-assisted space simulation platform for designing, testing, and experiencing spacecraft systems before real-world construction. It enforces real physical laws with immersive VR, collaborative multi-role modes, and deterministic simulation of orbital behavior, structural stress, and mission outcomes.
+  Reality Pass is an open-source, physics-accurate, AI-assisted space simulation platform for designing, testing, and experiencing spacecraft systems before real-world construction. It enforces real physical laws with immersive VR, collaborative multi-role modes, and deterministic simulation of orbital behavior, structural stress, and mission outcomes.  
 
-- [**Separation Engine Module Specification**](https://github.com/openarsenalspecs/Simulations/blob/e6938eac8a25b86057233cc584b3d14bd6ae9899/Separation%20Engine.md)    
+- **Saturnet**  
+  [https://roxanneardary.com/saturnet/](https://roxanneardary.com/saturnet/)  
+  Saturnet is a modular AI-driven astronomy intelligence system that turns the night sky into real-time knowledge by identifying stars, planets, satellites, and space stations with live AI narration, anomaly detection, predictive sky modeling, and deep time simulation. It continuously interprets what the user is seeing above them, identifying celestial bodies, satellites, and orbital objects as they move across the sky.  
+
+- **Separation Engine**  
   [https://roxanneardary.com/separationengine/](https://roxanneardary.com/separationengine/)  
   Separation Engine is an open-source AGPL 3.0+ airspace computation platform that uses predictive AI, physics-based trajectory modeling, and real-time environmental analysis to mathematically maintain safe aircraft separation. It builds 4D airspace representations for proactive conflict resolution, supporting aviation, drones, and urban air mobility.  
-
 ---
 
 # Specification Branding License (SBL)
@@ -65,8 +84,6 @@ LunaSphere is an open AGPL-3.0+ specification for designing, simulating, and dev
 Buy the Basket: [https://roxanneardary.com/aerospace-specifications/](https://roxanneardary.com/aerospace-specifications/)
 
 ---
-
-
 
 ## License & Notice Requirements
 
