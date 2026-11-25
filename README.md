@@ -459,6 +459,7 @@ Open-Arsenal-Index/
     - [Agriculture](https://github.com/openarsenalspecs/Open-Arsenal/blob/6f811ff0a3a1678283d8335cd9131e175e7659db/Agriculture.md)
     - [AI Agent Frameworks](https://github.com/openarsenalspecs/Open-Arsenal/blob/81bc71fe199862a1e6fe2c242f185cc959561c28/AI%20Agent%20Frameworks.md)  
     - [AI Retrieval](AI%20Retrieval.md)
+    - [Analytics](https://github.com/openarsenalspecs/Open-Arsenal/blob/4e05674897a3bdcfbe4a397b4a8310dbe24742a9/Analytics.md)  
     - [Anti-Fraud](https://github.com/openarsenalspecs/Open-Arsenal/blob/d7569d730f7c0f5180530f29974ac9c74aac66f3/Anti-Fraud.md)  
     - [CyberSecurity](https://github.com/openarsenalspecs/Open-Arsenal/blob/8b73b6b34052be369fdf0220450d3178e123d23c/Cybersecurity.md)
     - [Deterministic Financing](https://github.com/openarsenalspecs/Open-Arsenal/blob/005dac7e80dc6c7f8079530c8f09e29049ceeee3/Deterministic%20Financing.md)  
