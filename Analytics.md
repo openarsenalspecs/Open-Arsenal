@@ -4,6 +4,8 @@ The Open Arsenal analytics specifications establish a comprehensive, modular fou
 
 Across the broader ecosystem, these capabilities support applications involving financial intelligence, government accountability, legislative analysis, healthcare research, environmental monitoring, real estate, education, employment, advertising, and public transparency. By applying specialized analytical methods to industry-specific information, the specifications help identify hidden patterns, financial irregularities, emerging risks, performance trends, and relationships that might otherwise remain difficult to recognize. Privacy, data ownership, transparency, traceability, and evidence-based decision-making remain central considerations. Together, they establish a reusable analytical infrastructure designed to make information more accessible, verifiable, understandable, and actionable while reducing the need for organizations to independently develop the same foundational intelligence capabilities.
 
+All specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)** and may be used free of charge with the required attribution under Section 7 of the license. Organizations that require attribution-free commercial deployment may obtain a **Specification Branding License (SBL)**. Licensing fees are determined based on the specific specification, deployment scope, and the scale of the network or environment in which it is deployed.
+
 ## Analytics Specs
 
 - **AdRelevance**  
