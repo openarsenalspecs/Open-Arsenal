@@ -34,9 +34,13 @@ Econexus is an AI-driven modular incentive economy engine. It transforms digital
 [https://roxanneardary.com/inceptid/](https://roxanneardary.com/inceptid/)  
 InceptID is an open-source AI provenance and authenticity framework. It traces digital media back to its original source and verifies its transformation history across platforms.  
 
+- [**Linkovate Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/9ea38e6421a90eecaa55f954e3b3aee233d4020c/Linkovate.md)  
+[https://roxanneardary.com/linkovate/](https://roxanneardary.com/linkovate/)
+Linkovate is an AI-powered, industry-agnostic innovation and investment matchmaking platform that connects creators, inventors, entrepreneurs, and innovators with investors and strategic partners through intelligent discovery, protected idea submissions, and personalized opportunity matching. Built around creator rights and fair compensation, Linkovate preserves permanent innovator attribution while supporting profit-sharing, licensing, royalties, equity participation, and smart contract-enabled agreements throughout the commercialization process.
+
 - [**ListingStream Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/931746c1b56b93471d1634a93a66a674d83a2a37/ListingStream.md)    
 [https://roxanneardary.com/listingstream/](https://roxanneardary.com/listingstream/)  
-ListingStream is an open source, AGPL-3.0+ licensed visual commerce platform. It uses AI-assisted, human-in-the-loop workflows to create compliant, pixel-preserving product placements in photographs for real estate and other industries.  
+ListingStream is an open source, AGPL-3.0+ licensed visual commerce platform. It uses AI-assisted, human-in-the-loop workflows to create compliant, pixel-preserving product placements in photographs for real estate and other industries.
 
 - [**Open Ad Intelligence Network (OAIN) Module Specification**](https://github.com/openarsenalspecs/Monetization/blob/823204666b4d43a903b77dd4665d75c63f178bf2/Open%20Ad%20Intelligence%20Network.md)    
 [https://roxanneardary.com/open-ad-intelligence-network/](https://roxanneardary.com/open-ad-intelligence-network/)  
