@@ -450,7 +450,13 @@ Open-Arsenal-Index/
     - [Agent](https://github.com/openarsenalspecs/Open-Arsenal/blob/846c1af21f0f451a4c6d1edad3eab4f9f5bf7e35/Agent.md)  
     - [AI Agent Frameworks](https://github.com/openarsenalspecs/Open-Arsenal/blob/81bc71fe199862a1e6fe2c242f185cc959561c28/AI%20Agent%20Frameworks.md)  
     - [AI Retrieval](AI%20Retrieval.md)
-    - [Analytics](https://github.com/openarsenalspecs/Open-Arsenal/blob/4e05674897a3bdcfbe4a397b4a8310dbe24742a9/Analytics.md)  
+    - [Analytics](https://github.com/openarsenalspecs/Open-Arsenal/blob/4e05674897a3bdcfbe4a397b4a8310dbe24742a9/Analytics.md)
+    - [Edge AI](https://github.com/openarsenalspecs/Open-Arsenal/blob/c7388a6c4961cfcb0a8e0d3224f8ab109e5cdc24/Edge%20AI.md)
+    - [Reasoning](https://github.com/openarsenalspecs/Open-Arsenal/blob/900dee708e6ca13917791c6ebfd4ccdc15974f3e/Reasoning.md)
+    - [Search](https://github.com/openarsenalspecs/Open-Arsenal/blob/4adbec1c6e0faf84e8938d17fd46b26857dcf9ce/Search.md)
+    - [Training](https://github.com/openarsenalspecs/Open-Arsenal/blob/4cd574fcbdcef1b0a31aeb196c442486339f594a/Training.md)  
+    - [Vector](https://github.com/openarsenalspecs/Open-Arsenal/blob/84362c30689428657ae4c5a5d0edc2a2de46b79b/Vector.md)
+    - [Workflows](https://github.com/openarsenalspecs/Open-Arsenal/blob/15b181998ab1161a8d3205a7941d862a7e286b8b/Workflows.md)  
 - Shared/
 - Templates/
 - Examples/
@@ -463,7 +469,6 @@ Open-Arsenal-Index/
     - [Anti-Fraud](https://github.com/openarsenalspecs/Open-Arsenal/blob/d7569d730f7c0f5180530f29974ac9c74aac66f3/Anti-Fraud.md)  
     - [CyberSecurity](https://github.com/openarsenalspecs/Open-Arsenal/blob/8b73b6b34052be369fdf0220450d3178e123d23c/Cybersecurity.md)
     - [Deterministic Financing](https://github.com/openarsenalspecs/Open-Arsenal/blob/005dac7e80dc6c7f8079530c8f09e29049ceeee3/Deterministic%20Financing.md)  
-    - [Edge AI](https://github.com/openarsenalspecs/Open-Arsenal/blob/c7388a6c4961cfcb0a8e0d3224f8ab109e5cdc24/Edge%20AI.md)  
     - [Education](https://github.com/openarsenalspecs/Open-Arsenal/blob/1988118f38cb8bec1f73cda40425100b748b2f80/Education.md)  
     - [Games](https://github.com/openarsenalspecs/Open-Arsenal/blob/bde35251b12caa1957507f0d326146b5e97cbd30/Games.md)
     - [Governance](https://github.com/openarsenalspecs/Open-Arsenal/blob/8024470a5ae80eb85afc7289ccfb30ca1e2374d8/Governance.md)  
@@ -473,14 +478,9 @@ Open-Arsenal-Index/
     - [Policy Relationship Analysis](https://github.com/openarsenalspecs/Open-Arsenal/blob/85bf18bdb48c06067d3fedf4949a7f75971ee82b/Policy%20Relationship%20Analysis.md)  
     - [Provenance](https://github.com/openarsenalspecs/Open-Arsenal/blob/d880e6e9eaf9c3335ee6546d7a70685748b61c9d/Provenance.md)  
     - [Psychology](Psychology.md)  
-    - [Reasoning](https://github.com/openarsenalspecs/Open-Arsenal/blob/900dee708e6ca13917791c6ebfd4ccdc15974f3e/Reasoning.md)
     - [Robotics](https://github.com/openarsenalspecs/Open-Arsenal/blob/fc4f6651328fdd12dd362af7ebb795e2526dae1a/Robotics.md)  
     - [Scientific Discovery](https://github.com/openarsenalspecs/Open-Arsenal/blob/c02f61ac152452743f36de39549003f5d132953f/Scientific%20Discovery.md)  
-    - [Search](https://github.com/openarsenalspecs/Open-Arsenal/blob/4adbec1c6e0faf84e8938d17fd46b26857dcf9ce/Search.md)  
     - [Taxation](https://github.com/openarsenalspecs/Open-Arsenal/blob/d59f02fa068dfaadfb63dd58f88debfa179962d7/Taxation.md)
-    - [Training](https://github.com/openarsenalspecs/Open-Arsenal/blob/4cd574fcbdcef1b0a31aeb196c442486339f594a/Training.md)  
-    - [Vector](https://github.com/openarsenalspecs/Open-Arsenal/blob/84362c30689428657ae4c5a5d0edc2a2de46b79b/Vector.md)
-    - [Workflows](https://github.com/openarsenalspecs/Open-Arsenal/blob/15b181998ab1161a8d3205a7941d862a7e286b8b/Workflows.md)  
 
 ---
 
